@@ -128,6 +128,7 @@ projects[] = logintoboggan
 projects[] = mailsystem
 ; projects[] = menu_block
 projects[] = openlayers
+projects[] = panels
 projects[] = pathauto
 projects[] = realname
 projects[] = rules
