@@ -122,7 +122,8 @@ projects[] = htmlmail
 projects[] = i18n
 projects[] = job_scheduler
 projects[] = l10n_client
-projects[] = l10n_update
+projects[l10n_update][type] = "module"
+projects[l10n_update][patch][] = "http://drupal.org/files/pdoexception-1373758-11.patch"
 projects[] = languagefield
 projects[] = libraries
 projects[] = link
@@ -140,8 +141,7 @@ projects[] = taxonomy_csv
 projects[terms_of_use][type] = "module"
 projects[terms_of_use][patch][] = "http://drupal.org/files/terms_of_use-undefined_index_language-1378600.patch"
 projects[] = token
-projects[variable][type] = "module"
-projects[variable][patch][] = "http://drupal.org/files/text_format-1316436-8.patch"
+projects[] = variable
 projects[] = views
 
   
