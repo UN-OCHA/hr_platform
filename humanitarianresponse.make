@@ -40,6 +40,7 @@ projects[custom_pub][type] = "module"
 projects[custom_pub][version] = 1.x-dev
 projects[custom_pub][patch][] = "http://drupal.org/files/custom_pub-features_integration-1424534-4.patch"
 projects[] = date
+projects[] = dhtml_menu
 projects[elfinder][version] = 0.7
 projects[elfinder][type] = "module"
 projects[] = email
