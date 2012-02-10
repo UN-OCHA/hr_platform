@@ -127,6 +127,7 @@ projects[] = l10n_client
 projects[l10n_update][type] = "module"
 projects[l10n_update][patch][] = "http://drupal.org/files/pdoexception-1373758-11.patch"
 projects[] = languagefield
+projects[] = lang_dropdown
 projects[] = libraries
 projects[] = link
 projects[] = logintoboggan
