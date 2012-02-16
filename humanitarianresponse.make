@@ -122,6 +122,7 @@ projects[grupal_user_login][download][url] = "gitosis@viguierjust.com:grupal/gru
 projects[grupal_user_login][download][branch] = "master"
 projects[] = htmlmail
 projects[] = i18n
+projects[] = i18nviews
 projects[] = job_scheduler
 projects[] = l10n_client
 projects[l10n_update][type] = "module"
