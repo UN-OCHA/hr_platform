@@ -28,7 +28,6 @@ projects[drupal][version] = 7
 ; Modules
 ; --------
 projects[] = addressfield
-projects[] = adsense
 projects[] = autoassignrole
 projects[] = better_formats
 projects[] = captcha
