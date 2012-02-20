@@ -32,7 +32,6 @@ projects[] = adsense
 projects[] = autoassignrole
 projects[] = better_formats
 projects[] = captcha
-projects[] = ckeditor
 projects[] = content_access
 projects[] = countries
 projects[] = ctools
@@ -43,8 +42,6 @@ projects[] = date
 projects[dhtml_menu][type] = "module"
 projects[dhtml_menu][version] = 1.x-dev
 projects[dhtml_menu][patch][] = "http://drupal.org/files/collapse_all-1129638-1.patch"
-projects[elfinder][version] = 0.7
-projects[elfinder][type] = "module"
 projects[] = email
 projects[entity][version] = 1.x-dev
 projects[entity][type] = "module"
@@ -132,6 +129,11 @@ projects[] = lang_dropdown
 projects[] = libraries
 projects[] = link
 projects[] = logintoboggan
+projects[] = media
+projects[] = media_bliptv
+projects[] = media_flickr
+projects[] = media_vimeo
+projects[] = media_youtube
 projects[] = mailsystem
 ; projects[] = menu_block
 projects[] = openlayers
@@ -147,6 +149,8 @@ projects[terms_of_use][patch][] = "http://drupal.org/files/terms_of_use-undefine
 projects[] = token
 projects[] = variable
 projects[] = views
+projects[wysiwyg][type] = "module"
+projects[wysiwyg][version] = 2.x-dev
 
   
 
