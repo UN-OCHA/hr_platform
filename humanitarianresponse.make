@@ -74,6 +74,7 @@ projects[grupal_user_login][type] = "module"
 projects[grupal_user_login][download][type] = "git"
 projects[grupal_user_login][download][url] = "gitosis@viguierjust.com:grupal/grupal_user_login.git"
 projects[grupal_user_login][download][branch] = "master"
+projects[] = hierarchical_select
 projects[] = htmlmail
 projects[] = i18n
 projects[] = i18nviews
