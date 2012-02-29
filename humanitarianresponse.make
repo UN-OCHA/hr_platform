@@ -125,6 +125,12 @@ projects[wysiwyg][version] = 2.x-dev
 projects[omega][version] = 3.0
 projects[omega][type] = "theme"
 
+; Libraries
+; ---------
+libraries[SolrPhpClient][type] = "libraries"
+libraries[SolrPhpClient][download][type] = "file"
+libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com/files/SolrPhpClient.r60.2011-05-04.tgz"
+
 ; Profiles
 ; ---------
 projects[humanitarianresponse][type] = "profile"
