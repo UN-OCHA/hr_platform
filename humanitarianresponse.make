@@ -104,6 +104,7 @@ projects[] = openlayers
 projects[] = panels
 projects[] = pathauto
 projects[] = realname
+projects[] = references
 projects[] = rules
 projects[] = search_api
 projects[] = search_api_solr
