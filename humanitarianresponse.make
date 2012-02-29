@@ -95,6 +95,7 @@ projects[] = logintoboggan
 projects[] = media
 projects[] = media_bliptv
 projects[] = media_flickr
+projects[] = media_gallery
 projects[] = media_vimeo
 projects[] = media_youtube
 projects[] = mailsystem
