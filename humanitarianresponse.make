@@ -122,7 +122,7 @@ projects[wysiwyg][version] = 2.x-dev
 
 ; Themes
 ; --------
-projects[omega][version] = 3.0
+projects[omega][version] = 3.1
 projects[omega][type] = "theme"
 
 ; Libraries
