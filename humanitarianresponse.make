@@ -50,6 +50,7 @@ projects[entity][version] = 1.x-dev
 projects[entity][type] = "module"
 projects[] = entityreference
 projects[] = facetapi
+projects[] = facetapi_pretty_paths
 projects[features][type] = "module"
 ;projects[features][patch][] = "http://drupal.org/files/features-1265168-19-roles.patch"
 projects[features_extra][type] = "module"
