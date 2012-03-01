@@ -110,6 +110,7 @@ projects[] = realname
 projects[] = references
 projects[] = rules
 projects[] = search_api
+projects[] = search_api_page
 projects[search_api_solr][type] = "module"
 projects[search_api_solr][version] = 1.x-dev
 projects[] = sharethis
@@ -121,6 +122,7 @@ projects[] = token
 projects[] = variable
 projects[] = views
 projects[] = views_php
+projects[] = views_slideshow
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
 
