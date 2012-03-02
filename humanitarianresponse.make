@@ -107,6 +107,7 @@ projects[] = multiform
 projects[] = openlayers
 projects[] = panels
 projects[] = pathauto
+projects[] = path_alias_xt
 projects[] = realname
 projects[] = references
 projects[] = rules
