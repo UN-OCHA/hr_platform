@@ -98,6 +98,7 @@ projects[] = media_bliptv
 projects[] = media_flickr
 projects[media_gallery][type] = "module"
 projects[media_gallery][version] = 1.x-dev
+projects[media_gallery][patch][] = "http://drupal.org/files/panel_break-1301160-10.patch"
 projects[] = media_vimeo
 projects[] = media_youtube
 projects[] = mailsystem
