@@ -129,5 +129,5 @@ libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com
 ; ---------
 projects[humanitarianresponse][type] = "profile"
 projects[humanitarianresponse][download][type] = "git"
-projects[humanitarianresponse][download][url] = "gitosis@viguierjust.com:humanitarianresponse/profile.git"
+projects[humanitarianresponse][download][url] = "http://git.humanitarianresponse.info/git/emergency_profile.git"
 projects[humanitarianresponse][download][branch] = "master"
