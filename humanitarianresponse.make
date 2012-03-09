@@ -85,6 +85,7 @@ projects[] = media_vimeo
 projects[] = media_youtube
 projects[] = mailsystem
 projects[] = menu_import
+projects[] = menu_token
 projects[] = multiform
 projects[] = openlayers
 projects[] = panels
