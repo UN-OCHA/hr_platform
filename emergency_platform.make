@@ -126,6 +126,7 @@ projects[humanitarianresponse_documents][location] = http://features.humanitaria
 projects[humanitarianresponse_clusters][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_locations][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_emergencies][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_highlight][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_themes][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_organizations][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_events][location] = http://features.humanitarianresponse.info/fserver
@@ -153,16 +154,14 @@ projects[humanitarianresponse_page][location] = http://features.humanitarianresp
 projects[omega][version] = 3.1
 projects[omega][type] = "theme"
 
-projects[humanitarianresponse][type] = "theme"
 projects[humanitarianresponse][location] = http://features.humanitarianresponse.info/fserver
+
+; Profiles
+; ---------
+projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
 
 ; Libraries
 ; ---------
 libraries[SolrPhpClient][type] = "libraries"
 libraries[SolrPhpClient][download][type] = "file"
 libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com/files/SolrPhpClient.r60.2011-05-04.tgz"
-
-; Profiles
-; ---------
-projects[emergency_site][type] = "profile"
-projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
