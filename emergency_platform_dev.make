@@ -1,4 +1,4 @@
-; Makefile for Grupal 
+; Makefile for Emergency Sites Platform 
 ; Core version
 ; ------------
 ; Each makefile should begin by declaring the core version of Drupal that all
