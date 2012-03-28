@@ -110,7 +110,6 @@ projects[] = sharethis
 projects[] = strongarm
 projects[taxonomy_csv][type] = "module"
 projects[taxonomy_csv][version] = 5.x-dev
-projects[taxonomy_csv][patch][] = "http://drupal.org/files/fatal_error-1502856-1.patch"
 projects[terms_of_use][type] = "module"
 projects[terms_of_use][patch][] = "http://drupal.org/files/terms_of_use-undefined_index_language-1378600.patch"
 projects[] = token
