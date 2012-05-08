@@ -65,7 +65,7 @@ projects[] = youtube
 
 ; Themes
 ; --------
-projects[lightjazz][type] = "theme"
+projects[litejazz][type] = "theme"
 
 ; Libraries
 ; ---------
@@ -83,4 +83,4 @@ libraries[jquery.cycle][download][url] = "http://malsup.github.com/jquery.cycle.
 
 libraries[superfish][type] = "libraries"
 libraries[superfish][download][type] = "file"
-libraries[][download][url] = "http://users.tpg.com.au/j_birch/plugins/superfish/superfish-1.4.8.zip"
+libraries[superfish][download][url] = "http://users.tpg.com.au/j_birch/plugins/superfish/superfish-1.4.8.zip"
