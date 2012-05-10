@@ -103,6 +103,7 @@ projects[search_api_solr][type] = "module"
 projects[search_api_solr][version] = 1.x-dev
 projects[] = sharethis
 projects[] = strongarm
+projects[] = superfish
 projects[taxonomy_csv][type] = "module"
 projects[taxonomy_csv][version] = 5.x-dev
 projects[terms_of_use][type] = "module"
@@ -262,6 +263,11 @@ projects[humanitarianresponse][download][branch] = "master"
 libraries[SolrPhpClient][type] = "libraries"
 libraries[SolrPhpClient][download][type] = "file"
 libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com/files/SolrPhpClient.r60.2011-05-04.tgz"
+
+libraries[superfish][type] = "libraries"
+libraries[superfish][download][type] = "git"
+libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
+libraries[superfish][download][branch] = "master"
 
 ; Profiles
 ; ---------
