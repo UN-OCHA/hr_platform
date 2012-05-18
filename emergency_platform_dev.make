@@ -37,6 +37,7 @@ projects[] = cck_select_other
 projects[] = conditional_fields
 projects[] = content_access
 projects[] = context
+projects[] = context_breadcrumb_current_page
 projects[] = ctools
 projects[] = custom_pub
 projects[custom_search][type] = "module"
