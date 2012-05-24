@@ -95,6 +95,7 @@ projects[] = panels
 projects[] = pathauto
 projects[path_alias_xt][type] = "module"
 projects[path_alias_xt][patch][] = "http://drupal.org/files/context_integration-1457348-3.patch"
+projects[] = plupload
 projects[] = realname
 projects[] = references
 projects[] = rules
@@ -175,3 +176,7 @@ libraries[superfish][type] = "libraries"
 libraries[superfish][download][type] = "git"
 libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
 libraries[superfish][download][branch] = "master"
+
+libraries[plupload][type] = "libraries"
+libraries[plupload][download][type] = "file"
+libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
