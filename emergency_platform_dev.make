@@ -34,6 +34,7 @@ projects[] = boxes
 projects[] = calendar
 projects[] = captcha
 projects[] = cck_select_other
+projects[] = colorbox
 projects[] = conditional_fields
 projects[] = content_access
 projects[] = context
@@ -43,12 +44,8 @@ projects[] = custom_pub
 projects[custom_search][type] = "module"
 projects[custom_search][version] = 1.x-dev
 projects[] = date
-projects[] = delta
 projects[devel][type] = "module"
 projects[devel][version] = 1.x-dev
-projects[dhtml_menu][type] = "module"
-projects[dhtml_menu][version] = 1.x-dev
-projects[dhtml_menu][patch][] = "http://drupal.org/files/collapse_all-1129638-1.patch"
 projects[] = email
 projects[entity][type] = "module"
 projects[entity][patch][] = "http://drupal.org/files/1556192-hook_options_list-invocation-1.patch"
@@ -73,7 +70,6 @@ projects[] = l10n_update
 projects[] = languagefield
 projects[] = lang_dropdown
 projects[] = libraries
-projects[] = lightbox2
 projects[] = link
 projects[] = logintoboggan
 projects[] = media
@@ -81,7 +77,7 @@ projects[] = media_bliptv
 projects[] = media_flickr
 projects[media_gallery][type] = "module"
 projects[media_gallery][version] = 1.x-dev
-projects[media_gallery][patch][] = "http://drupal.org/files/panel_break-1301160-10.patch"
+projects[media_gallery][patch][] = "http://drupal.org/files/1333674-conflicts-16.patch"
 projects[] = media_responsive
 projects[] = media_vimeo
 projects[] = media_youtube
@@ -108,8 +104,6 @@ projects[search_api_solr][version] = 1.x-dev
 projects[] = sharethis
 projects[] = strongarm
 projects[] = superfish
-projects[taxonomy_csv][type] = "module"
-projects[taxonomy_csv][version] = 5.x-dev
 projects[taxonomy_menu][type] = "module"
 projects[taxonomy_menu][version] = 1.x-dev
 projects[taxonomy_menu][patch][] = "http://drupal.org/files/1205150-exportable_features-6.patch"
@@ -133,10 +127,25 @@ projects[humanitarianresponse_documents][download][type] = "git"
 projects[humanitarianresponse_documents][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_documents.git"
 projects[humanitarianresponse_documents][download][branch] = "master"
 
+projects[humanitarianresponse_documents_data][type] = "module"
+projects[humanitarianresponse_documents_data][download][type] = "git"
+projects[humanitarianresponse_documents_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_documents_data.git"
+projects[humanitarianresponse_documents_data][download][branch] = "master"
+
 projects[humanitarianresponse_clusters][type] = "module"
 projects[humanitarianresponse_clusters][download][type] = "git"
 projects[humanitarianresponse_clusters][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_clusters.git"
 projects[humanitarianresponse_clusters][download][branch] = "master"
+
+projects[humanitarianresponse_clusters_data][type] = "module"
+projects[humanitarianresponse_clusters_data][download][type] = "git"
+projects[humanitarianresponse_clusters_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_clusters_data.git"
+projects[humanitarianresponse_clusters_data][download][branch] = "master"
+
+projects[humanitarianresponse_clusters_menu][type] = "module"
+projects[humanitarianresponse_clusters_menu][download][type] = "git"
+projects[humanitarianresponse_clusters_menu][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_clusters_menu.git"
+projects[humanitarianresponse_clusters_menu][download][branch] = "master"
 
 projects[humanitarianresponse_locations][type] = "module"
 projects[humanitarianresponse_locations][download][type] = "git"
@@ -148,10 +157,20 @@ projects[humanitarianresponse_emergencies][download][type] = "git"
 projects[humanitarianresponse_emergencies][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_emergencies.git"
 projects[humanitarianresponse_emergencies][download][branch] = "master"
 
+projects[humanitarianresponse_emergencies_data][type] = "module"
+projects[humanitarianresponse_emergencies_data][download][type] = "git"
+projects[humanitarianresponse_emergencies_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_emergencies_data.git"
+projects[humanitarianresponse_emergencies_data][download][branch] = "master"
+
 projects[humanitarianresponse_themes][type] = "module"
 projects[humanitarianresponse_themes][download][type] = "git"
 projects[humanitarianresponse_themes][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_themes.git"
 projects[humanitarianresponse_themes][download][branch] = "master"
+
+projects[humanitarianresponse_themes_data][type] = "module"
+projects[humanitarianresponse_themes_data][download][type] = "git"
+projects[humanitarianresponse_themes_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_themes_data.git"
+projects[humanitarianresponse_themes_data][download][branch] = "master"
 
 projects[humanitarianresponse_organizations][type] = "module"
 projects[humanitarianresponse_organizations][download][type] = "git"
@@ -162,6 +181,11 @@ projects[humanitarianresponse_events][type] = "module"
 projects[humanitarianresponse_events][download][type] = "git"
 projects[humanitarianresponse_events][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_events.git"
 projects[humanitarianresponse_events][download][branch] = "master"
+
+projects[humanitarianresponse_events_data][type] = "module"
+projects[humanitarianresponse_events_data][download][type] = "git"
+projects[humanitarianresponse_events_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_events_data.git"
+projects[humanitarianresponse_events_data][download][branch] = "master"
 
 projects[humanitarianresponse_links][type] = "module"
 projects[humanitarianresponse_links][download][type] = "git"
@@ -177,6 +201,11 @@ projects[humanitarianresponse_maps][type] = "module"
 projects[humanitarianresponse_maps][download][type] = "git"
 projects[humanitarianresponse_maps][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_maps.git"
 projects[humanitarianresponse_maps][download][branch] = "master"
+
+projects[humanitarianresponse_maps_data][type] = "module"
+projects[humanitarianresponse_maps_data][download][type] = "git"
+projects[humanitarianresponse_maps_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_maps_data.git"
+projects[humanitarianresponse_maps_data][download][branch] = "master"
 
 projects[humanitarianresponse_users][type] = "module"
 projects[humanitarianresponse_users][download][type] = "git"
@@ -198,6 +227,16 @@ projects[humanitarianresponse_funding][download][type] = "git"
 projects[humanitarianresponse_funding][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_funding.git"
 projects[humanitarianresponse_funding][download][branch] = "master"
 
+projects[humanitarianresponse_funding_data][type] = "module"
+projects[humanitarianresponse_funding_data][download][type] = "git"
+projects[humanitarianresponse_funding_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_funding_data.git"
+projects[humanitarianresponse_funding_data][download][branch] = "master"
+
+projects[humanitarianresponse_funding_menu][type] = "module"
+projects[humanitarianresponse_funding_menu][download][type] = "git"
+projects[humanitarianresponse_funding_menu][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_funding_menu.git"
+projects[humanitarianresponse_funding_menu][download][branch] = "master"
+
 projects[humanitarianresponse_highlight][type] = "module"
 projects[humanitarianresponse_highlight][download][type] = "git"
 projects[humanitarianresponse_highlight][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_highlight.git"
@@ -207,6 +246,11 @@ projects[humanitarianresponse_display][type] = "module"
 projects[humanitarianresponse_display][download][type] = "git"
 projects[humanitarianresponse_display][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_display.git"
 projects[humanitarianresponse_display][download][branch] = "master"
+
+projects[humanitarianresponse_display_data][type] = "module"
+projects[humanitarianresponse_display_data][download][type] = "git"
+projects[humanitarianresponse_display_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_display_data.git"
+projects[humanitarianresponse_display_data][download][branch] = "master"
 
 projects[humanitarianresponse_contacts][type] = "module"
 projects[humanitarianresponse_contacts][download][type] = "git"
@@ -257,11 +301,15 @@ projects[humanitarianresponse_page][type] = "module"
 projects[humanitarianresponse_page][download][type] = "git"
 projects[humanitarianresponse_page][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_page.git"
 projects[humanitarianresponse_page][download][branch] = "master"
+
+projects[humanitarianresponse_emergency_menu][type] = "module"
+projects[humanitarianresponse_emergency_menu][download][type] = "git"
+projects[humanitarianresponse_emergency_menu][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_emergency_menu.git"
+projects[humanitarianresponse_emergency_menu][download][branch] = "master"
   
 
 ; Themes
 ; --------
-projects[omega][version] = 3.1
 projects[omega][type] = "theme"
 
 projects[humanitarianresponse][type] = "theme"
@@ -283,6 +331,10 @@ libraries[superfish][download][branch] = "master"
 libraries[plupload][type] = "libraries"
 libraries[plupload][download][type] = "file"
 libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
+
+libraries[colorbox][type] = "libraries"
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
 
 ; Profiles
 ; ---------
