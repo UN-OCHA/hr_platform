@@ -29,6 +29,7 @@ projects[drupal][version] = 7
 ; --------
 projects[] = addressfield
 projects[] = autoassignrole
+projects[] = auto_entitylabel
 projects[] = better_formats
 projects[] = boxes
 projects[] = calendar
@@ -43,7 +44,8 @@ projects[] = ctools
 projects[] = custom_pub
 projects[custom_search][type] = "module"
 projects[custom_search][version] = 1.x-dev
-projects[] = date
+projects[date][type] = "module"
+projects[date][patch][] = "http://drupal.org/files/add-required-marker-1248786-7.patch"
 projects[devel][type] = "module"
 projects[devel][version] = 1.x-dev
 projects[] = email
