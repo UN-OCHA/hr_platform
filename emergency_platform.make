@@ -120,7 +120,6 @@ projects[uuid][patch][] = "http://drupal.org/files/1324970-24-uuid.patch"
 projects[uuid][patch][] = "http://drupal.org/files/1596990-remove_features_enable-1.patch"
 projects[] = variable
 projects[] = views
-projects[] = views_php
 projects[] = views_slideshow
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
