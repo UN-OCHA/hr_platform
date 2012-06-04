@@ -116,7 +116,6 @@ projects[terms_of_use][patch][] = "http://drupal.org/files/terms_of_use-undefine
 projects[] = token
 projects[uuid][type] = "module"
 projects[uuid][version] = 1.x-dev
-projects[uuid][patch][] = "http://drupal.org/files/1324970-24-uuid.patch"
 projects[uuid][patch][] = "http://drupal.org/files/1596990-remove_features_enable-1.patch"
 projects[] = variable
 projects[] = views
