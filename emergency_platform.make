@@ -118,7 +118,8 @@ projects[uuid][version] = 1.x-dev
 projects[uuid][patch][] = "http://drupal.org/files/1596990-remove_features_enable-1.patch"
 projects[] = variable
 projects[] = views
-projects[] = views_slideshow
+projects[views_slideshow][type] = "module"
+projects[views_slideshow][patch][] = "http://drupal.org/files/1240642-hook_init-12.patch"
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
 
