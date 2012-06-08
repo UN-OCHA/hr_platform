@@ -154,7 +154,6 @@ projects[humanitarianresponse_display_data][location] = http://features.humanita
 projects[humanitarianresponse_contacts][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_search][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_media][location] = http://features.humanitarianresponse.info/fserver
-projects[humanitarianresponse_resources][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_assessments][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_profiles][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_core][location] = http://features.humanitarianresponse.info/fserver

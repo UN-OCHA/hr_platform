@@ -269,11 +269,6 @@ projects[humanitarianresponse_media][download][type] = "git"
 projects[humanitarianresponse_media][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_media.git"
 projects[humanitarianresponse_media][download][branch] = "master"
 
-projects[humanitarianresponse_resources][type] = "module"
-projects[humanitarianresponse_resources][download][type] = "git"
-projects[humanitarianresponse_resources][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_resources.git"
-projects[humanitarianresponse_resources][download][branch] = "master"
-
 projects[humanitarianresponse_assessments][type] = "module"
 projects[humanitarianresponse_assessments][download][type] = "git"
 projects[humanitarianresponse_assessments][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_assessments.git"
