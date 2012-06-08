@@ -308,6 +308,11 @@ projects[humanitarianresponse_emergency_menu][type] = "module"
 projects[humanitarianresponse_emergency_menu][download][type] = "git"
 projects[humanitarianresponse_emergency_menu][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_emergency_menu.git"
 projects[humanitarianresponse_emergency_menu][download][branch] = "master"
+
+projects[humanitarianresponse_organizations_data][type] = "module"
+projects[humanitarianresponse_organizations_data][download][type] = "git"
+projects[humanitarianresponse_organizations_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_organizations_data.git"
+projects[humanitarianresponse_organizations_data][download][branch] = "master"
   
 
 ; Themes

@@ -136,6 +136,7 @@ projects[humanitarianresponse_highlight][location] = http://features.humanitaria
 projects[humanitarianresponse_themes][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_themes_data][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_organizations][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_organizations_data][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_events][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_events_data][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_links][location] = http://features.humanitarianresponse.info/fserver
