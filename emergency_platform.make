@@ -45,7 +45,6 @@ projects[custom_search][type] = "module"
 projects[date][type] = "module"
 projects[date][patch][] = "http://drupal.org/files/add-required-marker-1248786-7.patch"
 projects[devel][type] = "module"
-projects[devel][version] = 1.x-dev
 projects[email][type] = "module"
 projects[entity][type] = "module"
 projects[entityreference][type] = "module"
