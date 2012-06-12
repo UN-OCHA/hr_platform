@@ -115,6 +115,7 @@ projects[token][type] = "module"
 projects[uuid][type] = "module"
 projects[uuid][version] = 1.x-dev
 projects[uuid][patch][] = "http://drupal.org/files/1596990-remove_features_enable-1.patch"
+projects[uuid][patch][] = "http://drupal.org/files/1628456-module_name-1.patch"
 projects[variable][type] = "module"
 projects[views][type] = "module"
 projects[views_slideshow][type] = "module"
