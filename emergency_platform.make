@@ -107,6 +107,7 @@ projects[search_api_solr][version] = 1.x-dev
 projects[sharethis][type] = "module"
 projects[strongarm][type] = "module"
 projects[superfish][type] = "module"
+projects[superfish][version] = 1.9-beta4
 projects[taxonomy_menu][type] = "module"
 projects[taxonomy_menu][version] = 1.x-dev
 projects[taxonomy_menu][patch][] = "http://drupal.org/files/taxonomy_menu.features_3.patch"
