@@ -166,6 +166,7 @@ projects[humanitarianresponse_core][location] = http://features.humanitarianresp
 projects[humanitarianresponse_mapping][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_page][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_emergency_menu][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_i18n][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes
