@@ -191,7 +191,7 @@ libraries[superfish][download][branch] = "master"
 
 libraries[plupload][type] = "libraries"
 libraries[plupload][download][type] = "file"
-libraries[plupload][download][url] = "http://github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
+libraries[plupload][download][url] = "http://cloud.github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
 
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"
