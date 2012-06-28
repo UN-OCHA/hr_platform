@@ -123,6 +123,7 @@ projects[uuid][patch][] = "http://drupal.org/files/1596990-remove_features_enabl
 projects[uuid][patch][] = "http://drupal.org/files/1628456-module_name-1.patch"
 projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-1594230-2.patch"
 projects[variable][type] = "module"
+projects[variable][patch][] = "http://drupal.org/files/1663762-undefined_index_submit-1.patch"
 projects[views][type] = "module"
 projects[views][patch][] = "http://drupal.org/files/1651726-entity_label-1.patch"
 projects[views_slideshow][type] = "module"
