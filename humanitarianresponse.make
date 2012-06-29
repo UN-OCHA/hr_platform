@@ -1,4 +1,4 @@
-; Makefile for Emergency Sites Platform 
+; Makefile for Humanitarianresponse Sites
 ; Core version
 ; ------------
 ; Each makefile should begin by declaring the core version of Drupal that all
@@ -152,6 +152,7 @@ projects[humanitarianresponse_news][location] = http://features.humanitarianresp
 projects[humanitarianresponse_maps][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_maps_data][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_users][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_minimal_layout][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_layout][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_coordination][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_funding][location] = http://features.humanitarianresponse.info/fserver
@@ -180,6 +181,7 @@ projects[humanitarianresponse][location] = http://features.humanitarianresponse.
 ; Profiles
 ; ---------
 projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_minimal][location] = http://features.humanitarianresponse.info/fserver
 
 ; Libraries
 ; ---------

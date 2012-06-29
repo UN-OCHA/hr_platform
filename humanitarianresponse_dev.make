@@ -1,4 +1,4 @@
-; Makefile for Emergency Sites Platform 
+; Makefile for Humanitarianresponse Sites
 ; Core version
 ; ------------
 ; Each makefile should begin by declaring the core version of Drupal that all
@@ -221,6 +221,11 @@ projects[humanitarianresponse_users][download][type] = "git"
 projects[humanitarianresponse_users][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_users.git"
 projects[humanitarianresponse_users][download][branch] = "master"
 
+projects[humanitarianresponse_minimal_layout][type] = "module"
+projects[humanitarianresponse_minimal_layout][download][type] = "git"
+projects[humanitarianresponse_minimal_layout][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_minimal_layout.git"
+projects[humanitarianresponse_minimal_layout][download][branch] = "master"
+
 projects[humanitarianresponse_layout][type] = "module"
 projects[humanitarianresponse_layout][download][type] = "git"
 projects[humanitarianresponse_layout][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_layout.git"
@@ -351,3 +356,8 @@ projects[emergency_site][type] = "profile"
 projects[emergency_site][download][type] = "git"
 projects[emergency_site][download][url] = "https://git.humanitarianresponse.info/git/emergency_profile.git"
 projects[emergency_site][download][branch] = "master"
+
+projects[humanitarianresponse_minimal][type] = "profile"
+projects[humanitarianresponse_minimal][download][type] = "git"
+projects[humanitarianresponse_minimal][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_minimal.git"
+projects[humanitarianresponse_minimal][download][branch] = "master"
