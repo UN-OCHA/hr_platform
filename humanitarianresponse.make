@@ -85,7 +85,6 @@ projects[media_colorbox][type] = "module"
 projects[media_colorbox][patch][] = "http://drupal.org/files/compatibility_media_1-1539528-1.patch"
 projects[media_flickr][type] = "module"
 projects[media_gallery][type] = "module"
-projects[media_gallery][version] = 1.x-dev
 projects[media_gallery][patch][] = "http://drupal.org/files/1333674-conflicts-16.patch"
 projects[media_responsive][type] = "module"
 projects[media_vimeo][type] = "module"
