@@ -325,6 +325,11 @@ projects[humanitarianresponse_organizations_data][type] = "module"
 projects[humanitarianresponse_organizations_data][download][type] = "git"
 projects[humanitarianresponse_organizations_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_organizations_data.git"
 projects[humanitarianresponse_organizations_data][download][branch] = "master"
+
+projects[humanitarianresponse_stats][type] = "module"
+projects[humanitarianresponse_stats][download][type] = "git"
+projects[humanitarianresponse_stats][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_stats.git"
+projects[humanitarianresponse_stats][download][branch] = "master"
   
 
 ; Themes
