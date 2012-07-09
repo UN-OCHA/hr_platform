@@ -46,6 +46,7 @@ projects[custom_search][type] = "module"
 projects[date][type] = "module"
 projects[date][patch][] = "http://drupal.org/files/add-required-marker-1248786-7.patch"
 projects[devel][type] = "module"
+projects[diff][type] = "module"
 projects[email][type] = "module"
 projects[entity][type] = "module"
 projects[entityreference][type] = "module"
@@ -54,6 +55,7 @@ projects[facetapi][type] = "module"
 projects[facetapi_pretty_paths][type] = "module"
 projects[facetapi_pretty_paths][patch][] = "http://drupal.org/files/1539472-multiple_facets-16.patch"
 projects[features][type] = "module"
+projects[feeds][type] = "module"
 projects[field_collection][type] = "module"
 projects[field_collection][patch][] = "http://drupal.org/files/issue_1329856_1.patch"
 projects[field_collection_views][type] = "module"
@@ -122,6 +124,7 @@ projects[terms_of_use][type] = "module"
 projects[terms_of_use][patch][] = "http://drupal.org/files/terms_of_use-undefined_index_language-1378600.patch"
 projects[title][type] = "module"
 projects[token][type] = "module"
+projects[unique_field][type] = "module"
 projects[uuid][type] = "module"
 projects[uuid][version] = 1.x-dev
 projects[uuid][patch][] = "http://drupal.org/files/1596990-remove_features_enable-1.patch"
@@ -132,6 +135,8 @@ projects[views][type] = "module"
 projects[views][patch][] = "http://drupal.org/files/1651726-entity_label-1.patch"
 projects[views_slideshow][type] = "module"
 projects[views_slideshow][patch][] = "http://drupal.org/files/1240642-hook_init-13_3.0.patch"
+projects[workflow][type] = "module"
+projects[workflow][version] = 1.x-dev
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
 
@@ -329,7 +334,68 @@ projects[humanitarianresponse_stats][type] = "module"
 projects[humanitarianresponse_stats][download][type] = "git"
 projects[humanitarianresponse_stats][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_stats.git"
 projects[humanitarianresponse_stats][download][branch] = "master"
-  
+
+projects[humanitarianresponse_sitrep][type] = "module"
+projects[humanitarianresponse_sitrep][download][type] = "git"
+projects[humanitarianresponse_sitrep][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_sitrep.git"
+projects[humanitarianresponse_sitrep][download][branch] = "master"
+
+projects[humanitarianresponse_cluster_obj][type] = "module"
+projects[humanitarianresponse_cluster_obj][download][type] = "git"
+projects[humanitarianresponse_cluster_obj][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_cluster_obj.git"
+projects[humanitarianresponse_cluster_obj][download][branch] = "master"
+
+projects[humanitarianresponse_ind_data][type] = "module"
+projects[humanitarianresponse_ind_data][download][type] = "git"
+projects[humanitarianresponse_ind_data][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_ind_data.git"
+projects[humanitarianresponse_ind_data][download][branch] = "master"
+
+projects[humanitarianresponse_ind_def][type] = "module"
+projects[humanitarianresponse_ind_def][download][type] = "git"
+projects[humanitarianresponse_ind_def][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_ind_def.git"
+projects[humanitarianresponse_ind_def][download][branch] = "master"
+
+projects[humanitarianresponse_sec_analysis][type] = "module"
+projects[humanitarianresponse_sec_analysis][download][type] = "git"
+projects[humanitarianresponse_sec_analysis][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_sec_analysis.git"
+projects[humanitarianresponse_sec_analysis][download][branch] = "master"
+
+; CRF Specific
+
+projects[workflow_submit][type] = "module"
+projects[workflow_submit][download][type] = "git"
+projects[workflow_submit][download][url] = "https://git.humanitarianresponse.info/git/crf/workflow_submit.git"
+projects[workflow_submit][download][branch] = "master"
+
+projects[crf][type] = "module"
+projects[crf][download][type] = "git"
+projects[crf][download][url] = "https://git.humanitarianresponse.info/git/crf.git"
+projects[crf][download][branch] = "master"
+
+projects[crf_sitrep][type] = "module"
+projects[crf_sitrep][download][type] = "git"
+projects[crf_sitrep][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_sitrep.git"
+projects[crf_sitrep][download][branch] = "master"
+
+projects[crf_requests][type] = "module"
+projects[crf_requests][download][type] = "git"
+projects[crf_requests][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_requests.git"
+projects[crf_requests][download][branch] = "master"
+
+projects[crf_sec_analysis][type] = "module"
+projects[crf_sec_analysis][download][type] = "git"
+projects[crf_sec_analysis][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_sec_analysis.git"
+projects[crf_sec_analysis][download][branch] = "master"
+
+projects[crf_ind_data][type] = "module"
+projects[crf_ind_data][download][type] = "git"
+projects[crf_ind_data][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_ind_data.git"
+projects[crf_ind_data][download][branch] = "master"
+
+projects[crf_workflow][type] = "module"
+projects[crf_workflow][download][type] = "git"
+projects[crf_workflow][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_workflow.git"
+projects[crf_workflow][download][branch] = "master"
 
 ; Themes
 ; --------
@@ -370,3 +436,8 @@ projects[humanitarianresponse_minimal][type] = "profile"
 projects[humanitarianresponse_minimal][download][type] = "git"
 projects[humanitarianresponse_minimal][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_minimal.git"
 projects[humanitarianresponse_minimal][download][branch] = "master"
+
+projects[crf_site][type] = "profile"
+projects[crf_site][download][type] = "git"
+projects[crf_site][download][url] = "https://git.humanitarianresponse.info/git/crf/profile.git"
+projects[crf_site][download][branch] = "master"
