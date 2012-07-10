@@ -35,6 +35,7 @@ projects[] = ckeditor
 projects[] = ctools
 projects[] = custom_breadcrumbs
 projects[] = date
+projects[] = devel
 projects[] = entity
 projects[] = events_calendar_feature
 projects[] = facetapi
