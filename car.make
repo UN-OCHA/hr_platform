@@ -43,6 +43,7 @@ projects[] = feeds
 projects[] = front
 projects[] = googtube
 projects[] = i18n
+projects[] = l10n_update
 projects[] = job_scheduler
 projects[] = libraries
 projects[] = lightbox2
