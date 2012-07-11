@@ -181,6 +181,7 @@ projects[humanitarianresponse_page][location] = http://features.humanitarianresp
 projects[humanitarianresponse_emergency_menu][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_i18n][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_stats][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_aggregator][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes

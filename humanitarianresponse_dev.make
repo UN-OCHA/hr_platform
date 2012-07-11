@@ -336,6 +336,11 @@ projects[humanitarianresponse_stats][download][type] = "git"
 projects[humanitarianresponse_stats][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_stats.git"
 projects[humanitarianresponse_stats][download][branch] = "master"
 
+projects[humanitarianresponse_aggregator][type] = "module"
+projects[humanitarianresponse_aggregator][download][type] = "git"
+projects[humanitarianresponse_aggregator][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_aggregator.git"
+projects[humanitarianresponse_aggregator][download][branch] = "master"
+
 projects[humanitarianresponse_sitrep][type] = "module"
 projects[humanitarianresponse_sitrep][download][type] = "git"
 projects[humanitarianresponse_sitrep][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_sitrep.git"
