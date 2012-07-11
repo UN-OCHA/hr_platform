@@ -122,7 +122,6 @@ projects[taxonomy_menu][type] = "module"
 projects[taxonomy_menu][version] = 1.x-dev
 projects[taxonomy_menu][patch][] = "http://drupal.org/files/taxonomy_menu.features_3.patch"
 projects[terms_of_use][type] = "module"
-projects[terms_of_use][patch][] = "http://drupal.org/files/terms_of_use-undefined_index_language-1378600.patch"
 projects[title][type] = "module"
 projects[token][type] = "module"
 projects[unique_field][type] = "module"
