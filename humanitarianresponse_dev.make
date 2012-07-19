@@ -402,22 +402,6 @@ projects[crf_workflow][download][type] = "git"
 projects[crf_workflow][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_workflow.git"
 projects[crf_workflow][download][branch] = "master"
 
-projects[crf_op_presence][type] = "module"
-projects[crf_op_presence][download][type] = "git"
-projects[crf_op_presence][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_op_presence.git"
-projects[crf_op_presence][download][branch] = "master"
-
-projects[crf_layout][type] = "module"
-projects[crf_layout][download][type] = "git"
-projects[crf_layout][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_layout.git"
-projects[crf_layout][download][branch] = "master"
-
-projects[crf_xls_import][type] = "module"
-projects[crf_xls_import][download][type] = "git"
-projects[crf_xls_import][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_xls_import.git"
-projects[crf_xls_import][download][branch] = "master"
-
-
 ; Themes
 ; --------
 projects[omega][type] = "theme"
