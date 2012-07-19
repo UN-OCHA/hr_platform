@@ -125,7 +125,6 @@ projects[superfish][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[taxonomy_menu][type] = "module"
 projects[taxonomy_menu][version] = 1.x-dev
-projects[taxonomy_menu][patch][] = "http://drupal.org/files/taxonomy_menu.features_3.patch"
 projects[terms_of_use][type] = "module"
 projects[title][type] = "module"
 projects[token][type] = "module"
