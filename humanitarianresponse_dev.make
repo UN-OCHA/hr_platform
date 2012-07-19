@@ -397,6 +397,11 @@ projects[crf_ind_data_batch][download][type] = "git"
 projects[crf_ind_data_batch][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_ind_data_batch.git"
 projects[crf_ind_data_batch][download][branch] = "master"
 
+projects[crf_assessments][type] = "module"
+projects[crf_assessments][download][type] = "git"
+projects[crf_assessments][download][url] = "https://git.humanitarianresponse.info/git/crf_assessments.git"
+projects[crf_assessments][download][branch] = "master"
+
 projects[crf_workflow][type] = "module"
 projects[crf_workflow][download][type] = "git"
 projects[crf_workflow][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_workflow.git"
