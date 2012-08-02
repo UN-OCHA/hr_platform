@@ -53,6 +53,7 @@ projects[email][type] = "module"
 projects[entity][type] = "module"
 projects[entityreference][type] = "module"
 projects[entity_translation][type] = "module"
+projects[entity_translation][patch][] = "http://drupal.org/files/1701212-export_uuid-4.patch"
 projects[facetapi][type] = "module"
 projects[facetapi_pretty_paths][type] = "module"
 projects[facetapi_pretty_paths][patch][] = "http://drupal.org/files/1539472-multiple_facets-16.patch"
@@ -131,7 +132,7 @@ projects[strongarm][type] = "module"
 projects[superfish][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[taxonomy_menu][type] = "module"
-projects[taxonomy_menu][version] = 1.x-dev
+projects[taxonomy_menu][patch][] = "http://drupal.org/files/1665308-entity_translation_i18n-20.patch"
 projects[terms_of_use][type] = "module"
 projects[title][type] = "module"
 projects[token][type] = "module"
@@ -381,6 +382,11 @@ projects[hr_graphs][download][type] = "git"
 projects[hr_graphs][download][url] = "https://git.humanitarianresponse.info/git/hr_graphs.git"
 projects[hr_graphs][download][branch] = "master"
 
+projects[hr_mapping_styles][type] = "module"
+projects[hr_mapping_styles][download][type] = "git"
+projects[hr_mapping_styles][download][url] = "https://git.humanitarianresponse.info/git/hr_mapping_styles.git"
+projects[hr_mapping_styles][download][branch] = "master"
+
 ; CRF Specific
 
 projects[workflow_submit][type] = "module"
@@ -410,7 +416,7 @@ projects[crf_ind_data_batch][download][branch] = "master"
 
 projects[crf_assessments][type] = "module"
 projects[crf_assessments][download][type] = "git"
-projects[crf_assessments][download][url] = "https://git.humanitarianresponse.info/git/crf_assessments.git"
+projects[crf_assessments][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_assessments.git"
 projects[crf_assessments][download][branch] = "master"
 
 projects[crf_workflow][type] = "module"
