@@ -137,6 +137,7 @@ projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-
 projects[variable][type] = "module"
 projects[views][type] = "module"
 projects[views][patch][] = "http://drupal.org/files/1651726-entity_label-1.patch"
+projects[views_column_class][type] = "module"
 projects[views_slideshow][type] = "module"
 projects[views_slideshow][patch][] = "http://drupal.org/files/1240642-hook_init-13_3.0.patch"
 projects[workflow][type] = "module"
