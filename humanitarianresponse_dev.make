@@ -70,6 +70,10 @@ projects[geophp][type] = "module"
 projects[hierarchical_select][type] = "module"
 projects[hierarchical_select][version] = 3.x-dev
 projects[hierarchical_select][patch][] = "http://drupal.org/files/1563890-entity_translation-6.patch"
+projects[highcharts][type] = "module"
+projects[highcharts][version] = 7.x-1.0-alpha6
+projects[highcharts][patch][] = "http://drupal.org/files/highcharts-undefined-index-1529844-9.patch"
+projects[highcharts][patch][] = "http://drupal.org/files/highcharts-tooltip-formatter-1466016-22.patch"
 projects[htmlmail][type] = "module"
 projects[i18n][type] = "module"
 projects[i18n][patch][] = "http://drupal.org/files/1644312-i18n_taxonomy_term_name_dev-3.patch"
@@ -104,6 +108,7 @@ projects[menu_trail_by_path][patch][] = "http://drupal.org/files/1572334-multili
 projects[multiform][type] = "module"
 projects[openlayers][type] = "module"
 projects[panels][type] = "module"
+projects[panels_tabs][type] = "module"
 projects[pathauto][type] = "module"
 projects[pathologic][type] = "module"
 projects[path_alias_xt][type] = "module"
@@ -373,6 +378,11 @@ projects[humanitarianresponse_sec_analysis][download][type] = "git"
 projects[humanitarianresponse_sec_analysis][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_sec_analysis.git"
 projects[humanitarianresponse_sec_analysis][download][branch] = "master"
 
+projects[hr_graphs][type] = "module"
+projects[hr_graphs][download][type] = "git"
+projects[hr_graphs][download][url] = "https://git.humanitarianresponse.info/git/hr_graphs.git"
+projects[hr_graphs][download][branch] = "master"
+
 projects[hr_mapping_styles][type] = "module"
 projects[hr_mapping_styles][download][type] = "git"
 projects[hr_mapping_styles][download][url] = "https://git.humanitarianresponse.info/git/hr_mapping_styles.git"
@@ -442,6 +452,10 @@ libraries[plupload][download][url] = "http://cloud.github.com/downloads/moxiecod
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"
 libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
+
+libraries[highcharts][type] = "libraries"
+libraries[highcharts][download][type] = "file"
+libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips/Highcharts-2.2.5.zip"
 
 ; Profiles
 ; ---------

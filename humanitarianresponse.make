@@ -52,7 +52,6 @@ projects[email][type] = "module"
 projects[entity][type] = "module"
 projects[entityreference][type] = "module"
 projects[entity_translation][type] = "module"
-projects[entity_translation][patch][] = "http://drupal.org/files/1701212-export_uuid-4.patch"
 projects[facetapi][type] = "module"
 projects[facetapi_pretty_paths][type] = "module"
 projects[facetapi_pretty_paths][patch][] = "http://drupal.org/files/1539472-multiple_facets-16.patch"
@@ -124,7 +123,7 @@ projects[strongarm][type] = "module"
 projects[superfish][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[taxonomy_menu][type] = "module"
-projects[taxonomy_menu][patch][] = "http://drupal.org/files/1665308-entity_translation_i18n-20.patch"
+projects[taxonomy_menu][version] = 1.x-dev
 projects[terms_of_use][type] = "module"
 projects[title][type] = "module"
 projects[token][type] = "module"
@@ -186,7 +185,6 @@ projects[humanitarianresponse_emergency_menu][location] = http://features.humani
 projects[humanitarianresponse_i18n][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_stats][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_aggregator][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_mapping_styles][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes
