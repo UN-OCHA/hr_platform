@@ -393,6 +393,11 @@ projects[hr_mapping_styles][download][type] = "git"
 projects[hr_mapping_styles][download][url] = "https://git.humanitarianresponse.info/git/hr_mapping_styles.git"
 projects[hr_mapping_styles][download][branch] = "master"
 
+projects[hr_countries_borders][type] = "module"
+projects[hr_countries_borders][download][type] = "git"
+projects[hr_countries_borders][download][url] = "https://git.humanitarianresponse.info/git/hr_countries_borders.git"
+projects[hr_countries_borders][download][branch] = "master"
+
 ; CRF Specific
 
 projects[workflow_submit][type] = "module"
