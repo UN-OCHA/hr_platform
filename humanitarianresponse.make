@@ -120,6 +120,7 @@ projects[references][type] = "module"
 projects[rules][type] = "module"
 projects[search_api][type] = "module"
 projects[search_api_page][type] = "module"
+projects[search_api_page][version] = 1.x-dev
 projects[search_api_page][patch][] = "http://drupal.org/files/addtemplates-1313676-18.patch"
 projects[search_api_page][patch][] = "http://drupal.org/files/1332254_Search_Feeds_15.patch"
 projects[search_api_solr][type] = "module"
