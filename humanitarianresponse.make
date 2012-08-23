@@ -203,6 +203,7 @@ projects[humanitarianresponse_stats][location] = http://features.humanitarianres
 projects[humanitarianresponse_aggregator][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_mapping_styles][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_countries_borders][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_login][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes
