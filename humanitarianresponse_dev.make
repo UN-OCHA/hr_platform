@@ -112,7 +112,6 @@ projects[menu_trail_by_path][patch][] = "http://drupal.org/files/1572334-multili
 projects[multiform][type] = "module"
 projects[openlayers][type] = "module"
 projects[panels][type] = "module"
-projects[panels_tabs][type] = "module"
 projects[pathauto][type] = "module"
 projects[pathologic][type] = "module"
 projects[path_alias_xt][type] = "module"
