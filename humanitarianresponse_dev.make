@@ -22,6 +22,7 @@ api = 2
   
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
 projects[drupal][version] = 7
+projects[drupal][patch][] = "http://drupal.org/files/995156-31_portable_taxonomy_permissions-D7-15.patch"
 
   
   
@@ -59,6 +60,7 @@ projects[email_registration][type] = "module"
 projects[empty_front_page][type] = "module"
 projects[entity][type] = "module"
 projects[entityreference][type] = "module"
+projects[entityreference][patch][] = "http://drupal.org/files/1608358-selectionhandler-views-broken.patch"
 projects[entity_translation][type] = "module"
 projects[entity_translation][patch][] = "http://drupal.org/files/1701212-export_uuid-4.patch"
 projects[facetapi][type] = "module"
