@@ -413,6 +413,11 @@ projects[hr_graphs][download][type] = "git"
 projects[hr_graphs][download][url] = "https://git.humanitarianresponse.info/git/hr_graphs.git"
 projects[hr_graphs][download][branch] = "master"
 
+projects[hr_revisions][type] = "module"
+projects[hr_revisions][download][type] = "git"
+projects[hr_revisions][download][url] = "https://git.humanitarianresponse.info/git/hr_revisions.git"
+projects[hr_revisions][download][branch] = "master"
+
 projects[hr_mapping_styles][type] = "module"
 projects[hr_mapping_styles][download][type] = "git"
 projects[hr_mapping_styles][download][url] = "https://git.humanitarianresponse.info/git/hr_mapping_styles.git"
