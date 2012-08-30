@@ -76,6 +76,7 @@ projects[file_entity][type] = "module"
 projects[file_entity][version] = 2.0-unstable6
 projects[follow][type] = "module"
 projects[fserver][type] = "module"
+projects[fserver][patch][] = "http://drupal.org/files/1416178-update_views-8.patch"
 projects[fserver][patch][] = "http://drupal.org/files/xmlfeedfix-1399042-2.patch"
 projects[genpass][type] = "module"
 projects[genpass][version] = 1.x-dev
