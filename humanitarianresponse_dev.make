@@ -46,6 +46,7 @@ projects[content_access][type] = "module"
 projects[context][type] = "module"
 projects[context_breadcrumb_current_page][type] = "module"
 projects[context_disable_context][type] = "module"
+projects[context_get][type] = "module"
 projects[countries][type] = "module"
 projects[countries_borders][type] = "module"
 projects[ctools][type] = "module"
@@ -430,6 +431,56 @@ projects[hr_login][type] = "module"
 projects[hr_login][download][type] = "git"
 projects[hr_login][download][url] = "https://git.humanitarianresponse.info/git/hr_login.git"
 projects[hr_login][download][branch] = "master"
+
+projects[hr_sectors][type] = "module"
+projects[hr_sectors][download][type] = "git"
+projects[hr_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_sectors.git"
+projects[hr_sectors][download][branch] = "master"
+
+projects[hr_assessments_sectors][type] = "module"
+projects[hr_assessments_sectors][download][type] = "git"
+projects[hr_assessments_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_assessments_sectors.git"
+projects[hr_assessments_sectors][download][branch] = "master"
+
+projects[hr_contacts_sectors][type] = "module"
+projects[hr_contacts_sectors][download][type] = "git"
+projects[hr_contacts_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_contacts_sectors.git"
+projects[hr_contacts_sectors][download][branch] = "master"
+
+projects[hr_documents_sectors][type] = "module"
+projects[hr_documents_sectors][download][type] = "git"
+projects[hr_documents_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_documents_sectors.git"
+projects[hr_documents_sectors][download][branch] = "master"
+
+projects[hr_emergency_menu_sectors][type] = "module"
+projects[hr_emergency_menu_sectors][download][type] = "git"
+projects[hr_emergency_menu_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_emergency_menu_sectors.git"
+projects[hr_emergency_menu_sectors][download][branch] = "master"
+
+projects[hr_events_sectors][type] = "module"
+projects[hr_events_sectors][download][type] = "git"
+projects[hr_events_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_events_sectors.git"
+projects[hr_events_sectors][download][branch] = "master"
+
+projects[hr_links_sectors][type] = "module"
+projects[hr_links_sectors][download][type] = "git"
+projects[hr_links_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_links_sectors.git"
+projects[hr_links_sectors][download][branch] = "master"
+
+projects[hr_news_sectors][type] = "module"
+projects[hr_news_sectors][download][type] = "git"
+projects[hr_news_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_news_sectors.git"
+projects[hr_news_sectors][download][branch] = "master"
+
+projects[hr_visuals_sectors][type] = "module"
+projects[hr_visuals_sectors][download][type] = "git"
+projects[hr_visuals_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_visuals_sectors.git"
+projects[hr_visuals_sectors][download][branch] = "master"
+
+projects[hr_assessments_i18n][type] = "module"
+projects[hr_assessments_i18n][download][type] = "git"
+projects[hr_assessments_i18n][download][url] = "https://git.humanitarianresponse.info/git/hr_assessments_i18n.git"
+projects[hr_assessments_i18n][download][branch] = "master"
 
 ; CRF Specific
 

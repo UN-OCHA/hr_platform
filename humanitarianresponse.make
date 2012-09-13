@@ -44,6 +44,7 @@ projects[content_access][type] = "module"
 projects[context][type] = "module"
 projects[context_breadcrumb_current_page][type] = "module"
 projects[context_disable_context][type] = "module"
+projects[context_get][type] = "module"
 projects[countries][type] = "module"
 projects[countries_borders][type] = "module"
 projects[ctools][type] = "module"
@@ -219,6 +220,16 @@ projects[humanitarianresponse_aggregator][location] = http://features.humanitari
 projects[hr_mapping_styles][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_countries_borders][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_login][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_assessments_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_contacts_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_documents_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_emergency_menu_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_events_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_links_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_news_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_visuals_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_assessments_i18n][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes
