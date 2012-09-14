@@ -154,6 +154,7 @@ projects[strongarm][type] = "module"
 projects[superfish][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[taxonomy_menu][type] = "module"
+projects[taxonomy_menu][patch][] = "http://drupal.org/files/taxonomy_menu.features_3.patch"
 projects[taxonomy_menu][patch][] = "http://drupal.org/files/1665308-entity_translation_i18n-41.patch"
 projects[terms_of_use][type] = "module"
 projects[title][type] = "module"
