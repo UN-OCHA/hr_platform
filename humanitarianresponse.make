@@ -228,6 +228,7 @@ projects[hr_contacts_sectors][location] = http://features.humanitarianresponse.i
 projects[hr_documents_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_emergency_menu_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_events_sectors][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_highlight_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_links_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_news_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_visuals_sectors][location] = http://features.humanitarianresponse.info/fserver

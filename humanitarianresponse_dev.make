@@ -464,6 +464,11 @@ projects[hr_events_sectors][download][type] = "git"
 projects[hr_events_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_events_sectors.git"
 projects[hr_events_sectors][download][branch] = "master"
 
+projects[hr_highlight_sectors][type] = "module"
+projects[hr_highlight_sectors][download][type] = "git"
+projects[hr_highlight_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_highlight_sectors.git"
+projects[hr_highlight_sectors][download][branch] = "master"
+
 projects[hr_links_sectors][type] = "module"
 projects[hr_links_sectors][download][type] = "git"
 projects[hr_links_sectors][download][url] = "https://git.humanitarianresponse.info/git/hr_sectors/hr_links_sectors.git"
