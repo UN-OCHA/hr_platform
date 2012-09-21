@@ -215,6 +215,13 @@ projects[humanitarianresponse_emergency_menu][location] = http://features.humani
 projects[humanitarianresponse_i18n][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_stats][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_aggregator][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_sitrep][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_indicator_definitions][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_indicator_data][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_revisions][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_graphs][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_cluster_objectives][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_mapping_styles][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_countries_borders][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_login][location] = http://features.humanitarianresponse.info/fserver
@@ -229,6 +236,15 @@ projects[hr_links_sectors][location] = http://features.humanitarianresponse.info
 projects[hr_news_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_visuals_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_assessments_i18n][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_workflow][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_sitrep][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_requests][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_indicator_data_batch][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_content_batch][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_contacts_upload][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes
