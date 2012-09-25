@@ -257,6 +257,7 @@ projects[humanitarianresponse][location] = http://features.humanitarianresponse.
 ; ---------
 projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_minimal][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
 
 ; Libraries
 ; ---------
@@ -276,3 +277,7 @@ libraries[plupload][download][url] = "http://cloud.github.com/downloads/moxiecod
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"
 libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
+
+libraries[highcharts][type] = "libraries"
+libraries[highcharts][download][type] = "file"
+libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips/Highcharts-2.2.5.zip"
