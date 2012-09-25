@@ -257,6 +257,7 @@ projects[humanitarianresponse][location] = http://features.humanitarianresponse.
 ; ---------
 projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_minimal][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
 
 ; Libraries
 ; ---------
