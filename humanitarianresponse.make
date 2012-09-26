@@ -63,6 +63,7 @@ projects[entityreference][patch][] = "http://drupal.org/files/1608358-selectionh
 projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
 projects[entity_translation][patch][] = "http://drupal.org/files/1701212-export_uuid-12.patch"
+projects[extlink][type] = "module"
 projects[facetapi][type] = "module"
 projects[facetapi_pretty_paths][type] = "module"
 projects[features][type] = "module"
