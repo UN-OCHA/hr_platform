@@ -54,6 +54,7 @@ projects[ctools][type] = "module"
 projects[date][type] = "module"
 projects[date][patch][] = "http://drupal.org/files/add-required-marker-1248786-7.patch"
 projects[date_ical][type] = "module"
+projects[delta][type] = "module"
 projects[devel][type] = "module"
 projects[diff][type] = "module"
 projects[diff][version] = 3.0-alpha1
