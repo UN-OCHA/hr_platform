@@ -148,6 +148,7 @@ projects[plupload][type] = "module"
 projects[potx][type] = "module"
 projects[prepopulate][type] = "module"
 projects[print][type] = "module"
+projects[private][type] = "module"
 projects[rb][type] = "module"
 projects[realname][type] = "module"
 projects[references][type] = "module"
@@ -260,6 +261,7 @@ projects[crf_contacts_upload][location] = http://features.humanitarianresponse.i
 projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
 projects[workflow_submit][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_private][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes

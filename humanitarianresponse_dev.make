@@ -148,6 +148,7 @@ projects[plupload][type] = "module"
 projects[potx][type] = "module"
 projects[prepopulate][type] = "module"
 projects[print][type] = "module"
+projects[private][type] = "module"
 projects[realname][type] = "module"
 projects[rb][type] = "module"
 projects[references][type] = "module"
@@ -486,6 +487,11 @@ projects[hr_assessments_i18n][type] = "module"
 projects[hr_assessments_i18n][download][type] = "git"
 projects[hr_assessments_i18n][download][url] = "https://git.humanitarianresponse.info/git/hr_assessments_i18n.git"
 projects[hr_assessments_i18n][download][branch] = "master"
+
+projects[hr_private][type] = "module"
+projects[hr_private][download][type] = "git"
+projects[hr_private][download][url] = "https://git.humanitarianresponse.info/git/hr_private.git"
+projects[hr_private][download][branch] = "master"
 
 ; CRF Specific
 
