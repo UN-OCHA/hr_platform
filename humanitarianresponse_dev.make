@@ -496,6 +496,11 @@ projects[hr_private][download][type] = "git"
 projects[hr_private][download][url] = "https://git.humanitarianresponse.info/git/hr_private.git"
 projects[hr_private][download][branch] = "master"
 
+projects[hr_reliefweb][type] = "module"
+projects[hr_reliefweb][download][type] = "git"
+projects[hr_reliefweb][download][url] = "https://git.humanitarianresponse.info/git/hr_reliefweb.git"
+projects[hr_reliefweb][download][branch] = "master"
+
 ; CRF Specific
 
 projects[workflow_submit][type] = "module"

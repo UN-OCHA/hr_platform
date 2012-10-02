@@ -254,6 +254,10 @@ projects[hr_links_sectors][location] = http://features.humanitarianresponse.info
 projects[hr_news_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_visuals_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_assessments_i18n][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_private][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_reliefweb][location] = http://features.humanitarianresponse.info/fserver
+
+; CRF specific
 projects[crf_workflow][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_sitrep][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
@@ -264,7 +268,6 @@ projects[crf_contacts_upload][location] = http://features.humanitarianresponse.i
 projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
 projects[workflow_submit][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_private][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes
