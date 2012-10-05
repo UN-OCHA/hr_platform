@@ -51,6 +51,9 @@ projects[context_get][patch][] = "http://drupal.org/files/1780292-undefined_inde
 projects[countries][type] = "module"
 projects[countries_borders][type] = "module"
 projects[ctools][type] = "module"
+projects[custom_pub][type] = "module"
+projects[custom_pub][version] = 1.x-dev
+projects[custom_pub][patch][] = "http://public.viguierjust.com/1424534-features_rules_integration-10.patch"
 projects[date][type] = "module"
 projects[date][patch][] = "http://drupal.org/files/add-required-marker-1248786-7.patch"
 projects[date_ical][type] = "module"
@@ -148,6 +151,7 @@ projects[plupload][type] = "module"
 projects[potx][type] = "module"
 projects[prepopulate][type] = "module"
 projects[print][type] = "module"
+projects[private][type] = "module"
 projects[realname][type] = "module"
 projects[rb][type] = "module"
 projects[references][type] = "module"
@@ -174,7 +178,7 @@ projects[uuid][type] = "module"
 projects[uuid][version] = 1.x-dev
 projects[uuid][patch][] = "http://drupal.org/files/1596990-remove_features_enable-1.patch"
 projects[uuid][patch][] = "http://drupal.org/files/1628456-module_name-1.patch"
-projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-1594230-2.patch"
+projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-1594230-3.patch"
 projects[variable][type] = "module"
 projects[views][type] = "module"
 projects[views][patch][] = "http://drupal.org/files/1651726-entity_label-1.patch"
@@ -487,6 +491,16 @@ projects[hr_assessments_i18n][type] = "module"
 projects[hr_assessments_i18n][download][type] = "git"
 projects[hr_assessments_i18n][download][url] = "https://git.humanitarianresponse.info/git/hr_assessments_i18n.git"
 projects[hr_assessments_i18n][download][branch] = "master"
+
+projects[hr_private][type] = "module"
+projects[hr_private][download][type] = "git"
+projects[hr_private][download][url] = "https://git.humanitarianresponse.info/git/hr_private.git"
+projects[hr_private][download][branch] = "master"
+
+projects[hr_reliefweb][type] = "module"
+projects[hr_reliefweb][download][type] = "git"
+projects[hr_reliefweb][download][url] = "https://git.humanitarianresponse.info/git/hr_reliefweb.git"
+projects[hr_reliefweb][download][branch] = "master"
 
 ; CRF Specific
 
