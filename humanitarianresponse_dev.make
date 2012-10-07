@@ -35,6 +35,7 @@ projects[auto_entitylabel][type] = "module"
 projects[autosave][type] = "module"
 projects[better_formats][type] = "module"
 projects[boxes][type] = "module"
+projects[breakpoints][type] = "module"
 projects[browserid][type] = "module"
 projects[browserid][version] = 1.x-dev
 projects[calendar][type] = "module"
@@ -77,9 +78,11 @@ projects[feeds][type] = "module"
 projects[field_collection][type] = "module"
 projects[field_collection][patch][] = "http://drupal.org/files/issue_1329856_1.patch"
 projects[field_collection_views][type] = "module"
+projects[field_formatter_settings][type] = "module"
 projects[field_permissions][type] = "module"
 projects[file_entity][type] = "module"
 projects[file_entity][version] = 2.0-unstable6
+projects[flexslider][type] = "module"
 projects[follow][type] = "module"
 projects[fserver][type] = "module"
 projects[fserver][patch][] = "http://drupal.org/files/1416178-update_views-8.patch"
@@ -155,7 +158,9 @@ projects[private][type] = "module"
 projects[realname][type] = "module"
 projects[rb][type] = "module"
 projects[references][type] = "module"
-projects[references_dialog][type] = "module" 
+projects[references_dialog][type] = "module"
+projects[resp_img][type] = "module"
+projects[resp_img][version] = 1.x-dev
 projects[rules][type] = "module"
 projects[search_api][type] = "module"
 projects[search_api][patch][] = "http://drupal.org/files/1777710_remove_get_q_for_base_paths.patch"
@@ -501,6 +506,16 @@ projects[hr_reliefweb][download][type] = "git"
 projects[hr_reliefweb][download][url] = "https://git.humanitarianresponse.info/git/hr_reliefweb.git"
 projects[hr_reliefweb][download][branch] = "master"
 
+projects[hr_resp_img][type] = "module"
+projects[hr_resp_img][download][type] = "git"
+projects[hr_resp_img][download][url] = "https://git.humanitarianresponse.info/git/hr_resp_img.git"
+projects[hr_resp_img][download][branch] = "master"
+
+projects[hr_news_slideshow][type] = "module"
+projects[hr_news_slideshow][download][type] = "git"
+projects[hr_news_slideshow][download][url] = "https://git.humanitarianresponse.info/git/hr_news_slideshow.git"
+projects[hr_news_slideshow][download][branch] = "master"
+
 ; CRF Specific
 
 projects[workflow_submit][type] = "module"
@@ -562,6 +577,23 @@ projects[humanitarianresponse][download][type] = "git"
 projects[humanitarianresponse][download][url] = "https://git.humanitarianresponse.info/git/theme.git"
 projects[humanitarianresponse][download][branch] = "master"
 
+; Profiles
+; ---------
+projects[emergency_site][type] = "profile"
+projects[emergency_site][download][type] = "git"
+projects[emergency_site][download][url] = "https://git.humanitarianresponse.info/git/emergency_profile.git"
+projects[emergency_site][download][branch] = "master"
+
+projects[humanitarianresponse_minimal][type] = "profile"
+projects[humanitarianresponse_minimal][download][type] = "git"
+projects[humanitarianresponse_minimal][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_minimal.git"
+projects[humanitarianresponse_minimal][download][branch] = "master"
+
+projects[crf_site][type] = "profile"
+projects[crf_site][download][type] = "git"
+projects[crf_site][download][url] = "https://git.humanitarianresponse.info/git/crf/profile.git"
+projects[crf_site][download][branch] = "master"
+
 ; Libraries
 ; ---------
 libraries[SolrPhpClient][type] = "libraries"
@@ -585,19 +617,6 @@ libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
 libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips/Highcharts-2.2.5.zip"
 
-; Profiles
-; ---------
-projects[emergency_site][type] = "profile"
-projects[emergency_site][download][type] = "git"
-projects[emergency_site][download][url] = "https://git.humanitarianresponse.info/git/emergency_profile.git"
-projects[emergency_site][download][branch] = "master"
-
-projects[humanitarianresponse_minimal][type] = "profile"
-projects[humanitarianresponse_minimal][download][type] = "git"
-projects[humanitarianresponse_minimal][download][url] = "https://git.humanitarianresponse.info/git/humanitarianresponse_minimal.git"
-projects[humanitarianresponse_minimal][download][branch] = "master"
-
-projects[crf_site][type] = "profile"
-projects[crf_site][download][type] = "git"
-projects[crf_site][download][url] = "https://git.humanitarianresponse.info/git/crf/profile.git"
-projects[crf_site][download][branch] = "master"
+libraries[flexslider][type] = "libraries"
+libraries[flexslider][download][type] = "file"
+libraries[flexslider][download][url] = "http://github.com/downloads/woothemes/FlexSlider/FlexSlider-2.0.zip"
