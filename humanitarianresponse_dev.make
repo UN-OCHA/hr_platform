@@ -193,6 +193,7 @@ projects[views_slideshow][type] = "module"
 projects[views_slideshow][patch][] = "http://drupal.org/files/1240642-hook_init-13_3.0.patch"
 projects[workflow][type] = "module"
 projects[workflow][version] = 1.x-dev
+projects[workflow_submit][type] = "module"
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
 
@@ -517,11 +518,6 @@ projects[hr_news_slideshow][download][url] = "https://git.humanitarianresponse.i
 projects[hr_news_slideshow][download][branch] = "master"
 
 ; CRF Specific
-
-projects[workflow_submit][type] = "module"
-projects[workflow_submit][download][type] = "git"
-projects[workflow_submit][download][url] = "https://git.humanitarianresponse.info/git/crf/workflow_submit.git"
-projects[workflow_submit][download][branch] = "master"
 
 projects[crf_sitrep][type] = "module"
 projects[crf_sitrep][download][type] = "git"
