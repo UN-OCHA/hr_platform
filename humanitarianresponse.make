@@ -312,7 +312,3 @@ libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbo
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
 libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips/Highcharts-2.2.5.zip"
-
-libraries[flexslider][type] = "libraries"
-libraries[flexslider][download][type] = "file"
-libraries[flexslider][download][url] = "http://github.com/downloads/woothemes/FlexSlider/FlexSlider-2.0.zip"
