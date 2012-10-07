@@ -83,6 +83,7 @@ projects[field_permissions][type] = "module"
 projects[file_entity][type] = "module"
 projects[file_entity][version] = 2.0-unstable6
 projects[flexslider][type] = "module"
+projects[flexslider][patch][] = "http://drupal.org/files/1736474-makefile-4.patch"
 projects[follow][type] = "module"
 projects[fserver][type] = "module"
 projects[fserver][patch][] = "http://drupal.org/files/1416178-update_views-8.patch"
