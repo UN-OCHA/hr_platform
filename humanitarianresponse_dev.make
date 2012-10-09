@@ -54,7 +54,6 @@ projects[countries_borders][type] = "module"
 projects[ctools][type] = "module"
 projects[custom_pub][type] = "module"
 projects[custom_pub][version] = 1.x-dev
-projects[custom_pub][patch][] = "http://drupal.org/files/1424534-features_integration-11.patch"
 projects[date][type] = "module"
 projects[date][patch][] = "http://drupal.org/files/add-required-marker-1248786-7.patch"
 projects[date_ical][type] = "module"
