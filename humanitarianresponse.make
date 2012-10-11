@@ -276,7 +276,6 @@ projects[crf_content_batch][location] = http://features.humanitarianresponse.inf
 projects[crf_contacts_upload][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
-projects[workflow_submit][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes

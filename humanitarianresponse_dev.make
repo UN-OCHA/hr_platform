@@ -522,47 +522,47 @@ projects[hr_news_slideshow][download][branch] = "master"
 
 projects[crf_sitrep][type] = "module"
 projects[crf_sitrep][download][type] = "git"
-projects[crf_sitrep][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_sitrep.git"
+projects[crf_sitrep][download][url] = "https://github.com/commonrequestformat/crf_sitrep.git"
 projects[crf_sitrep][download][branch] = "master"
 
 projects[crf_requests][type] = "module"
 projects[crf_requests][download][type] = "git"
-projects[crf_requests][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_requests.git"
+projects[crf_requests][download][url] = "https://github.com/commonrequestformat/crf_requests.git"
 projects[crf_requests][download][branch] = "master"
 
-projects[crf_sec_analysis][type] = "module"
-projects[crf_sec_analysis][download][type] = "git"
-projects[crf_sec_analysis][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_sec_analysis.git"
-projects[crf_sec_analysis][download][branch] = "master"
+projects[crf_sectoral_analysis][type] = "module"
+projects[crf_sectoral_analysis][download][type] = "git"
+projects[crf_sectoral_analysis][download][url] = "https://github.com/commonrequestformat/crf_sectoral_analysis.git"
+projects[crf_sectoral_analysis][download][branch] = "master"
 
 projects[crf_content_batch][type] = "module"
 projects[crf_content_batch][download][type] = "git"
-projects[crf_content_batch][download][url] = "https://github.com/larskleiner/crf_content_batch.git"
+projects[crf_content_batch][download][url] = "https://github.com/commonrequestformat/crf_content_batch.git"
 projects[crf_content_batch][download][branch] = "master"
 
-projects[crf_ind_data_batch][type] = "module"
-projects[crf_ind_data_batch][download][type] = "git"
-projects[crf_ind_data_batch][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_ind_data_batch.git"
-projects[crf_ind_data_batch][download][branch] = "master"
+projects[crf_indicator_data_batch][type] = "module"
+projects[crf_indicator_data_batch][download][type] = "git"
+projects[crf_indicator_data_batch][download][url] = "https://github.com/commonrequestformat/crf_indicator_data_batch.git"
+projects[crf_indicator_data_batch][download][branch] = "master"
 
 projects[crf_assessments_batch][type] = "module"
 projects[crf_assessments_batch][download][type] = "git"
-projects[crf_assessments_batch][download][url] = "https://github.com/larskleiner/crf_assessments_batch.git"
+projects[crf_assessments_batch][download][url] = "https://github.com/commonrequestformat/crf_assessments_batch.git"
 projects[crf_assessments_batch][download][branch] = "master"
 
 projects[crf_contacts_upload][type] = "module"
 projects[crf_contacts_upload][download][type] = "git"
-projects[crf_contacts_upload][download][url] = "https://github.com/larskleiner/crf_contacts_upload.git"
+projects[crf_contacts_upload][download][url] = "https://github.com/commonrequestformat/crf_contacts_upload.git"
 projects[crf_contacts_upload][download][branch] = "master"
 
 projects[crf_cluster_content][type] = "module"
 projects[crf_cluster_content][download][type] = "git"
-projects[crf_cluster_content][download][url] = "https://github.com/larskleiner/crf_cluster_content.git"
+projects[crf_cluster_content][download][url] = "https://github.com/commonrequestformat/crf_cluster_content.git"
 projects[crf_cluster_content][download][branch] = "master"
 
 projects[crf_workflow][type] = "module"
 projects[crf_workflow][download][type] = "git"
-projects[crf_workflow][download][url] = "https://git.humanitarianresponse.info/git/crf/crf_workflow.git"
+projects[crf_workflow][download][url] = "https://github.com/commonrequestformat/crf_workflow.git"
 projects[crf_workflow][download][branch] = "master"
 
 ; Themes
@@ -588,7 +588,7 @@ projects[humanitarianresponse_minimal][download][branch] = "master"
 
 projects[crf_site][type] = "profile"
 projects[crf_site][download][type] = "git"
-projects[crf_site][download][url] = "https://git.humanitarianresponse.info/git/crf/profile.git"
+projects[crf_site][download][url] = "https://github.com/commonrequestformat/crf_site.git"
 projects[crf_site][download][branch] = "master"
 
 ; Libraries
