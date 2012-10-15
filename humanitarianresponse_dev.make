@@ -39,6 +39,7 @@ projects[breakpoints][type] = "module"
 projects[browserid][type] = "module"
 projects[browserid][version] = 1.x-dev
 projects[calendar][type] = "module"
+projects[calendar][patch][] = "http://drupal.org/files/groupby_times_fix-1397986-15.patch"
 projects[captcha][type] = "module"
 projects[cck_select_other][type] = "module"
 projects[colorbox][type] = "module"
