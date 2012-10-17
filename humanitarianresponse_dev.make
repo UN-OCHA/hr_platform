@@ -36,6 +36,7 @@ projects[autosave][type] = "module"
 projects[better_formats][type] = "module"
 projects[boxes][type] = "module"
 projects[breakpoints][type] = "module"
+projects[breakpoints][patch][] = "http://atrium.humanitarianresponse.info/sites/atrium.humanitarianresponse.info/files/breakpoints_1x_multiplier.patch"
 projects[browserid][type] = "module"
 projects[browserid][version] = 1.x-dev
 projects[calendar][type] = "module"
