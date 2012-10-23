@@ -192,14 +192,15 @@ projects[variable][type] = "module"
 projects[views][type] = "module"
 projects[views][patch][] = "http://drupal.org/files/1651726-entity_label-1.patch"
 projects[views_column_class][type] = "module"
+projects[views_data_export][type] = "module"
 projects[views_field_view][type] = "module"
 projects[views_slideshow][type] = "module"
 projects[views_slideshow][patch][] = "http://drupal.org/files/1240642-hook_init-13_3.0.patch"
+projects[views_tree][type] = "module"
 projects[workflow][type] = "module"
 projects[workflow][version] = 1.x-dev
 projects[workflow_submit][type] = "module"
 projects[wysiwyg][type] = "module"
-projects[wysiwyg][version] = 2.x-dev
 
 
 projects[humanitarianresponse_documents][location] = http://features.humanitarianresponse.info/fserver
