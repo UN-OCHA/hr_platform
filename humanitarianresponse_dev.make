@@ -569,6 +569,11 @@ projects[crf_cluster_content][download][type] = "git"
 projects[crf_cluster_content][download][url] = "https://github.com/commonrequestformat/crf_cluster_content.git"
 projects[crf_cluster_content][download][branch] = "master"
 
+projects[crf_users][type] = "module"
+projects[crf_users][download][type] = "git"
+projects[crf_users][download][url] = "https://github.com/commonrequestformat/crf_users.git"
+projects[crf_users][download][branch] = "master"
+
 projects[crf_workflow][type] = "module"
 projects[crf_workflow][download][type] = "git"
 projects[crf_workflow][download][url] = "https://github.com/commonrequestformat/crf_workflow.git"

@@ -272,6 +272,7 @@ projects[hr_assessments_data][location] = http://features.humanitarianresponse.i
 
 ; CRF specific
 projects[crf_workflow][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_users][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_sitrep][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_requests][location] = http://features.humanitarianresponse.info/fserver
