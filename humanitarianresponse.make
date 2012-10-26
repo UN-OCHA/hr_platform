@@ -199,6 +199,7 @@ projects[views_field_view][type] = "module"
 projects[views_slideshow][type] = "module"
 projects[views_slideshow][patch][] = "http://drupal.org/files/1240642-hook_init-13_3.0.patch"
 projects[views_tree][type] = "module"
+projects[vppr][type] = "module"
 projects[workflow][type] = "module"
 projects[workflow][version] = 1.x-dev
 projects[workflow_submit][type] = "module"
