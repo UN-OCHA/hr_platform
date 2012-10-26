@@ -204,6 +204,8 @@ projects[workflow][type] = "module"
 projects[workflow][version] = 1.x-dev
 projects[workflow_submit][type] = "module"
 projects[wysiwyg][type] = "module"
+projects[wysiwyg][version] = 2.x-dev
+; Using 2.x-dev for http://drupal.org/node/1802394
 
 
 projects[humanitarianresponse_documents][location] = http://features.humanitarianresponse.info/fserver
