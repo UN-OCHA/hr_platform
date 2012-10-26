@@ -46,7 +46,8 @@ projects[colorbox][type] = "module"
 projects[conditional_fields][type] = "module"
 projects[content_access][type] = "module"
 projects[context][type] = "module"
-projects[context][version] = 3.x-dev ; for http://drupal.org/node/661094
+projects[context][version] = 3.x-dev
+; using 3.x-dev for http://drupal.org/node/661094
 projects[context_breadcrumb_current_page][type] = "module"
 projects[context_disable_context][type] = "module"
 projects[context_get][type] = "module"
