@@ -169,7 +169,6 @@ projects[resp_img][type] = "module"
 projects[resp_img][version] = 2.x-dev
 projects[rules][type] = "module"
 projects[search_api][type] = "module"
-projects[search_api][patch][] = "http://drupal.org/files/1777710_remove_get_q_for_base_paths.patch"
 projects[search_api_solr][type] = "module"
 projects[search_api_solr][version] = 1.x-dev
 projects[session_api][type] = "module"
