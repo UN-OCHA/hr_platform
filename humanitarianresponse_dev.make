@@ -88,6 +88,7 @@ projects[field_formatter_settings][type] = "module"
 projects[field_permissions][type] = "module"
 projects[file_entity][type] = "module"
 projects[file_entity][version] = 2.0-unstable6
+projects[file_formatters][type] = "module"
 projects[flexslider][type] = "module"
 projects[flexslider][patch][] = "http://drupal.org/files/1736474-makefile-4.patch"
 projects[follow][type] = "module"
