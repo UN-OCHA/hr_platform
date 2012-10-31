@@ -143,6 +143,7 @@ projects[media_gallery][patch][] = "http://features.humanitarianresponse.info/si
 projects[media_responsive][type] = "module"
 projects[media_vimeo][type] = "module"
 projects[media_youtube][type] = "module"
+projects[maillog][type] = "module"
 projects[mailsystem][type] = "module"
 projects[menu_import][type] = "module"
 projects[menu_token][type] = "module"
