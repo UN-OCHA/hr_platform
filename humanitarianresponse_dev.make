@@ -176,6 +176,7 @@ projects[rules][type] = "module"
 projects[search_api][type] = "module"
 projects[search_api_solr][type] = "module"
 projects[search_api_solr][version] = 1.x-dev
+projects[search_api_solr][patch][] = "http://drupal.org/files/1813670-unsupported_operand-6.patch"
 projects[session_api][type] = "module"
 projects[session_api][version] = 1.x-dev
 projects[sharethis][type] = "module"
