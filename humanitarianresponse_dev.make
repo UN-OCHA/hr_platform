@@ -196,6 +196,7 @@ projects[uuid][patch][] = "http://drupal.org/files/1596990-remove_features_enabl
 projects[uuid][patch][] = "http://drupal.org/files/1628456-module_name-1.patch"
 projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-1594230-3.patch"
 projects[variable][type] = "module"
+projects[view_unpublished][type] = "module"
 projects[views][type] = "module"
 projects[views][patch][] = "http://drupal.org/files/1651726-entity_label-1.patch"
 projects[views_column_class][type] = "module"
@@ -205,9 +206,12 @@ projects[views_slideshow][type] = "module"
 projects[views_slideshow][patch][] = "http://drupal.org/files/1240642-hook_init-13_3.0.patch"
 projects[views_tree][type] = "module"
 projects[vppr][type] = "module"
-projects[workflow][type] = "module"
-projects[workflow][version] = 1.x-dev
-projects[workflow_submit][type] = "module"
+projects[workbench][type] = "module"
+projects[workbench_access][type] = "module"
+projects[workbench_access][patch][] = "https://drupal.org/files/workbench_access_active_options-1561822-2.patch"
+projects[workbench_access][patch][] = "https://drupal.org/files/workbench_access-rules_support-1285110-35.patch"
+projects[workbench_moderation][type] = "module"
+projects[workbench_moderation][patch][] = "https://drupal.org/files/workbench_moderation-featuresint-state-transition-1314508-38.patch"
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
 ; Using 2.x-dev for http://drupal.org/node/1802394
@@ -589,10 +593,10 @@ projects[crf_users][download][type] = "git"
 projects[crf_users][download][url] = "https://github.com/commonrequestformat/crf_users.git"
 projects[crf_users][download][branch] = "master"
 
-projects[crf_workflow][type] = "module"
-projects[crf_workflow][download][type] = "git"
-projects[crf_workflow][download][url] = "https://github.com/commonrequestformat/crf_workflow.git"
-projects[crf_workflow][download][branch] = "master"
+projects[crf_workbench][type] = "module"
+projects[crf_workbench][download][type] = "git"
+projects[crf_workbench][download][url] = "https://github.com/commonrequestformat/crf_workbench.git"
+projects[crf_workbench][download][branch] = "master"
 
 ; Themes
 ; --------
