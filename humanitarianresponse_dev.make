@@ -538,6 +538,11 @@ projects[hr_assessments_data][download][type] = "git"
 projects[hr_assessments_data][download][url] = "https://github.com/humanitarianresponse/hr_assessments_data.git"
 projects[hr_assessments_data][download][branch] = "master"
 
+projects[hr_help][type] = "module"
+projects[hr_help][download][type] = "git"
+projects[hr_help][download][url] = "https://github.com/humanitarianresponse/hr_help.git"
+projects[hr_help][download][branch] = "master"
+
 ; CRF Specific
 
 projects[crf_sitrep][type] = "module"
