@@ -126,6 +126,8 @@ projects[l10n_update][patch][] = "http://drupal.org/files/1421600-text_groups-7.
 projects[l10n_server][type] = "module"
 projects[l10n_server][patch][] = "http://drupal.org/files/1227734-textgroups-4.patch"
 projects[languagefield][type] = "module"
+projects[languagefield][version] = 1.x-dev
+; see http://drupal.org/node/1618780
 projects[lang_dropdown][type] = "module"
 projects[libraries][type] = "module"
 projects[link][type] = "module"
