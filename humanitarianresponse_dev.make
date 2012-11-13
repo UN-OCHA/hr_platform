@@ -86,6 +86,7 @@ projects[field_collection][type] = "module"
 projects[field_collection][patch][] = "http://drupal.org/files/issue_1329856_1.patch"
 projects[field_collection_views][type] = "module"
 projects[field_formatter_settings][type] = "module"
+projects[field_group][type] = "module"
 projects[field_permissions][type] = "module"
 projects[file_entity][type] = "module"
 projects[file_entity][version] = 2.0-unstable6
@@ -598,6 +599,11 @@ projects[crf_workbench][type] = "module"
 projects[crf_workbench][download][type] = "git"
 projects[crf_workbench][download][url] = "https://github.com/commonrequestformat/crf_workbench.git"
 projects[crf_workbench][download][branch] = "master"
+
+projects[crf_fts_message][type] = "module"
+projects[crf_fts_message][download][type] = "git"
+projects[crf_fts_message][download][url] = "https://github.com/commonrequestformat/crf_fts_message.git"
+projects[crf_fts_message][download][branch] = "master"
 
 ; Themes
 ; --------
