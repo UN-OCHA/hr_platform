@@ -70,7 +70,8 @@ projects[email_registration][type] = "module"
 projects[empty_front_page][type] = "module"
 projects[entity][type] = "module"
 projects[entityreference][type] = "module"
-projects[entityreference][patch][] = "http://drupal.org/files/1608358-selectionhandler-views-broken.patch"
+projects[entityreference][version] = 1.x-dev
+; see http://drupal.org/node/1608358
 projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
 projects[extlink][type] = "module"
