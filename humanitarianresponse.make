@@ -287,6 +287,7 @@ projects[hr_resp_img][location] = http://features.humanitarianresponse.info/fser
 projects[hr_news_slideshow][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_assessments_data][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_help][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_print][location] = http://features.humanitarianresponse.info/fserver
 
 ; CRF specific
 projects[crf_workflow][location] = http://features.humanitarianresponse.info/fserver
