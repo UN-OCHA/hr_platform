@@ -74,6 +74,8 @@ projects[entity][type] = "module"
 projects[entityreference][type] = "module"
 projects[entityreference][version] = 1.x-dev
 ; see http://drupal.org/node/1608358
+projects[entityreference_view_widget][type] = "module"
+projects[entityreference_view_widget][version] = 1.x-dev
 projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
 projects[extlink][type] = "module"
