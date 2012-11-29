@@ -66,6 +66,7 @@ projects[delta][type] = "module"
 projects[devel][type] = "module"
 projects[diff][type] = "module"
 projects[diff][version] = 3.0-alpha1
+projects[ds][type] = "module"
 projects[email][type] = "module"
 projects[email_registration][type] = "module"
 projects[empty_front_page][type] = "module"
