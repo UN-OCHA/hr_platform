@@ -620,6 +620,31 @@ projects[crf_fts_message][download][type] = "git"
 projects[crf_fts_message][download][url] = "https://github.com/commonrequestformat/crf_fts_message.git"
 projects[crf_fts_message][download][branch] = "master"
 
+projects[crf_3w_data][type] = "module"
+projects[crf_3w_data][download][type] = "git"
+projects[crf_3w_data][download][url] = "https://github.com/commonrequestformat/crf_3w_data.git"
+projects[crf_3w_data][download][branch] = "master"
+
+projects[crf_chf_erf][type] = "module"
+projects[crf_chf_erf][download][type] = "git"
+projects[crf_chf_erf][download][url] = "https://github.com/commonrequestformat/crf_chf_erf.git"
+projects[crf_chf_erf][download][branch] = "master"
+
+projects[crf_humanitarian_bulletin][type] = "module"
+projects[crf_humanitarian_bulletin][download][type] = "git"
+projects[crf_humanitarian_bulletin][download][url] = "https://github.com/commonrequestformat/crf_humanitarian_bulletin.git"
+projects[crf_humanitarian_bulletin][download][branch] = "master"
+
+projects[crf_non_cluster_requests][type] = "module"
+projects[crf_non_cluster_requests][download][type] = "git"
+projects[crf_non_cluster_requests][download][url] = "https://github.com/commonrequestformat/crf_non_cluster_requests.git"
+projects[crf_non_cluster_requests][download][branch] = "master"
+
+projects[crf_pipeline_monitoring][type] = "module"
+projects[crf_pipeline_monitoring][download][type] = "git"
+projects[crf_pipeline_monitoring][download][url] = "https://github.com/commonrequestformat/crf_pipeline_monitoring.git"
+projects[crf_pipeline_monitoring][download][branch] = "master"
+
 ; Themes
 ; --------
 projects[omega][type] = "theme"
