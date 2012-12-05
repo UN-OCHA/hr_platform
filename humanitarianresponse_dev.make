@@ -71,6 +71,8 @@ projects[email][type] = "module"
 projects[email_registration][type] = "module"
 projects[empty_front_page][type] = "module"
 projects[entity][type] = "module"
+projects[entityconnect][type] = "module"
+projects[entityconnect][version] = 1.x-dev
 projects[entityreference][type] = "module"
 projects[entityreference][version] = 1.x-dev
 ; see http://drupal.org/node/1608358
@@ -179,7 +181,6 @@ projects[print][type] = "module"
 projects[private][type] = "module"
 projects[realname][type] = "module"
 projects[references][type] = "module"
-projects[references_dialog][type] = "module"
 projects[resp_img][type] = "module"
 projects[resp_img][version] = 2.x-dev
 projects[roleassign][type] = "module"
