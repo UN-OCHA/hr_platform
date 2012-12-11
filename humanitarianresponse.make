@@ -138,6 +138,7 @@ projects[lang_dropdown][type] = "module"
 projects[libraries][type] = "module"
 projects[link][type] = "module"
 projects[logintoboggan][type] = "module"
+projects[maxlength][type] = "module"
 projects[media][type] = "module"
 projects[media][version] = 2.0-unstable6
 projects[media_bliptv][type] = "module"
