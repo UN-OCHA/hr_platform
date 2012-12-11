@@ -90,6 +90,7 @@ projects[feeds][patch][] = "http://drupal.org/files/feeds-unique-target-661606-1
 projects[feeds_tamper][type] = "module"
 projects[field_collection][type] = "module"
 projects[field_collection][patch][] = "http://drupal.org/files/issue_1329856_1.patch"
+projects[field_collection][patch][] = "http://drupal.org/files/field_collection-feeds_integration-1063434-89.patch"
 projects[field_collection_views][type] = "module"
 projects[field_formatter_settings][type] = "module"
 projects[field_group][type] = "module"
