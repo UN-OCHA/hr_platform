@@ -146,6 +146,7 @@ projects[media_colorbox][type] = "module"
 projects[media_colorbox][patch][] = "http://drupal.org/files/compatibility_media_1-1539528-1.patch"
 projects[media_flickr][type] = "module"
 projects[media_gallery][type] = "module"
+projects[media_gallery][version] = 1.0-beta8
 projects[media_gallery][patch][] = "http://drupal.org/files/1333674-conflicts-20.patch"
 projects[media_gallery][patch][] = "http://features.humanitarianresponse.info/sites/features.humanitarianresponse.info/files/media_gallery-media_2x.patch"
 projects[media_responsive][type] = "module"
