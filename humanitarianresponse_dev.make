@@ -46,8 +46,6 @@ projects[colorbox][type] = "module"
 projects[conditional_fields][type] = "module"
 projects[content_access][type] = "module"
 projects[context][type] = "module"
-projects[context][version] = 3.x-dev
-; using 3.x-dev for http://drupal.org/node/661094
 projects[context_breadcrumb_current_page][type] = "module"
 projects[context_disable_context][type] = "module"
 projects[context_get][type] = "module"
@@ -73,8 +71,6 @@ projects[entity][type] = "module"
 projects[entityconnect][type] = "module"
 projects[entityconnect][version] = 1.x-dev
 projects[entityreference][type] = "module"
-projects[entityreference][version] = 1.x-dev
-; see http://drupal.org/node/1608358
 projects[entityreference_view_widget][type] = "module"
 projects[entityreference_view_widget][version] = 1.x-dev
 projects[entity_menu_links][type] = "module"

@@ -45,8 +45,6 @@ projects[colorbox][type] = "module"
 projects[conditional_fields][type] = "module"
 projects[content_access][type] = "module"
 projects[context][type] = "module"
-projects[context][version] = 3.x-dev
-; using 3.x-dev for http://drupal.org/node/661094
 projects[context_breadcrumb_current_page][type] = "module"
 projects[context_disable_context][type] = "module"
 projects[context_get][type] = "module"
@@ -70,8 +68,6 @@ projects[email_registration][type] = "module"
 projects[empty_front_page][type] = "module"
 projects[entity][type] = "module"
 projects[entityreference][type] = "module"
-projects[entityreference][version] = 1.x-dev
-; see http://drupal.org/node/1608358
 projects[entity_menu_links][type] = "module"
 projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
