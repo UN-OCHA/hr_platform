@@ -310,9 +310,7 @@ projects[humanitarianresponse][location] = http://features.humanitarianresponse.
 ; Profiles
 ; ---------
 projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
-projects[emergency_site][type] = "profile"
 projects[humanitarianresponse_minimal][location] = http://features.humanitarianresponse.info/fserver
-projects[humanitarianresponse_minimal][type] = "profile"
 ;projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
 
 ; Libraries
