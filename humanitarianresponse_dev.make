@@ -77,6 +77,7 @@ projects[entityreference][version] = 1.x-dev
 ; see http://drupal.org/node/1608358
 projects[entityreference_view_widget][type] = "module"
 projects[entityreference_view_widget][version] = 1.x-dev
+projects[entity_menu_links][type] = "module"
 projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
 projects[extlink][type] = "module"
@@ -204,7 +205,6 @@ projects[token][type] = "module"
 projects[unique_field][type] = "module"
 projects[uuid][type] = "module"
 projects[uuid][version] = 1.x-dev
-projects[uuid][patch][] = "http://drupal.org/files/1596990-remove_features_enable-1.patch"
 projects[uuid][patch][] = "http://drupal.org/files/1628456-module_name-1.patch"
 projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-1594230-3.patch"
 projects[variable][type] = "module"
