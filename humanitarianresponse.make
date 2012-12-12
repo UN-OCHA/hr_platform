@@ -285,20 +285,20 @@ projects[hr_reliefweb][location] = http://features.humanitarianresponse.info/fse
 projects[hr_resp_img][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_news_slideshow][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_assessments_data][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_help][location] = http://features.humanitarianresponse.info/fserver
+;projects[hr_help][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_print][location] = http://features.humanitarianresponse.info/fserver
 
 ; CRF specific
-projects[crf_workflow][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_users][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_sitrep][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_requests][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_indicator_data_batch][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_content_batch][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_contacts_upload][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_workflow][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_users][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_sitrep][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_requests][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_indicator_data_batch][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_content_batch][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_contacts_upload][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes
@@ -310,8 +310,10 @@ projects[humanitarianresponse][location] = http://features.humanitarianresponse.
 ; Profiles
 ; ---------
 projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
+projects[emergency_site][type] = "profile"
 projects[humanitarianresponse_minimal][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
+projects[humanitarianresponse_minimal][type] = "profile"
+;projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
 
 ; Libraries
 ; ---------
