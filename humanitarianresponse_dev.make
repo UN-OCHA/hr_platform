@@ -30,6 +30,7 @@ projects[drupal][patch][] = "http://drupal.org/files/remove-po.patch"
 ; Modules
 ; --------
 projects[addressfield][type] = "module"
+projects[advanced_help][type] = "module"
 projects[autoassignrole][type] = "module"
 projects[auto_entitylabel][type] = "module"
 projects[autosave][type] = "module"
