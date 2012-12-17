@@ -35,8 +35,6 @@ projects[autosave][type] = "module"
 projects[better_formats][type] = "module"
 projects[boxes][type] = "module"
 projects[breakpoints][type] = "module"
-projects[browserid][type] = "module"
-projects[browserid][version] = 1.x-dev
 projects[calendar][type] = "module"
 projects[calendar][patch][] = "http://drupal.org/files/groupby_times_fix-1397986-15.patch"
 projects[captcha][type] = "module"
@@ -156,7 +154,6 @@ projects[menu_trail_by_path][type] = "module"
 projects[multiform][type] = "module"
 projects[nodereference_url][type] = "module"
 projects[openlayers][type] = "module"
-projects[panels][type] = "module"
 projects[pathauto][type] = "module"
 projects[pathologic][type] = "module"
 projects[path_alias_xt][type] = "module"
@@ -285,20 +282,20 @@ projects[hr_reliefweb][location] = http://features.humanitarianresponse.info/fse
 projects[hr_resp_img][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_news_slideshow][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_assessments_data][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_help][location] = http://features.humanitarianresponse.info/fserver
+;projects[hr_help][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_print][location] = http://features.humanitarianresponse.info/fserver
 
 ; CRF specific
-projects[crf_workflow][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_users][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_sitrep][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_requests][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_indicator_data_batch][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_content_batch][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_contacts_upload][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_workflow][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_users][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_sitrep][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_requests][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_indicator_data_batch][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_content_batch][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_contacts_upload][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
   
 
 ; Themes
@@ -311,7 +308,7 @@ projects[humanitarianresponse][location] = http://features.humanitarianresponse.
 ; ---------
 projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_minimal][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
+;projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
 
 ; Libraries
 ; ---------
