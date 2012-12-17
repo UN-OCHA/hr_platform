@@ -609,6 +609,11 @@ projects[crf_workbench][download][type] = "git"
 projects[crf_workbench][download][url] = "https://github.com/commonrequestformat/crf_workbench.git"
 projects[crf_workbench][download][branch] = "master"
 
+projects[crf_workbench_moderation][type] = "module"
+projects[crf_workbench_moderation][download][type] = "git"
+projects[crf_workbench_moderation][download][url] = "https://github.com/commonrequestformat/crf_workbench_moderation.git"
+projects[crf_workbench_moderation][download][branch] = "master"
+
 projects[crf_fts_message][type] = "module"
 projects[crf_fts_message][download][type] = "git"
 projects[crf_fts_message][download][url] = "https://github.com/commonrequestformat/crf_fts_message.git"
