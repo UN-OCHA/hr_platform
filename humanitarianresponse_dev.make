@@ -644,6 +644,11 @@ projects[crf_pipeline_monitoring][download][type] = "git"
 projects[crf_pipeline_monitoring][download][url] = "https://github.com/commonrequestformat/crf_pipeline_monitoring.git"
 projects[crf_pipeline_monitoring][download][branch] = "master"
 
+projects[crf_devel][type] = "module"
+projects[crf_devel][download][type] = "git"
+projects[crf_devel][download][url] = "https://github.com/commonrequestformat/crf_devel.git"
+projects[crf_devel][download][branch] = "master"
+
 ; Themes
 ; --------
 projects[omega][type] = "theme"
