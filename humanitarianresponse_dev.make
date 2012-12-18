@@ -216,6 +216,7 @@ projects[views_tree][type] = "module"
 projects[vppr][type] = "module"
 projects[workbench][type] = "module"
 projects[workbench_access][type] = "module"
+projects[workbench_access][version] = 1.x-dev
 projects[workbench_access][patch][] = "https://drupal.org/files/1285110-wa-rules_1.patch"
 projects[workbench_moderation][type] = "module"
 projects[workbench_moderation][patch][] = "https://drupal.org/files/workbench_moderation-featuresint-state-transition-1314508-38.patch"
