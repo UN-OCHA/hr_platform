@@ -194,7 +194,6 @@ projects[taxonomy_menu][patch][] = "http://drupal.org/files/taxonomy_menu.featur
 projects[taxonomy_menu][patch][] = "http://drupal.org/files/1665308-entity_translation_i18n-20.patch"
 projects[terms_of_use][type] = "module"
 projects[title][type] = "module"
-projects[title][patch][] = "http://drupal.org/files/1736476-title_entity_language-1.patch"
 projects[token][type] = "module"
 projects[unique_field][type] = "module"
 projects[uuid][type] = "module"
