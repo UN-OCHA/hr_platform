@@ -29,6 +29,7 @@ projects[drupal][patch][] = "http://drupal.org/files/remove-po.patch"
 ; Modules
 ; --------
 projects[addressfield][type] = "module"
+projects[advanced_help][type] = "module"
 projects[autoassignrole][type] = "module"
 projects[auto_entitylabel][type] = "module"
 projects[autosave][type] = "module"
@@ -65,7 +66,11 @@ projects[email][type] = "module"
 projects[email_registration][type] = "module"
 projects[empty_front_page][type] = "module"
 projects[entity][type] = "module"
+projects[entityconnect][type] = "module"
+projects[entityconnect][version] = 1.x-dev
 projects[entityreference][type] = "module"
+projects[entityreference_view_widget][type] = "module"
+projects[entityreference_view_widget][version] = 1.x-dev
 projects[entity_menu_links][type] = "module"
 projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
@@ -170,7 +175,6 @@ projects[print][type] = "module"
 projects[private][type] = "module"
 projects[realname][type] = "module"
 projects[references][type] = "module"
-projects[references_dialog][type] = "module"
 projects[resp_img][type] = "module"
 projects[resp_img][version] = 2.x-dev
 projects[roleassign][type] = "module"
@@ -208,9 +212,12 @@ projects[views_slideshow][type] = "module"
 projects[views_slideshow][patch][] = "http://drupal.org/files/1240642-hook_init-13_3.0.patch"
 projects[views_tree][type] = "module"
 projects[vppr][type] = "module"
-projects[workflow][type] = "module"
-projects[workflow][version] = 1.x-dev
-projects[workflow_submit][type] = "module"
+projects[workbench][type] = "module"
+projects[workbench_access][type] = "module"
+projects[workbench_access][version] = 1.x-dev
+projects[workbench_access][patch][] = "https://drupal.org/files/1285110-wa-rules_1.patch"
+projects[workbench_moderation][type] = "module"
+projects[workbench_moderation][patch][] = "https://drupal.org/files/workbench_moderation-featuresint-state-transition-1314508-38.patch"
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
 ; Using 2.x-dev for http://drupal.org/node/1802394
@@ -256,13 +263,6 @@ projects[humanitarianresponse_emergency_menu][location] = http://features.humani
 projects[humanitarianresponse_i18n][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_stats][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_aggregator][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_sitrep][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_indicator_definitions][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_indicator_data][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_revisions][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_graphs][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_cluster_objectives][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_mapping_styles][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_countries_borders][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_login][location] = http://features.humanitarianresponse.info/fserver
@@ -284,19 +284,35 @@ projects[hr_news_slideshow][location] = http://features.humanitarianresponse.inf
 projects[hr_assessments_data][location] = http://features.humanitarianresponse.info/fserver
 ;projects[hr_help][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_print][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_sitrep][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_cluster_objectives][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_indicator_data][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_indicator_definitions][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_graphs][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_revisions][location] = http://features.humanitarianresponse.info/fserver
 
 ; CRF specific
-;projects[crf_workflow][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_users][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_sitrep][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_requests][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_indicator_data_batch][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_content_batch][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_contacts_upload][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
-  
+
+projects[crf_sitrep][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_requests][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_content_batch][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_indicator_data_batch][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_assessments_batch][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_contacts_upload][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_cluster_content][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_users][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_workbench][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_workbench_moderation][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_fts_message][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_3w_data][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_chf_erf][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_humanitarian_bulletin][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_non_cluster_requests][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_pipeline_monitoring][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_devel][location] = http://features.humanitarianresponse.info/fserver
+
 
 ; Themes
 ; --------

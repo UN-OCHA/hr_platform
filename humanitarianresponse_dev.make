@@ -424,41 +424,6 @@ projects[humanitarianresponse_aggregator][download][type] = "git"
 projects[humanitarianresponse_aggregator][download][url] = "https://github.com/humanitarianresponse/humanitarianresponse_aggregator.git"
 projects[humanitarianresponse_aggregator][download][branch] = "master"
 
-projects[hr_sitrep][type] = "module"
-projects[hr_sitrep][download][type] = "git"
-projects[hr_sitrep][download][url] = "https://github.com/humanitarianresponse/hr_sitrep.git"
-projects[hr_sitrep][download][branch] = "master"
-
-projects[hr_cluster_objectives][type] = "module"
-projects[hr_cluster_objectives][download][type] = "git"
-projects[hr_cluster_objectives][download][url] = "https://github.com/humanitarianresponse/hr_cluster_objectives.git"
-projects[hr_cluster_objectives][download][branch] = "master"
-
-projects[hr_indicator_data][type] = "module"
-projects[hr_indicator_data][download][type] = "git"
-projects[hr_indicator_data][download][url] = "https://github.com/humanitarianresponse/hr_indicator_data.git"
-projects[hr_indicator_data][download][branch] = "master"
-
-projects[hr_indicator_definitions][type] = "module"
-projects[hr_indicator_definitions][download][type] = "git"
-projects[hr_indicator_definitions][download][url] = "https://github.com/humanitarianresponse/hr_indicator_definitions.git"
-projects[hr_indicator_definitions][download][branch] = "master"
-
-projects[hr_sectoral_analysis][type] = "module"
-projects[hr_sectoral_analysis][download][type] = "git"
-projects[hr_sectoral_analysis][download][url] = "https://github.com/humanitarianresponse/hr_sectoral_analysis.git"
-projects[hr_sectoral_analysis][download][branch] = "master"
-
-projects[hr_graphs][type] = "module"
-projects[hr_graphs][download][type] = "git"
-projects[hr_graphs][download][url] = "https://github.com/humanitarianresponse/hr_graphs.git"
-projects[hr_graphs][download][branch] = "master"
-
-projects[hr_revisions][type] = "module"
-projects[hr_revisions][download][type] = "git"
-projects[hr_revisions][download][url] = "https://github.com/humanitarianresponse/hr_revisions.git"
-projects[hr_revisions][download][branch] = "master"
-
 projects[hr_mapping_styles][type] = "module"
 projects[hr_mapping_styles][download][type] = "git"
 projects[hr_mapping_styles][download][url] = "https://github.com/humanitarianresponse/hr_mapping_styles.git"
@@ -558,6 +523,41 @@ projects[hr_print][type] = "module"
 projects[hr_print][download][type] = "git"
 projects[hr_print][download][url] = "https://github.com/humanitarianresponse/hr_print.git"
 projects[hr_print][download][branch] = "master"
+
+projects[hr_sitrep][type] = "module"
+projects[hr_sitrep][download][type] = "git"
+projects[hr_sitrep][download][url] = "https://github.com/humanitarianresponse/hr_sitrep.git"
+projects[hr_sitrep][download][branch] = "master"
+
+projects[hr_cluster_objectives][type] = "module"
+projects[hr_cluster_objectives][download][type] = "git"
+projects[hr_cluster_objectives][download][url] = "https://github.com/humanitarianresponse/hr_cluster_objectives.git"
+projects[hr_cluster_objectives][download][branch] = "master"
+
+projects[hr_indicator_data][type] = "module"
+projects[hr_indicator_data][download][type] = "git"
+projects[hr_indicator_data][download][url] = "https://github.com/humanitarianresponse/hr_indicator_data.git"
+projects[hr_indicator_data][download][branch] = "master"
+
+projects[hr_indicator_definitions][type] = "module"
+projects[hr_indicator_definitions][download][type] = "git"
+projects[hr_indicator_definitions][download][url] = "https://github.com/humanitarianresponse/hr_indicator_definitions.git"
+projects[hr_indicator_definitions][download][branch] = "master"
+
+projects[hr_sectoral_analysis][type] = "module"
+projects[hr_sectoral_analysis][download][type] = "git"
+projects[hr_sectoral_analysis][download][url] = "https://github.com/humanitarianresponse/hr_sectoral_analysis.git"
+projects[hr_sectoral_analysis][download][branch] = "master"
+
+projects[hr_graphs][type] = "module"
+projects[hr_graphs][download][type] = "git"
+projects[hr_graphs][download][url] = "https://github.com/humanitarianresponse/hr_graphs.git"
+projects[hr_graphs][download][branch] = "master"
+
+projects[hr_revisions][type] = "module"
+projects[hr_revisions][download][type] = "git"
+projects[hr_revisions][download][url] = "https://github.com/humanitarianresponse/hr_revisions.git"
+projects[hr_revisions][download][branch] = "master"
 
 ; CRF Specific
 
