@@ -323,7 +323,7 @@ projects[humanitarianresponse][location] = http://features.humanitarianresponse.
 ; ---------
 projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_minimal][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
 
 ; Libraries
 ; ---------
@@ -333,7 +333,7 @@ libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com
 
 libraries[superfish][type] = "libraries"
 libraries[superfish][download][type] = "git"
-libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
+libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal.git"
 libraries[superfish][download][branch] = "master"
 
 libraries[plupload][type] = "libraries"
