@@ -89,6 +89,7 @@ projects[field_collection][patch][] = "http://drupal.org/files/issue_1329856_1.p
 projects[field_collection][patch][] = "http://drupal.org/files/field_collection-feeds_integration-1063434-89.patch"
 projects[field_collection_views][type] = "module"
 projects[field_formatter_settings][type] = "module"
+projects[field_group][type] = "module"
 projects[field_permissions][type] = "module"
 projects[field_validation][type] = "module"
 projects[file_entity][type] = "module"
