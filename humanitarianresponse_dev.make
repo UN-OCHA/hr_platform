@@ -113,6 +113,7 @@ projects[geophp][type] = "module"
 projects[hierarchical_select][type] = "module"
 projects[hierarchical_select][version] = 3.x-dev
 projects[hierarchical_select][patch][] = "http://drupal.org/files/1563890-entity_translation-6.patch"
+projects[hierarchical_select][patch][] = "http://drupal.org/files/hierarchical_select-machine_name_for_features_export_with_fix_for_install-1477292-5.patch"
 projects[highcharts][type] = "module"
 projects[highcharts][download][type] = "git"
 projects[highcharts][download][url] = "http://git.drupal.org/project/highcharts.git"
