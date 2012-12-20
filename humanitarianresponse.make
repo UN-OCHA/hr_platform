@@ -89,6 +89,7 @@ projects[field_collection][patch][] = "http://drupal.org/files/issue_1329856_1.p
 projects[field_collection][patch][] = "http://drupal.org/files/field_collection-feeds_integration-1063434-89.patch"
 projects[field_collection_views][type] = "module"
 projects[field_formatter_settings][type] = "module"
+projects[field_group][type] = "module"
 projects[field_permissions][type] = "module"
 projects[field_validation][type] = "module"
 projects[file_entity][type] = "module"
@@ -203,6 +204,7 @@ projects[uuid][patch][] = "http://drupal.org/files/uuid-menu_links-1.patch"
 projects[uuid][patch][] = "http://drupal.org/files/1628456-module_name-1.patch"
 projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-1594230-3.patch"
 projects[variable][type] = "module"
+projects[view_unpublished][type] = "module"
 projects[views][type] = "module"
 projects[views][patch][] = "http://drupal.org/files/1651726-entity_label-1.patch"
 projects[views_column_class][type] = "module"
@@ -324,7 +326,7 @@ projects[humanitarianresponse][location] = http://features.humanitarianresponse.
 ; ---------
 projects[emergency_site][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_minimal][location] = http://features.humanitarianresponse.info/fserver
-;projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
 
 ; Libraries
 ; ---------
@@ -334,7 +336,7 @@ libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com
 
 libraries[superfish][type] = "libraries"
 libraries[superfish][download][type] = "git"
-libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
+libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal.git"
 libraries[superfish][download][branch] = "master"
 
 libraries[plupload][type] = "libraries"
