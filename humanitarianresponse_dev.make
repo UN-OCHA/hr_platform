@@ -630,6 +630,11 @@ projects[crf_3w_data][download][type] = "git"
 projects[crf_3w_data][download][url] = "https://github.com/commonrequestformat/crf_3w_data.git"
 projects[crf_3w_data][download][branch] = "master"
 
+projects[crf_baseline_data][type] = "module"
+projects[crf_baseline_data][download][type] = "git"
+projects[crf_baseline_data][download][url] = "https://github.com/commonrequestformat/crf_baseline_data.git"
+projects[crf_baseline_data][download][branch] = "master"
+
 projects[crf_chf_erf][type] = "module"
 projects[crf_chf_erf][download][type] = "git"
 projects[crf_chf_erf][download][url] = "https://github.com/commonrequestformat/crf_chf_erf.git"
