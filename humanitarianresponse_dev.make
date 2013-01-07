@@ -191,6 +191,7 @@ projects[search_api_solr][type] = "module"
 projects[session_api][type] = "module"
 projects[session_api][version] = 1.x-dev
 projects[sharethis][type] = "module"
+projects[stringoverrides][type] = "module"
 projects[strongarm][type] = "module"
 projects[superfish][type] = "module"
 projects[superfish][version] = 1.9-beta4
