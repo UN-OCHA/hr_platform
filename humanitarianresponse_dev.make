@@ -188,7 +188,6 @@ projects[role_export][type] = "module"
 projects[rules][type] = "module"
 projects[search_api][type] = "module"
 projects[search_api_solr][type] = "module"
-projects[search_api_solr][version] = 1.x-dev
 projects[session_api][type] = "module"
 projects[session_api][version] = 1.x-dev
 projects[sharethis][type] = "module"
