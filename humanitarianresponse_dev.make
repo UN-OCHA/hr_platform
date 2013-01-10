@@ -86,6 +86,8 @@ projects[features][patch][] = "http://drupal.org/files/features_static_caches-10
 projects[feeds][type] = "module"
 projects[feeds][patch][] = "http://drupal.org/files/ignore-empty-taxonomy-terms-1107522-13.patch"
 projects[feeds][patch][] = "http://drupal.org/files/feeds-unique-target-661606-115.patch"
+projects[feeds_et][type] = "module"
+projects[feeds_et][patch][] = "http://drupal.org/files/feeds_entity_translation_update.patch"
 projects[feeds_tamper][type] = "module"
 projects[field_collection][type] = "module"
 projects[field_collection][patch][] = "http://drupal.org/files/issue_1329856_1.patch"
@@ -562,6 +564,16 @@ projects[hr_revisions][type] = "module"
 projects[hr_revisions][download][type] = "git"
 projects[hr_revisions][download][url] = "https://github.com/humanitarianresponse/hr_revisions.git"
 projects[hr_revisions][download][branch] = "master"
+
+projects[hr_incidents][type] = "module"
+projects[hr_incidents][download][type] = "git"
+projects[hr_incidents][download][url] = "https://github.com/humanitarianresponse/hr_incidents.git"
+projects[hr_incidents][download][branch] = "master"
+
+projects[hr_keywords][type] = "module"
+projects[hr_keywords][download][type] = "git"
+projects[hr_keywords][download][url] = "https://github.com/humanitarianresponse/hr_keywords.git"
+projects[hr_keywords][download][branch] = "master"
 
 ; CRF Specific
 

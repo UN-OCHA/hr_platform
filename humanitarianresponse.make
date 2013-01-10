@@ -85,6 +85,8 @@ projects[features][patch][] = "http://drupal.org/files/features_static_caches-10
 projects[feeds][type] = "module"
 projects[feeds][patch][] = "http://drupal.org/files/ignore-empty-taxonomy-terms-1107522-13.patch"
 projects[feeds][patch][] = "http://drupal.org/files/feeds-unique-target-661606-115.patch"
+projects[feeds_et][type] = "module"
+projects[feeds_et][patch][] = "http://drupal.org/files/feeds_entity_translation_update.patch"
 projects[feeds_tamper][type] = "module"
 projects[field_collection][type] = "module"
 projects[field_collection][patch][] = "http://drupal.org/files/issue_1329856_1.patch"
@@ -295,6 +297,8 @@ projects[hr_indicator_definitions][location] = http://features.humanitarianrespo
 projects[hr_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_graphs][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_revisions][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_incidents][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_keywords][location] = http://features.humanitarianresponse.info/fserver
 
 ; CRF specific
 
