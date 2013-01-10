@@ -575,6 +575,11 @@ projects[hr_keywords][download][type] = "git"
 projects[hr_keywords][download][url] = "https://github.com/humanitarianresponse/hr_keywords.git"
 projects[hr_keywords][download][branch] = "master"
 
+projects[hr_geographic_level][type] = "module"
+projects[hr_geographic_level][download][type] = "git"
+projects[hr_geographic_level][download][url] = "https://github.com/humanitarianresponse/hr_geographic_level.git"
+projects[hr_geographic_level][download][branch] = "master"
+
 ; CRF Specific
 
 projects[crf_sitrep][type] = "module"

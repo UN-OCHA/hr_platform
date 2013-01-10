@@ -299,6 +299,7 @@ projects[hr_graphs][location] = http://features.humanitarianresponse.info/fserve
 projects[hr_revisions][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_incidents][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_keywords][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_geographic_level][location] = http://features.humanitarianresponse.info/fserver
 
 ; CRF specific
 
