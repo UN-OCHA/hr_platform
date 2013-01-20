@@ -367,3 +367,7 @@ libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips
 libraries[flexslider][type] = "libraries"
 libraries[flexslider][download][type] = "file"
 libraries[flexslider][download][url] = "http://github.com/downloads/woothemes/FlexSlider/FlexSlider-2.0.zip"
+
+libraries[iCalcreator][type] = "libraries"
+libraries[iCalcreator][download][type] = "file"
+libraries[iCalcreator][download][url] = "http://kigkonsult.se/downloads/dl.php?f=iCalcreator-2.16.6"
