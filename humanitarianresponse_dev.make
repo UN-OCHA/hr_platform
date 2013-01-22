@@ -75,6 +75,7 @@ projects[entityreference_view_widget][version] = 1.x-dev
 projects[entity_menu_links][type] = "module"
 projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
+projects[entity_translation][patch][] = "http://drupal.org/files/et-wrong_form_language-1888324-1.patch"
 projects[extlink][type] = "module"
 projects[facetapi][type] = "module"
 projects[facetapi_collapsible][type] = "module"
