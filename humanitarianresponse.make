@@ -188,6 +188,7 @@ projects[roleassign][type] = "module"
 projects[role_export][type] = "module"
 projects[rules][type] = "module"
 projects[search_api][type] = "module"
+projects[search_api][patch][] = "http://drupal.org/files/1895686-cannot_remove_facet_links-4.patch"
 projects[search_api_solr][type] = "module"
 projects[session_api][type] = "module"
 projects[session_api][version] = 1.x-dev
