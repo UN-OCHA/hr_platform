@@ -68,6 +68,7 @@ projects[empty_front_page][type] = "module"
 projects[entity][type] = "module"
 projects[entityconnect][type] = "module"
 projects[entityconnect][version] = 1.x-dev
+projects[entityconnect][patch][] = "http://drupal.org/files/entityconnect-undefined-element-1831446-8.patch"
 projects[entityreference][type] = "module"
 projects[entityreference_view_widget][type] = "module"
 projects[entityreference_view_widget][version] = 1.x-dev
