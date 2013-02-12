@@ -669,6 +669,11 @@ projects[crf_non_cluster_requests][download][type] = "git"
 projects[crf_non_cluster_requests][download][url] = "https://github.com/commonrequestformat/crf_non_cluster_requests.git"
 projects[crf_non_cluster_requests][download][branch] = "master"
 
+projects[crf_internal_request][type] = "module"
+projects[crf_internal_request][download][type] = "git"
+projects[crf_internal_request][download][url] = "https://github.com/commonrequestformat/crf_internal_request.git"
+projects[crf_internal_request][download][branch] = "master"
+
 projects[crf_pipeline_monitoring][type] = "module"
 projects[crf_pipeline_monitoring][download][type] = "git"
 projects[crf_pipeline_monitoring][download][url] = "https://github.com/commonrequestformat/crf_pipeline_monitoring.git"
