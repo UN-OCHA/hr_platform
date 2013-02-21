@@ -385,11 +385,6 @@ projects[humanitarianresponse_emergency_menu][download][type] = "git"
 projects[humanitarianresponse_emergency_menu][download][url] = "https://github.com/humanitarianresponse/humanitarianresponse_emergency_menu.git"
 projects[humanitarianresponse_emergency_menu][download][branch] = "master"
 
-projects[humanitarianresponse_organizations_data][type] = "module"
-projects[humanitarianresponse_organizations_data][download][type] = "git"
-projects[humanitarianresponse_organizations_data][download][url] = "https://github.com/humanitarianresponse/humanitarianresponse_organizations_data.git"
-projects[humanitarianresponse_organizations_data][download][branch] = "master"
-
 projects[humanitarianresponse_stats][type] = "module"
 projects[humanitarianresponse_stats][download][type] = "git"
 projects[humanitarianresponse_stats][download][url] = "https://github.com/humanitarianresponse/humanitarianresponse_stats.git"
