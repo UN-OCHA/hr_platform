@@ -231,7 +231,7 @@ projects[workbench_access_view][type] = "module"
 projects[workbench_access_view][download][type] = "git"
 projects[workbench_access_view][download][url] = "http://git.drupal.org/sandbox/agentrickard/1878184.git"
 projects[workbench_moderation][type] = "module"
-projects[workbench_moderation][patch][] = "https://drupal.org/files/workbench_moderation-1891534-1.patch"
+projects[workbench_moderation][patch][] = "http://drupal.org/files/workbench_moderation-1891534-1.patch"
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
 ; Using 2.x-dev for http://drupal.org/node/1802394
