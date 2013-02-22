@@ -33,6 +33,7 @@ projects[advanced_help][type] = "module"
 projects[autoassignrole][type] = "module"
 projects[auto_entitylabel][type] = "module"
 projects[autosave][type] = "module"
+projects[better_exposed_filters][type] = "module"
 projects[better_formats][type] = "module"
 projects[boxes][type] = "module"
 projects[breakpoints][type] = "module"
@@ -90,7 +91,6 @@ projects[field_collection][patch][] = "http://drupal.org/files/issue_1329856_1.p
 projects[field_collection][patch][] = "http://drupal.org/files/field_collection-feeds_integration-1063434-89.patch"
 projects[field_collection_views][type] = "module"
 projects[field_formatter_settings][type] = "module"
-projects[field_group][type] = "module"
 projects[field_permissions][type] = "module"
 projects[field_validation][type] = "module"
 projects[file_entity][type] = "module"
@@ -229,6 +229,7 @@ projects[workbench_access_view][type] = "module"
 projects[workbench_access_view][download][type] = "git"
 projects[workbench_access_view][download][url] = "http://git.drupal.org/sandbox/agentrickard/1878184.git"
 projects[workbench_moderation][type] = "module"
+projects[workbench_moderation][patch][] = "https://drupal.org/files/workbench_moderation-1891534-1.patch"
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
 ; Using 2.x-dev for http://drupal.org/node/1802394
@@ -317,6 +318,7 @@ projects[crf_humanitarian_bulletin][location] = http://features.humanitarianresp
 projects[crf_non_cluster_requests][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_pipeline_monitoring][location] = http://features.humanitarianresponse.info/fserver
 projects[crf_devel][location] = http://features.humanitarianresponse.info/fserver
+projects[crf_internal_request][location] = http://features.humanitarianresponse.info/fserver
 
 
 ; Themes
