@@ -352,7 +352,7 @@ libraries[plupload][download][url] = "http://cloud.github.com/downloads/moxiecod
 
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
+libraries[colorbox][download][url] = "http://github.com/jackmoore/colorbox/archive/1.4.3.zip"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
