@@ -71,7 +71,7 @@ projects[litejazz][type] = "theme"
 
 projects[hdpt][type] = "theme"
 projects[hdpt][download][type] = "git"
-projects[hdpt][download][url] = "https://git.humanitarianresponse.info/git/hdpt/theme.git"
+projects[hdpt][download][url] = "https://github.com/humanitarianresponse/hdptcar.git"
 projects[hdpt][download][branch] = "master"
 
 ; Libraries
