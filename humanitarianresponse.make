@@ -176,7 +176,7 @@ projects[multiform][type] = "module"
 projects[nodequeue][type] = "module"
 projects[nodequeue][version] = 2.x-dev
 ; Issue #997104
-projects[nodequeue][patch][] = http://drupal.org/files/nodequeue_undefined_property_997104_7.patch
+projects[nodequeue][patch][] = "http://drupal.org/files/nodequeue-fix_undefined_property_new-997104-12.patch"
 projects[nodereference_url][type] = "module"
 projects[openlayers][type] = "module"
 projects[pathauto][type] = "module"
