@@ -173,10 +173,12 @@ projects[menu_token][type] = "module"
 projects[menu_token][patch][] = "http://drupal.org/files/menu_token-undefined_constant_notice-1899696-12.patch"
 projects[menu_trail_by_path][type] = "module"
 projects[multiform][type] = "module"
-projects[nodequeue][type] = "module"
-projects[nodequeue][version] = 2.x-dev
+projects[nodequeue][type] = module
+projects[nodequeue][download][type] = git
+projects[nodequeue][download][url] = http://git.drupal.org/project/nodequeue.git
+projects[nodequeue][download][revision] = 70c0602
 ; Issue #997104
-projects[nodequeue][patch][] = "http://drupal.org/files/nodequeue-fix_undefined_property_new-997104-12.patch"
+projects[nodequeue][patch][] = http://drupal.org/files/nodequeue_undefined_property_997104_7.patch
 projects[nodereference_url][type] = "module"
 projects[openlayers][type] = "module"
 projects[pathauto][type] = "module"
