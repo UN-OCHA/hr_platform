@@ -210,6 +210,7 @@ projects[taxonomy_menu][patch][] = "http://drupal.org/files/1665308-entity_trans
 projects[terms_of_use][type] = "module"
 projects[title][type] = "module"
 projects[token][type] = "module"
+projects[token_filter][type] = "module"
 projects[unique_field][type] = "module"
 projects[uuid][type] = "module"
 projects[uuid][version] = 1.x-dev
