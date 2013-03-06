@@ -412,3 +412,35 @@ projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
 ; Using 2.x-dev for http://drupal.org/node/1802394
 projects[wysiwyg][subdir] = "contrib"
+
+; Libraries
+; ---------
+libraries[SolrPhpClient][type] = "libraries"
+libraries[SolrPhpClient][download][type] = "file"
+libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com/files/SolrPhpClient.r60.2011-05-04.tgz"
+
+libraries[superfish][type] = "libraries"
+libraries[superfish][download][type] = "git"
+libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal.git"
+libraries[superfish][download][branch] = "master"
+
+libraries[plupload][type] = "libraries"
+libraries[plupload][download][type] = "file"
+libraries[plupload][download][url] = "http://cloud.github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
+
+libraries[colorbox][type] = "libraries"
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "http://github.com/jackmoore/colorbox/archive/1.4.3.zip"
+
+libraries[highcharts][type] = "libraries"
+libraries[highcharts][download][type] = "file"
+libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips/Highcharts-2.2.5.zip"
+
+libraries[flexslider][type] = "libraries"
+libraries[flexslider][download][type] = "file"
+libraries[flexslider][download][url] = "http://github.com/woothemes/FlexSlider/archive/flexslider1.zip"
+
+libraries[iCalcreator][type] = "libraries"
+libraries[iCalcreator][download][type] = "file"
+libraries[iCalcreator][download][url] = "http://kigkonsult.se/downloads/dl.php?f=iCalcreator-2.16.6"
+
