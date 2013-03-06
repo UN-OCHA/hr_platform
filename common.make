@@ -288,6 +288,7 @@ projects[path_alias_xt][patch][] = "http://drupal.org/files/context_integration-
 projects[path_alias_xt][subdir] = "contrib"
 projects[pdf_to_imagefield][type] = "module"
 projects[pdf_to_imagefield][version] = 3.1
+projects[pdf_to_imagefield][patch][] = "http://drupal.org/files/1925192-drupal_720-2.patch"
 projects[pdf_to_imagefield][subdir] = "contrib"
 projects[persona][type] = "module"
 projects[persona][subdir] = "contrib"
