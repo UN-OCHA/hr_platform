@@ -413,6 +413,10 @@ projects[wysiwyg][version] = 2.x-dev
 ; Using 2.x-dev for http://drupal.org/node/1802394
 projects[wysiwyg][subdir] = "contrib"
 
+; Themes
+; --------
+projects[omega][type] = "theme"
+
 ; Libraries
 ; ---------
 libraries[SolrPhpClient][type] = "libraries"

@@ -357,3 +357,23 @@ projects[hr_geographic_level][download][type] = "git"
 projects[hr_geographic_level][download][url] = "https://github.com/humanitarianresponse/hr_geographic_level.git"
 projects[hr_geographic_level][download][branch] = "master"
 projects[hr_geographic_level][subdir] = "hr"
+
+; Themes
+; --------
+
+projects[humanitarianresponse][type] = "theme"
+projects[humanitarianresponse][download][type] = "git"
+projects[humanitarianresponse][download][url] = "https://github.com/humanitarianresponse/theme.git"
+projects[humanitarianresponse][download][branch] = "master"
+
+; Profiles
+; ---------
+projects[emergency_site][type] = "profile"
+projects[emergency_site][download][type] = "git"
+projects[emergency_site][download][url] = "https://github.com/humanitarianresponse/emergency_profile.git"
+projects[emergency_site][download][branch] = "master"
+
+projects[humanitarianresponse_minimal][type] = "profile"
+projects[humanitarianresponse_minimal][download][type] = "git"
+projects[humanitarianresponse_minimal][download][url] = "https://github.com/humanitarianresponse/humanitarianresponse_minimal.git"
+projects[humanitarianresponse_minimal][download][branch] = "master"

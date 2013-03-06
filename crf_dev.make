@@ -113,3 +113,10 @@ projects[crf_devel][download][type] = "git"
 projects[crf_devel][download][url] = "https://github.com/commonrequestformat/crf_devel.git"
 projects[crf_devel][download][branch] = "master"
 projects[crf_devel][subdir] = "crf"
+
+; Profiles
+; ---------
+projects[crf_site][type] = "profile"
+projects[crf_site][download][type] = "git"
+projects[crf_site][download][url] = "https://github.com/commonrequestformat/crf_site.git"
+projects[crf_site][download][branch] = "master"
