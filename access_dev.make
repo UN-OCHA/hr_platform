@@ -1,0 +1,73 @@
+; Access Specific
+
+projects[access_event_taxonomy][type] = "module"
+projects[access_event_taxonomy][download][type] = "git"
+projects[access_event_taxonomy][download][url] = "https://github.com/hraccess/access_event_taxonomy.git"
+projects[access_event_taxonomy][download][branch] = "master"
+projects[access_event_taxonomy][subdir] = "access"
+
+projects[incident_type_taxonomy][type] = "module"
+projects[incident_type_taxonomy][download][type] = "git"
+projects[incident_type_taxonomy][download][url] = "https://github.com/hraccess/incident_type_taxonomy.git"
+projects[incident_type_taxonomy][download][branch] = "master"
+projects[incident_type_taxonomy][subdir] = "access"
+
+projects[impact_taxonomy][type] = "module"
+projects[impact_taxonomy][download][type] = "git"
+projects[impact_taxonomy][download][url] = "https://github.com/hraccess/impact_taxonomy.git"
+projects[impact_taxonomy][download][branch] = "master"
+projects[impact_taxonomy][subdir] = "access"
+
+projects[types_of_administrative_procedure_taxonomy][type] = "module"
+projects[types_of_administrative_procedure_taxonomy][download][type] = "git"
+projects[types_of_administrative_procedure_taxonomy][download][url] = "https://github.com/hraccess/types_of_administrative_procedure_taxonomy.git"
+projects[types_of_administrative_procedure_taxonomy][download][branch] = "master"
+projects[types_of_administrative_procedure_taxonomy][subdir] = "access"
+
+projects[purpose_of_administrative_request_taxonomy][type] = "module"
+projects[purpose_of_administrative_request_taxonomy][download][type] = "git"
+projects[purpose_of_administrative_request_taxonomy][download][url] = "https://github.com/hraccess/purpose_of_administrative_request_taxonomy.git"
+projects[purpose_of_administrative_request_taxonomy][download][branch] = "master"
+projects[purpose_of_administrative_request_taxonomy][subdir] = "access"
+
+projects[policy_type_taxonomy][type] = "module"
+projects[policy_type_taxonomy][download][type] = "git"
+projects[policy_type_taxonomy][download][url] = "https://github.com/hraccess/policy_type_taxonomy.git"
+projects[policy_type_taxonomy][download][branch] = "master"
+projects[policy_type_taxonomy][subdir] = "access"
+
+projects[action_taken_taxonomy][type] = "module"
+projects[action_taken_taxonomy][download][type] = "git"
+projects[action_taken_taxonomy][download][url] = "https://github.com/hraccess/action_taken_taxonomy.git"
+projects[action_taken_taxonomy][download][branch] = "master"
+projects[action_taken_taxonomy][subdir] = "access"
+
+projects[temporary_constraint_type][type] = "module"
+projects[temporary_constraint_type][download][type] = "git"
+projects[temporary_constraint_type][download][url] = "https://github.com/hraccess/temporary_constraint_type.git"
+projects[temporary_constraint_type][download][branch] = "master"
+projects[temporary_constraint_type][subdir] = "access"
+
+projects[organization_group][type] = "module"
+projects[organization_group][download][type] = "git"
+projects[organization_group][download][url] = "https://github.com/hraccess/organization_group.git"
+projects[organization_group][download][branch] = "master"
+projects[organization_group][subdir] = "access"
+
+projects[access_incident][type] = "module"
+projects[access_incident][download][type] = "git"
+projects[access_incident][download][url] = "https://github.com/hraccess/access_incident.git"
+projects[access_incident][download][branch] = "master"
+projects[access_incident][subdir] = "access"
+
+projects[impediments_on_entry_into_country][type] = "module"
+projects[impediments_on_entry_into_country][download][type] = "git"
+projects[impediments_on_entry_into_country][download][url] = "https://github.com/hraccess/impediments_on_entry_into_country.git"
+projects[impediments_on_entry_into_country][download][branch] = "master"
+projects[impediments_on_entry_into_country][subdir] = "access"
+
+projects[restrictions_on_movement_within_country][type] = "module"
+projects[restrictions_on_movement_within_country][download][type] = "git"
+projects[restrictions_on_movement_within_country][download][url] = "https://github.com/hraccess/restrictions_on_movement_within_country.git"
+projects[restrictions_on_movement_within_country][download][branch] = "master"
+projects[restrictions_on_movement_within_country][subdir] = "access"

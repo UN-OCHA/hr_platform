@@ -6,6 +6,8 @@ includes[hr] = "hr_dev.make"
 
 includes[crf] = "crf_dev.make"
 
+includes[access] = "access_dev.make"
+
 ; Message library
 ; ---------
 projects[message_library][type] = "module"
