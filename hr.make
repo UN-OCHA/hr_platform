@@ -55,7 +55,7 @@ projects[humanitarianresponse_funding_menu][location] = http://features.humanita
 projects[humanitarianresponse_funding_menu][subdir] = "hr"
 
 projects[humanitarianresponse_display][location] = http://features.humanitarianresponse.info/fserver
-projects[humanitarianrepsonse_display][subdir] = "hr"
+projects[humanitarianresponse_display][subdir] = "hr"
 
 projects[humanitarianresponse_contacts][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_contacts][subdir] = "hr"
