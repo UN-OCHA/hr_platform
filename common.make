@@ -158,7 +158,6 @@ projects[field_reference_delete][subdir] = "contrib"
 projects[field_validation][type] = "module"
 projects[field_validation][subdir] = "contrib"
 projects[file_entity][type] = "module"
-projects[file_entity][version] = 2.0-unstable6
 projects[file_entity][subdir] = "contrib"
 projects[file_formatters][type] = "module"
 projects[file_formatters][subdir] = "contrib"
