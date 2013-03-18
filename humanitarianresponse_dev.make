@@ -12,6 +12,6 @@ includes[access] = "access_dev.make"
 ; ---------
 projects[message_library][type] = "module"
 projects[message_library][download][type] = "git"
-projects[message_library][download][url] = "https://github.com/Wiredcraft/message_library.git"
+projects[message_library][download][url] = "https://github.com/humanitarianresponse/message_library.git"
 projects[message_library][download][branch] = "master"
 
