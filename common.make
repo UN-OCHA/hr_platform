@@ -164,7 +164,6 @@ projects[file_formatters][subdir] = "contrib"
 projects[filefield_sources][type] = "module"
 projects[filefield_sources][subdir] = "contrib"
 projects[flexslider][type] = "module"
-projects[flexslider][version] = 2.x-dev
 projects[flexslider][subdir] = "contrib"
 projects[follow][type] = "module"
 projects[follow][subdir] = "contrib"
