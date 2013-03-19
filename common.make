@@ -444,7 +444,7 @@ libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips
 
 libraries[flexslider][type] = "libraries"
 libraries[flexslider][download][type] = "file"
-libraries[flexslider][download][url] = "http://github.com/woothemes/FlexSlider/archive/flexslider1.zip"
+libraries[flexslider][download][url] = "http://github.com/woothemes/FlexSlider/archive/version/2.1.zip"
 
 libraries[iCalcreator][type] = "libraries"
 libraries[iCalcreator][download][type] = "file"
