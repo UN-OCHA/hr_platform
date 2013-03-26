@@ -329,8 +329,6 @@ projects[search_api][patch][] = "http://drupal.org/files/1944032-search_path_pat
 projects[search_api][subdir] = "contrib"
 projects[search_api_autocomplete][type] = "module"
 projects[search_api_autocomplete][version] = 1.x-dev
-; Add auto-submit for the autocompletion(http://drupal.org/node/1278042)
-projects[search_api_autocomplete][patch][] = "http://gist.github.com/kurtzhong/72bb3b9bf39772e63bed/raw/e3b0757539ffdbae2de252e6a28e7e692896534b/search_api_autocomplete-auto_submit-1278042-33.patch"
 projects[search_api_autocomplete][subdir] = "contrib"
 projects[search_api_solr][type] = "module"
 projects[search_api_solr][subdir] = "contrib"
