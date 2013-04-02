@@ -328,12 +328,6 @@ projects[hr_sectoral_analysis][download][url] = "https://github.com/humanitarian
 projects[hr_sectoral_analysis][download][branch] = "master"
 projects[hr_sectoral_analysis][subdir] = "hr"
 
-projects[hr_graphs][type] = "module"
-projects[hr_graphs][download][type] = "git"
-projects[hr_graphs][download][url] = "https://github.com/humanitarianresponse/hr_graphs.git"
-projects[hr_graphs][download][branch] = "master"
-projects[hr_graphs][subdir] = "hr"
-
 projects[hr_revisions][type] = "module"
 projects[hr_revisions][download][type] = "git"
 projects[hr_revisions][download][url] = "https://github.com/humanitarianresponse/hr_revisions.git"

@@ -167,9 +167,6 @@ projects[hr_indicator_definitions][subdir] = "hr"
 projects[hr_sectoral_analysis][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_sectoral_analysis][subdir] = "hr"
 
-projects[hr_graphs][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_graphs][subdir] = "hr"
-
 projects[hr_revisions][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_revisions][subdir] = "hr"
 
