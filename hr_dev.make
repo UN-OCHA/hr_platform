@@ -352,6 +352,12 @@ projects[hr_geographic_level][download][url] = "https://github.com/humanitarianr
 projects[hr_geographic_level][download][branch] = "master"
 projects[hr_geographic_level][subdir] = "hr"
 
+projects[hr_fts][type] = "module"
+projects[hr_fts][download][type] = "git"
+projects[hr_fts][download][url] = "https://github.com/humanitarianresponse/hr_fts.git"
+projects[hr_fts][download][branch] = "master"
+projects[hr_fts][subdir] = "hr"
+
 ; Themes
 ; --------
 
