@@ -442,11 +442,10 @@ libraries[superfish][download][branch] = "master"
 libraries[plupload][type] = "libraries"
 libraries[plupload][download][type] = "file"
 libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_6.zip"
-libraries[plupload][patch][] = "http://drupal.org/files/plupload-1_5_6-rm_examples-1903850-5.patch"
 
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = "http://github.com/jackmoore/colorbox/archive/1.4.3.zip"
+libraries[colorbox][download][url] = "http://github.com/jackmoore/colorbox/archive/1.4.10.zip"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
