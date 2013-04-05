@@ -441,7 +441,8 @@ libraries[superfish][download][branch] = "master"
 
 libraries[plupload][type] = "libraries"
 libraries[plupload][download][type] = "file"
-libraries[plupload][download][url] = "http://cloud.github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
+libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_6.zip"
+libraries[plupload][patch][] = "http://drupal.org/files/plupload-1_5_6-rm_examples-1903850-5.patch"
 
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"

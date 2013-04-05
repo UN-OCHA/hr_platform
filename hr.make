@@ -179,6 +179,9 @@ projects[hr_keywords][subdir] = "hr"
 projects[hr_geographic_level][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_geographic_level][subdir] = "hr"
 
+projects[hr_fts][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_fts][subdir] = "hr"
+
 
 ; Themes
 ; --------
