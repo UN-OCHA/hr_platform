@@ -445,7 +445,7 @@ libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5
 
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = "http://github.com/jackmoore/colorbox/archive/1.4.10.zip"
+libraries[colorbox][download][url] = "https://nodeload.github.com/jackmoore/colorbox/zip/1.4.10"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
@@ -453,9 +453,12 @@ libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips
 
 libraries[flexslider][type] = "libraries"
 libraries[flexslider][download][type] = "file"
-libraries[flexslider][download][url] = "http://github.com/woothemes/FlexSlider/archive/version/2.1.zip"
+libraries[flexslider][download][url] = "https://nodeload.github.com/woothemes/FlexSlider/zip/version/2.1"
 
 libraries[iCalcreator][type] = "libraries"
 libraries[iCalcreator][download][type] = "file"
 libraries[iCalcreator][download][url] = "http://kigkonsult.se/downloads/dl.php?f=iCalcreator-2.16.6"
 
+libraries[OpenLayers][type] = "libraries"
+libraries[OpenLayers][download][type] = "file"
+libraries[OpenLayers][download][url] = "http://www.openlayers.org/download/OpenLayers-2.12.tar.gz"
