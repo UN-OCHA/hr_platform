@@ -464,9 +464,9 @@ libraries[iCalcreator][type] = "libraries"
 libraries[iCalcreator][download][type] = "file"
 libraries[iCalcreator][download][url] = "http://kigkonsult.se/downloads/dl.php?f=iCalcreator-2.16.6"
 
-libraries[OpenLayers][type] = "libraries"
-libraries[OpenLayers][download][type] = "file"
-libraries[OpenLayers][download][url] = "http://www.openlayers.org/download/OpenLayers-2.12.tar.gz"
+libraries[openlayers][type] = "libraries"
+libraries[openlayers][download][type] = "file"
+libraries[openlayers][download][url] = "http://www.openlayers.org/download/OpenLayers-2.12.tar.gz"
 
 libraries[libphonenumber-for-php][type] = "libraries"
 libraries[libphonenumber-for-php][download][type] = "file"
