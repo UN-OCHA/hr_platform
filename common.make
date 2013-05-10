@@ -134,7 +134,7 @@ projects[features][type] = "module"
 projects[features][patch][] = "http://drupal.org/files/features_static_caches-1063204-32.patch"
 projects[features][subdir] = "contrib"
 projects[feeds][type] = "module"
-projects[feeds][patch][] = "http://drupal.org/files/ignore-empty-taxonomy-terms-1107522-13.patch"
+projects[feeds][patch][] = "http://drupal.org/files/ignore-empty-taxonomy-terms-1107522-63.patch"
 projects[feeds][patch][] = "http://drupal.org/files/feeds-unique-target-661606-127.patch"
 ; Drush integration(http://drupal.org/node/608408)
 projects[feeds][patch][] = http://drupal.org/files/608408-feeds_drush_vd7-71.patch
