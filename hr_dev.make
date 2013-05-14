@@ -358,6 +358,12 @@ projects[hr_fts][download][url] = "https://github.com/humanitarianresponse/hr_ft
 projects[hr_fts][download][branch] = "master"
 projects[hr_fts][subdir] = "hr"
 
+projects[hr_cluster_instance][type] = "module"
+projects[hr_cluster_instance][download][type] = "git"
+projects[hr_cluster_instance][download][url] = "https://github.com/humanitarianresponse/hr_cluster_instance.git"
+projects[hr_cluster_instance][download][branch] = "master"
+projects[hr_cluster_instance][subdir] = "hr"
+
 ; Themes
 ; --------
 
