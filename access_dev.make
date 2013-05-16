@@ -12,6 +12,12 @@ projects[acc_incidents][download][url] = "https://github.com/hraccess/acc_incide
 projects[acc_incidents][download][branch] = "master"
 projects[acc_incidents][subdir] = "access"
 
+projects[acc_impacts][type] = "module"
+projects[acc_impacts][download][type] = "git"
+projects[acc_impacts][download][url] = "https://github.com/hraccess/acc_impacts.git"
+projects[acc_impacts][download][branch] = "master"
+projects[acc_impacts][subdir] = "access"
+
 projects[acc_incident_types][type] = "module"
 projects[acc_incident_types][download][type] = "git"
 projects[acc_incident_types][download][url] = "https://github.com/hraccess/acc_incident_types.git"
