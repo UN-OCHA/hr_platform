@@ -374,7 +374,7 @@ projects[uuid][type] = "module"
 projects[uuid][version] = 1.x-dev
 projects[uuid][patch][] = "http://drupal.org/files/uuid-menu_links-1.patch"
 projects[uuid][patch][] = "http://drupal.org/files/1628456-module_name-1.patch"
-projects[uuid][patch][] = "http://cloud.viguierjust.com/public.php?service=files&t=f554512e824fa6cc5b244a4a9b8b08ba&download&path=//uuid-has_taxonomy_term-1594230-4.patch"
+projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-1594230-4.patch"
 projects[uuid][patch][] = "http://drupal.org/files/1800730-1-uuid-feeds-mapper.patch"
 projects[uuid][subdir] = "contrib"
 projects[variable][type] = "module"
