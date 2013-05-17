@@ -303,8 +303,6 @@ projects[pdf_to_imagefield][subdir] = "contrib"
 projects[persona][type] = "module"
 projects[persona][subdir] = "contrib"
 projects[phone][type] = "module"
-projects[phone][version] = 1.x-dev
-; Waiting for stable 1.x version or 2.x version to be republished
 projects[phone][subdir] = "contrib"
 projects[picture][type] = "module"
 projects[picture][patch][] = "http://drupal.org/files/1859192-media_module-17.patch"
