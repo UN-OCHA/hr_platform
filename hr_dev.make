@@ -358,6 +358,60 @@ projects[hr_fts][download][url] = "https://github.com/humanitarianresponse/hr_ft
 projects[hr_fts][download][branch] = "master"
 projects[hr_fts][subdir] = "hr"
 
+projects[hr_cluster_instance][type] = "module"
+projects[hr_cluster_instance][download][type] = "git"
+projects[hr_cluster_instance][download][url] = "https://github.com/humanitarianresponse/hr_cluster_instance.git"
+projects[hr_cluster_instance][download][branch] = "master"
+projects[hr_cluster_instance][subdir] = "hr"
+
+projects[hr_blog][type] = "module"
+projects[hr_blog][download][type] = "git"
+projects[hr_blog][download][url] = "https://github.com/humanitarianresponse/hr_blog.git"
+projects[hr_blog][download][branch] = "master"
+projects[hr_blog][subdir] = "hr"
+
+projects[hr_op_presence][type] = "module"
+projects[hr_op_presence][download][type] = "git"
+projects[hr_op_presence][download][url] = "https://github.com/humanitarianresponse/hr_op_presence.git"
+projects[hr_op_presence][download][branch] = "master"
+projects[hr_op_presence][subdir] = "hr"
+
+projects[hr_faceted_layout][type] = "module"
+projects[hr_faceted_layout][download][type] = "git"
+projects[hr_faceted_layout][download][url] = "https://github.com/humanitarianresponse/hr_faceted_layout.git"
+projects[hr_faceted_layout][download][branch] = "master"
+projects[hr_faceted_layout][subdir] = "hr"
+
+projects[hr_job_title][type] = "module"
+projects[hr_job_title][download][type] = "git"
+projects[hr_job_title][download][url] = "https://github.com/humanitarianresponse/hr_job_title.git"
+projects[hr_job_title][download][branch] = "master"
+projects[hr_job_title][subdir] = "hr"
+
+projects[hr_theme][type] = "module"
+projects[hr_theme][download][type] = "git"
+projects[hr_theme][download][url] = "https://github.com/humanitarianresponse/hr_theme.git"
+projects[hr_theme][download][branch] = "master"
+projects[hr_theme][subdir] = "hr"
+
+projects[hr_boxes][type] = "module"
+projects[hr_boxes][download][type] = "git"
+projects[hr_boxes][download][url] = "https://github.com/humanitarianresponse/hr_boxes.git"
+projects[hr_boxes][download][branch] = "master"
+projects[hr_boxes][subdir] = "hr"
+
+projects[hr_iframe][type] = "module"
+projects[hr_iframe][download][type] = "git"
+projects[hr_iframe][download][url] = "https://github.com/humanitarianresponse/hr_iframe.git"
+projects[hr_iframe][download][branch] = "master"
+projects[hr_iframe][subdir] = "hr"
+
+projects[hr_search_map][type] = "module"
+projects[hr_search_map][download][type] = "git"
+projects[hr_search_map][download][url] = "https://github.com/humanitarianresponse/hr_search_map.git"
+projects[hr_search_map][download][branch] = "master"
+projects[hr_search_map][subdir] = "hr"
+
 ; Themes
 ; --------
 
