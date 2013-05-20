@@ -84,6 +84,11 @@ projects[crf_devel][subdir] = "crf"
 ;projects[crf_fts_message][download][branch] = "master"
 ;projects[crf_fts_message][subdir] = "crf"
 
+; Contrib
+----------
+projects[eva][type] = "module"
+projects[eva][subdir] = "contrib"
+
 ; Devel
 ; ------
 projects[admin_menu][type] = "module"
