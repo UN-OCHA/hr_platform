@@ -182,6 +182,27 @@ projects[hr_geographic_level][subdir] = "hr"
 projects[hr_fts][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_fts][subdir] = "hr"
 
+projects[hr_blog][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_blog][subdir] = "hr"
+
+projects[hr_op_presence][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_op_presence][subdir] = "hr"
+
+projects[hr_faceted_layout][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_faceted_layout][subdir] = "hr"
+
+projects[hr_job_title][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_job_title][subdir] = "hr"
+
+projects[hr_theme][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_theme][subdir] = "hr"
+
+projects[hr_boxes][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_boxes][subdir] = "hr"
+
+projects[hr_iframe][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_iframe][subdir] = "hr"
+
 
 ; Themes
 ; --------
