@@ -301,7 +301,6 @@ projects[pdf_to_imagefield][version] = 3.1
 projects[pdf_to_imagefield][patch][] = "http://drupal.org/files/1925192-drupal_720-2.patch"
 projects[pdf_to_imagefield][subdir] = "contrib"
 projects[persona][type] = "module"
-projects[persona][patch][] = "http://drupal.org/files/remove_block_configuration-1997122-1.patch"
 projects[persona][subdir] = "contrib"
 projects[phone][type] = "module"
 projects[phone][subdir] = "contrib"
