@@ -342,7 +342,6 @@ projects[search_api][patch][] = "http://drupal.org/files/1818572-2.patch"
 projects[search_api][patch][] = "http://drupal.org/files/1944032-search_path_path_tokens-1.patch"
 projects[search_api][subdir] = "contrib"
 projects[search_api_autocomplete][type] = "module"
-projects[search_api_autocomplete][version] = 1.x-dev
 projects[search_api_autocomplete][subdir] = "contrib"
 projects[search_api_solr][type] = "module"
 projects[search_api_solr][subdir] = "contrib"
