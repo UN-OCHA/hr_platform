@@ -226,6 +226,7 @@ projects[l10n_client][subdir] = "contrib"
 projects[l10n_pconfig][type] = "module"
 projects[l10n_pconfig][subdir] = "contrib"
 projects[l10n_update][type] = "module"
+projects[l10n_update][version] = 1.x-dev
 projects[l10n_update][patch][] = "http://drupal.org/files/1421600-text_groups-7.patch"
 projects[l10n_update][subdir] = "contrib"
 projects[l10n_server][type] = "module"
