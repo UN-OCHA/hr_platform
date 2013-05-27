@@ -21,7 +21,7 @@ projects[crf_requests][subdir] = "crf"
 projects[crf_users][type] = "module"
 projects[crf_users][download][type] = "git"
 projects[crf_users][download][url] = "https://github.com/commonrequestformat/crf_users.git"
-projects[crf_users][download][branch] = "master"
+projects[crf_users][download][branch] = "7.x-1.x"
 projects[crf_users][subdir] = "crf"
 
 projects[crf_devel][type] = "module"
