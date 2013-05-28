@@ -12,12 +12,6 @@ projects[crf_request][download][url] = "https://github.com/commonrequestformat/c
 projects[crf_request][download][branch] = "7.x-1.x"
 projects[crf_request][subdir] = "crf"
 
-projects[crf_requests][type] = "module"
-projects[crf_requests][download][type] = "git"
-projects[crf_requests][download][url] = "https://github.com/commonrequestformat/crf_requests.git"
-projects[crf_requests][download][branch] = "7.x-1.x"
-projects[crf_requests][subdir] = "crf"
-
 projects[crf_users][type] = "module"
 projects[crf_users][download][type] = "git"
 projects[crf_users][download][url] = "https://github.com/commonrequestformat/crf_users.git"
@@ -29,6 +23,12 @@ projects[crf_devel][download][type] = "git"
 projects[crf_devel][download][url] = "https://github.com/commonrequestformat/crf_devel.git"
 projects[crf_devel][download][branch] = "master"
 projects[crf_devel][subdir] = "crf"
+
+;projects[crf_requests][type] = "module"
+;projects[crf_requests][download][type] = "git"
+;projects[crf_requests][download][url] = "https://github.com/commonrequestformat/crf_requests.git"
+;projects[crf_requests][download][branch] = "7.x-1.x"
+;projects[crf_requests][subdir] = "crf"
 
 ;projects[crf_sitrep][type] = "module"
 ;projects[crf_sitrep][download][type] = "git"
