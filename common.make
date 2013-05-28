@@ -245,6 +245,8 @@ projects[link][patch][] = http://drupal.org/files/Fixed_title_value_in_link_fiel
 projects[link][subdir] = "contrib"
 projects[logintoboggan][type] = "module"
 projects[logintoboggan][subdir] = "contrib"
+projects[mailchimp][type] = "module"
+projects[mailchimp][subdir] = "contrib"
 projects[maxlength][type] = "module"
 projects[maxlength][subdir] = "contrib"
 projects[media][type] = "module"
@@ -465,3 +467,7 @@ libraries[openlayers][download][url] = "http://www.openlayers.org/download/OpenL
 libraries[libphonenumber-for-php][type] = "libraries"
 libraries[libphonenumber-for-php][download][type] = "file"
 libraries[libphonenumber-for-php][download][url] = "https://github.com/chipperstudios/libphonenumber-for-php/archive/master.zip"
+
+libraries[mailchimp][type] = "libraries"
+libraries[mailchimp][download][type] = "file"
+libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
