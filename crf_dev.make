@@ -91,6 +91,10 @@ projects[eva][subdir] = "contrib"
 projects[list_predefined_options][type] = "module"
 projects[list_predefined_options][subdir] = "contrib"
 
+; Patches
+----------
+projects[rules][patch][] = "https://drupal.org/files/rules_token_2_3.patch"
+
 ; Devel
 ; ------
 projects[admin_menu][type] = "module"
