@@ -88,6 +88,8 @@ projects[crf_devel][subdir] = "crf"
 ----------
 projects[eva][type] = "module"
 projects[eva][subdir] = "contrib"
+projects[list_predefined_options][type] = "module"
+projects[list_predefined_options][subdir] = "contrib"
 
 ; Devel
 ; ------
