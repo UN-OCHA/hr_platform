@@ -23,6 +23,7 @@ api = 2
 projects[drupal][version] = 7
 projects[drupal][patch][] = "http://drupal.org/files/995156-31_portable_taxonomy_permissions-D7-15.patch"
 projects[drupal][patch][] = "http://drupal.org/files/1763068-remove-po-10.patch"
+projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-1336212-23.patch"
 
   
   
@@ -89,6 +90,9 @@ projects[date][patch][] = "http://drupal.org/files/add-required-marker-1248786-7
 projects[date][subdir] = "contrib"
 projects[date_ical][type] = "module"
 projects[date_ical][subdir] = "contrib"
+projects[date_repeat_instance][type] = "module"
+projects[date_repeat_instance][patch][] = "https://drupal.org/files/date_value_not_applied-1504172-3.patch"
+projects[date_repeat_instance][subdir] = "contrib"
 projects[delta][type] = "module"
 projects[delta][subdir] = "contrib"
 projects[devel][type] = "module"
@@ -344,6 +348,8 @@ projects[search_api_autocomplete][type] = "module"
 projects[search_api_autocomplete][subdir] = "contrib"
 projects[search_api_solr][type] = "module"
 projects[search_api_solr][subdir] = "contrib"
+projects[search_api_sorts][type] = "module"
+projects[search_api_sorts][subdir] = "contrib"
 projects[sharethis][type] = "module"
 projects[sharethis][subdir] = "contrib"
 projects[stringoverrides][type] = "module"
