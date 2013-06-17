@@ -24,10 +24,6 @@ projects[crf_devel][download][url] = "https://github.com/commonrequestformat/crf
 projects[crf_devel][download][tag] = "7.x-1.5"
 projects[crf_devel][subdir] = "crf"
 
-; Patches
-----------
-projects[workbench_moderation][patch][] = "https://drupal.org/files/1314508-workbench-moderation-features.patch"
-
 ; Profiles
 ; ---------
 projects[crf_site][type] = "profile"
