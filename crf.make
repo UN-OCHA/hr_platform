@@ -24,11 +24,6 @@ projects[crf_devel][download][url] = "https://github.com/commonrequestformat/crf
 projects[crf_devel][download][tag] = "7.x-1.5"
 projects[crf_devel][subdir] = "crf"
 
-; Contrib
-----------
-projects[list_predefined_options][type] = "module"
-projects[list_predefined_options][subdir] = "contrib"
-
 ; Patches
 ----------
 projects[rules][patch][] = "https://drupal.org/files/rules_token_2_3.patch"

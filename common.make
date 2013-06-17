@@ -245,6 +245,8 @@ projects[link][type] = "module"
 ; http://drupal.org/node/1914286
 projects[link][patch][] = http://drupal.org/files/Fixed_title_value_in_link_field_update_instance_undefined-1914286-3.patch
 projects[link][subdir] = "contrib"
+projects[list_predefined_options][type] = "module"
+projects[list_predefined_options][subdir] = "contrib"
 projects[logintoboggan][type] = "module"
 projects[logintoboggan][subdir] = "contrib"
 projects[mailchimp][type] = "module"
