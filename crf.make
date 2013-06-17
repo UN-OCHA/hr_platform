@@ -26,7 +26,6 @@ projects[crf_devel][subdir] = "crf"
 
 ; Patches
 ----------
-projects[rules][patch][] = "https://drupal.org/files/rules_token_2_3.patch"
 projects[workbench_moderation][patch][] = "https://drupal.org/files/1314508-workbench-moderation-features.patch"
 
 ; Profiles
