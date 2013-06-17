@@ -84,18 +84,6 @@ projects[crf_devel][subdir] = "crf"
 ;projects[crf_fts_message][download][branch] = "master"
 ;projects[crf_fts_message][subdir] = "crf"
 
-; Contrib
-----------
-projects[eva][type] = "module"
-projects[eva][subdir] = "contrib"
-projects[list_predefined_options][type] = "module"
-projects[list_predefined_options][subdir] = "contrib"
-
-; Patches
-----------
-projects[rules][patch][] = "https://drupal.org/files/rules_token_2_3.patch"
-projects[workbench_moderation][patch][] = "https://drupal.org/files/1314508-workbench-moderation-features.patch"
-
 ; Devel
 ; ------
 projects[admin_menu][type] = "module"

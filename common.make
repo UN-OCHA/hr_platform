@@ -124,6 +124,8 @@ projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
 projects[entity_translation][patch][] = "https://drupal.org/files/entity_translation-expose_translations_to_views-beta2-1605406-23.patch"
 projects[entity_translation][subdir] = "contrib"
+projects[eva][type] = "module"
+projects[eva][subdir] = "contrib"
 projects[extlink][type] = "module"
 projects[extlink][subdir] = "contrib"
 projects[facetapi][type] = "module"
@@ -243,6 +245,8 @@ projects[link][type] = "module"
 ; http://drupal.org/node/1914286
 projects[link][patch][] = http://drupal.org/files/Fixed_title_value_in_link_field_update_instance_undefined-1914286-3.patch
 projects[link][subdir] = "contrib"
+projects[list_predefined_options][type] = "module"
+projects[list_predefined_options][subdir] = "contrib"
 projects[logintoboggan][type] = "module"
 projects[logintoboggan][subdir] = "contrib"
 projects[mailchimp][type] = "module"
