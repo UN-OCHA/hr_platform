@@ -59,6 +59,8 @@ projects[captcha][type] = "module"
 projects[captcha][subdir] = "contrib"
 projects[cck_select_other][type] = "module"
 projects[cck_select_other][subdir] = "contrib"
+projects[chosen][type] = "module"
+projects[chosen][subdir] = "contrib"
 projects[colorbox][type] = "module"
 projects[colorbox][subdir] = "contrib"
 projects[conditional_fields][type] = "module"
@@ -311,6 +313,9 @@ projects[persona][type] = "module"
 projects[persona][patch][] = "http://drupal.org/files/persona_registration-1923130-6.patch"
 projects[persona][subdir] = "contrib"
 projects[phone][type] = "module"
+projects[phone][download][type] = "git"
+projects[phone][download][url] = "http://git.drupal.org/project/phone.git"
+projects[phone][download][branch] = "7.x-2.x"
 projects[phone][subdir] = "contrib"
 projects[picture][type] = "module"
 projects[picture][patch][] = "http://drupal.org/files/1859192-media_module-17.patch"
@@ -435,6 +440,7 @@ projects[wysiwyg][subdir] = "contrib"
 ; Themes
 ; --------
 projects[omega][type] = "theme"
+projects[omega][version] = 3.1
 
 ; Libraries
 ; ---------
@@ -478,3 +484,8 @@ libraries[libphonenumber-for-php][download][url] = "https://github.com/chipperst
 libraries[mailchimp][type] = "libraries"
 libraries[mailchimp][download][type] = "file"
 libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
+
+libraries[chosen][type] = "libraries"
+libraries[chosen][download][type] = "git"
+libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
+libraries[chosen][download][tag] = "v0.9.15"
