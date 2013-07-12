@@ -184,6 +184,12 @@ projects[humanitarianresponse_aggregator][download][url] = "https://github.com/h
 projects[humanitarianresponse_aggregator][download][branch] = "master"
 projects[humanitarianresponse_aggregator][subdir] = "hr"
 
+projects[hr_indicators][type] = "module"
+projects[hr_indicators][download][type] = "git"
+projects[hr_indicators][download][url] = "https://github.com/humanitarianresponse/hr_indicators.git"
+projects[hr_indicators][download][branch] = "master"
+projects[hr_indicators][subdir] = "hr"
+
 projects[hr_mapping_styles][type] = "module"
 projects[hr_mapping_styles][download][type] = "git"
 projects[hr_mapping_styles][download][url] = "https://github.com/humanitarianresponse/hr_mapping_styles.git"
