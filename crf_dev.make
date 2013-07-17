@@ -24,17 +24,11 @@ projects[crf_devel][download][url] = "https://github.com/commonrequestformat/crf
 projects[crf_devel][download][branch] = "7.x-1.x"
 projects[crf_devel][subdir] = "crf"
 
-;projects[crf_requests][type] = "module"
-;projects[crf_requests][download][type] = "git"
-;projects[crf_requests][download][url] = "https://github.com/commonrequestformat/crf_requests.git"
-;projects[crf_requests][download][branch] = "7.x-1.x"
-;projects[crf_requests][subdir] = "crf"
-
-;projects[crf_sitrep][type] = "module"
-;projects[crf_sitrep][download][type] = "git"
-;projects[crf_sitrep][download][url] = "https://github.com/commonrequestformat/crf_sitrep.git"
-;projects[crf_sitrep][download][branch] = "master"
-;projects[crf_sitrep][subdir] = "crf"
+projects[crf_sitrep][type] = "module"
+projects[crf_sitrep][download][type] = "git"
+projects[crf_sitrep][download][url] = "https://github.com/commonrequestformat/crf_sitrep.git"
+projects[crf_sitrep][download][branch] = "7.x-1.x"
+projects[crf_sitrep][subdir] = "crf"
 
 ;projects[crf_sectoral_analysis][type] = "module"
 ;projects[crf_sectoral_analysis][download][type] = "git"
