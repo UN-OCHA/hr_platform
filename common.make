@@ -469,8 +469,9 @@ libraries[plupload][download][type] = "file"
 libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_6.zip"
 
 libraries[colorbox][type] = "libraries"
-libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = "https://nodeload.github.com/jackmoore/colorbox/zip/1.4.10"
+libraries[colorbox][download][type] = "git"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
+libraries[colorbox][download][tag] = "1.4.27"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
