@@ -478,8 +478,9 @@ libraries[highcharts][download][type] = "file"
 libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips/Highcharts-2.2.5.zip"
 
 libraries[flexslider][type] = "libraries"
-libraries[flexslider][download][type] = "file"
-libraries[flexslider][download][url] = "https://nodeload.github.com/woothemes/FlexSlider/zip/version/2.1"
+libraries[flexslider][download][type] = "git"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
+libraries[flexslider][download][tag] = "version/2.1"
 
 libraries[iCalcreator][type] = "libraries"
 libraries[iCalcreator][download][type] = "file"
