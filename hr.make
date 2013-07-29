@@ -105,9 +105,6 @@ projects[hr_contacts_sectors][subdir] = "hr"
 projects[hr_documents_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_documents_sectors][subdir] = "hr"
 
-projects[hr_emergency_menu_sectors][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_emergency_menu_sectors][subdir] = "hr"
-
 projects[hr_events_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_events_sectors][subdir] = "hr"
 
