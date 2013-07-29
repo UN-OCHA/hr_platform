@@ -514,7 +514,7 @@ libraries[chosen][download][tag] = "v0.9.15"
 
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_020.zip"
+libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_021.zip"
 
 libraries[fpdi][type] = "libraries"
 libraries[fpdi][download][type] = "file"
