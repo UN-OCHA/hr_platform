@@ -209,6 +209,7 @@ projects[hierarchical_select][type] = "module"
 projects[hierarchical_select][version] = 3.x-dev
 projects[hierarchical_select][patch][] = "http://drupal.org/files/1563890-entity_translation-6.patch"
 projects[hierarchical_select][patch][] = "http://drupal.org/files/hierarchical_select-machine_name_for_features_export_with_fix_for_install-1477292-5.patch"
+projects[hierarchical_select][patch][] = "https://drupal.org/files/1275862-28_error_message_on_ajax_update.patch"
 projects[hierarchical_select][subdir] = "contrib"
 projects[honeypot][type] = "module"
 projects[honeypot][subdir] = "contrib"
