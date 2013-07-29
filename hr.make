@@ -6,9 +6,6 @@ projects[humanitarianresponse_documents][subdir] = "hr"
 projects[humanitarianresponse_clusters][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_clusters][subdir] = "hr"
 
-projects[humanitarianresponse_clusters_menu][location] = http://features.humanitarianresponse.info/fserver
-projects[humanitarianresponse_clusters_menu][subdir] = "hr"
-
 projects[humanitarianresponse_locations][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_locations][subdir] = "hr"
 
@@ -51,9 +48,6 @@ projects[humanitarianresponse_coordination][subdir] = "hr"
 projects[humanitarianresponse_funding][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_funding][subdir] = "hr"
 
-projects[humanitarianresponse_funding_menu][location] = http://features.humanitarianresponse.info/fserver
-projects[humanitarianresponse_funding_menu][subdir] = "hr"
-
 projects[humanitarianresponse_display][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_display][subdir] = "hr"
 
@@ -80,9 +74,6 @@ projects[humanitarianresponse_mapping][subdir] = "hr"
 
 projects[humanitarianresponse_page][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_page][subdir] = "hr"
-
-projects[humanitarianresponse_emergency_menu][location] = http://features.humanitarianresponse.info/fserver
-projects[humanitarianresponse_emergency_menu][subdir] = "hr"
 
 projects[humanitarianresponse_i18n][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_i18n][subdir] = "hr"
@@ -146,8 +137,6 @@ projects[hr_resp_img][subdir] = "hr"
 
 projects[hr_news_slideshow][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_news_slideshow][subdir] = "hr"
-
-;projects[hr_help][location] = http://features.humanitarianresponse.info/fserver
 
 projects[hr_print][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_print][subdir] = "hr"
