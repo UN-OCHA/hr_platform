@@ -495,7 +495,7 @@ libraries[flexslider][download][tag] = "version/2.1"
 
 libraries[iCalcreator][type] = "libraries"
 libraries[iCalcreator][download][type] = "file"
-libraries[iCalcreator][download][url] = "http://kigkonsult.se/downloads/dl.php?f=iCalcreator-2.16.6"
+libraries[iCalcreator][download][url] = "http://hosting.humanitarianresponse.info/iCalcreator-2.18.zip"
 
 libraries[openlayers][type] = "libraries"
 libraries[openlayers][download][type] = "file"
