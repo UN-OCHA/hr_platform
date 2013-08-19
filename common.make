@@ -22,7 +22,7 @@ api = 2
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
 projects[drupal][version] = 7
 projects[drupal][patch][] = "http://drupal.org/files/995156-31_portable_taxonomy_permissions-D7-15.patch"
-projects[drupal][patch][] = "http://drupal.org/files/1763068-remove-po-10.patch"
+projects[drupal][patch][] = "http://drupal.org/files/1763068-remove-po-13.patch"
 projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-1336212-23.patch"
 
   
