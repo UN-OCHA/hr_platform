@@ -39,9 +39,6 @@ projects[humanitarianresponse_users][subdir] = "hr"
 projects[humanitarianresponse_minimal_layout][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_minimal_layout][subdir] = "hr"
 
-projects[humanitarianresponse_layout][location] = http://features.humanitarianresponse.info/fserver
-projects[humanitarianresponse_layout][subdir] = "hr"
-
 projects[humanitarianresponse_coordination][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_coordination][subdir] = "hr"
 
@@ -50,9 +47,6 @@ projects[humanitarianresponse_funding][subdir] = "hr"
 
 projects[humanitarianresponse_display][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_display][subdir] = "hr"
-
-projects[humanitarianresponse_contacts][location] = http://features.humanitarianresponse.info/fserver
-projects[humanitarianresponse_contacts][subdir] = "hr"
 
 projects[humanitarianresponse_search][location] = http://features.humanitarianresponse.info/fserver
 projects[humanitarianresponse_search][subdir] = "hr"
@@ -98,9 +92,6 @@ projects[hr_sectors][subdir] = "hr"
 
 projects[hr_assessments_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_assessments_sectors][subdir] = "hr"
-
-projects[hr_contacts_sectors][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_contacts_sectors][subdir] = "hr"
 
 projects[hr_documents_sectors][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_documents_sectors][subdir] = "hr"

@@ -70,12 +70,6 @@ projects[humanitarianresponse_minimal_layout][download][url] = "https://github.c
 projects[humanitarianresponse_minimal_layout][download][branch] = "master"
 projects[humanitarianresponse_minimal_layout][subdir] = "hr"
 
-projects[humanitarianresponse_layout][type] = "module"
-projects[humanitarianresponse_layout][download][type] = "git"
-projects[humanitarianresponse_layout][download][url] = "https://github.com/humanitarianresponse/humanitarianresponse_layout.git"
-projects[humanitarianresponse_layout][download][branch] = "master"
-projects[humanitarianresponse_layout][subdir] = "hr"
-
 projects[humanitarianresponse_coordination][type] = "module"
 projects[humanitarianresponse_coordination][download][type] = "git"
 projects[humanitarianresponse_coordination][download][url] = "https://github.com/humanitarianresponse/humanitarianresponse_coordination.git"
@@ -99,12 +93,6 @@ projects[humanitarianresponse_display][download][type] = "git"
 projects[humanitarianresponse_display][download][url] = "https://github.com/humanitarianresponse/humanitarianresponse_display.git"
 projects[humanitarianresponse_display][download][branch] = "master"
 projects[humanitarianresponse_display][subdir] = "hr"
-
-projects[humanitarianresponse_contacts][type] = "module"
-projects[humanitarianresponse_contacts][download][type] = "git"
-projects[humanitarianresponse_contacts][download][url] = "https://github.com/humanitarianresponse/humanitarianresponse_contacts.git"
-projects[humanitarianresponse_contacts][download][branch] = "master"
-projects[humanitarianresponse_contacts][subdir] = "hr"
 
 projects[humanitarianresponse_search][type] = "module"
 projects[humanitarianresponse_search][download][type] = "git"
@@ -195,12 +183,6 @@ projects[hr_assessments_sectors][download][type] = "git"
 projects[hr_assessments_sectors][download][url] = "https://github.com/humanitarianresponse/hr_assessments_sectors.git"
 projects[hr_assessments_sectors][download][branch] = "master"
 projects[hr_assessments_sectors][subdir] = "hr"
-
-projects[hr_contacts_sectors][type] = "module"
-projects[hr_contacts_sectors][download][type] = "git"
-projects[hr_contacts_sectors][download][url] = "https://github.com/humanitarianresponse/hr_contacts_sectors.git"
-projects[hr_contacts_sectors][download][branch] = "master"
-projects[hr_contacts_sectors][subdir] = "hr"
 
 projects[hr_documents_sectors][type] = "module"
 projects[hr_documents_sectors][download][type] = "git"

@@ -486,7 +486,7 @@ libraries[colorbox][download][tag] = "1.4.27"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
-libraries[highcharts][download][url] = "http://www.highcharts.com/downloads/zips/Highcharts-2.2.5.zip"
+libraries[highcharts][download][url] = "http://code.highcharts.com/zips/Highcharts-3.0.4.zip"
 
 libraries[flexslider][type] = "libraries"
 libraries[flexslider][download][type] = "git"
@@ -516,7 +516,7 @@ libraries[chosen][download][tag] = "v0.9.15"
 
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_021.zip"
+libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_023.zip"
 
 libraries[fpdi][type] = "libraries"
 libraries[fpdi][download][type] = "file"
