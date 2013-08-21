@@ -21,7 +21,6 @@ api = 2
   
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
 projects[drupal][version] = 7
-projects[drupal][patch][] = "http://drupal.org/files/995156-31_portable_taxonomy_permissions-D7-15.patch"
 projects[drupal][patch][] = "http://drupal.org/files/1763068-remove-po-13.patch"
 projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-1336212-23.patch"
 
@@ -144,9 +143,10 @@ projects[facetapi_pretty_paths][subdir] = "contrib"
 projects[faq][type] = "module"
 projects[faq][subdir] = "contrib"
 projects[features][type] = "module"
+projects[features][patch][] = "http://drupal.org/files/export_vocab_perms-1722524-31.patch"
 projects[features][subdir] = "contrib"
 projects[feeds][type] = "module"
-projects[feeds][patch][] = "https://drupal.org/files/feeds_entity_processor-1033202-196.patch"
+projects[feeds][patch][] = "http://drupal.org/files/feeds_entity_processor-1033202-196.patch"
 projects[feeds][patch][] = "http://drupal.org/files/ignore-empty-taxonomy-terms-1107522-63.patch"
 projects[feeds][patch][] = "http://drupal.org/files/feeds-unique-target-661606-127.patch"
 ; Drush integration(http://drupal.org/node/608408)
