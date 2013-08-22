@@ -180,6 +180,9 @@ projects[hr_boxes][subdir] = "hr"
 projects[hr_iframe][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_iframe][subdir] = "hr"
 
+projects[hr_population_types][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_population_types][subdir] = "hr"
+
 
 ; Themes
 ; --------

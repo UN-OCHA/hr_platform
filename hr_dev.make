@@ -376,6 +376,12 @@ projects[hr_search_map][download][url] = "https://github.com/humanitarianrespons
 projects[hr_search_map][download][branch] = "master"
 projects[hr_search_map][subdir] = "hr"
 
+projects[hr_population_types][type] = "module"
+projects[hr_population_types][download][type] = "git"
+projects[hr_population_types][download][url] = "https://github.com/humanitarianresponse/hr_population_types.git"
+projects[hr_population_types][download][branch] = "master"
+projects[hr_population_types][subdir] = "hr"
+
 ; Themes
 ; --------
 
