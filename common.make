@@ -28,6 +28,10 @@ projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-
   
 ; Modules
 ; --------
+projects[global_filter][type] = "module"
+projects[global_filter][subdir] = "contrib"
+projects[session_cache][type] = "module"
+projects[session_cache][subdir] = "contrib"
 projects[addressfield][type] = "module"
 projects[addressfield][subdir] = "contrib"
 projects[advanced_help][type] = "module"
