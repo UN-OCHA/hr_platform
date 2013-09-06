@@ -6,4 +6,6 @@ includes[hr] = "hr.make"
 
 includes[crf] = "crf.make"
 
+includes[access] = "access.make"
+
 projects[message_library][location] = http://features.humanitarianresponse.info/fserver
