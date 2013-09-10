@@ -338,6 +338,7 @@ projects[piwik][patch][] = "http://drupal.org/files/1271780-piwik-remove-http-ch
 projects[piwik][subdir] = "contrib"
 projects[piwik_reports][type] = "module"
 projects[piwik_reports][patch][] = "http://drupal.org/files/1850690-wrong_site_reported-1.patch"
+projects[piwik_reports][patch][] = "https://drupal.org/files/2085513-iframe_scrolling-1.patch"
 projects[piwik_reports][subdir] = "contrib"
 projects[plupload][type] = "module"
 projects[plupload][subdir] = "contrib"
