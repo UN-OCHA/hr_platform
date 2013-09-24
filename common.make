@@ -212,7 +212,7 @@ projects[global_filter][subdir] = "contrib"
 projects[hierarchical_select][type] = "module"
 projects[hierarchical_select][version] = 3.x-dev
 projects[hierarchical_select][patch][] = "http://drupal.org/files/1563890-entity_translation-6.patch"
-projects[hierarchical_select][patch][] = "http://drupal.org/files/hierarchical_select-machine-name-features-1477292-10.patch"
+projects[hierarchical_select][patch][] = "http://drupal.org/files/hierarchical_select-machine-name-features-1477292-13.patch"
 projects[hierarchical_select][subdir] = "contrib"
 projects[honeypot][type] = "module"
 projects[honeypot][subdir] = "contrib"
@@ -521,7 +521,7 @@ libraries[chosen][download][tag] = "1.0.0"
 
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_023.zip"
+libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_033.zip"
 
 libraries[fpdi][type] = "libraries"
 libraries[fpdi][download][type] = "file"
