@@ -28,10 +28,6 @@ projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-
   
 ; Modules
 ; --------
-projects[global_filter][type] = "module"
-projects[global_filter][subdir] = "contrib"
-projects[session_cache][type] = "module"
-projects[session_cache][subdir] = "contrib"
 projects[addressfield][type] = "module"
 projects[addressfield][subdir] = "contrib"
 projects[advanced_help][type] = "module"
@@ -124,6 +120,8 @@ projects[entityconnect][version] = 1.x-dev
 projects[entityconnect][patch][] = "http://drupal.org/files/entityconnect-preg_match_warning-1844712.patch"
 projects[entityconnect][subdir] = "contrib"
 projects[entityreference][type] = "module"
+projects[entityreference][version] = 1.x-dev
+; see https://drupal.org/node/1616680
 projects[entityreference][subdir] = "contrib"
 projects[entityreference_view_widget][type] = "module"
 projects[entityreference_view_widget][version] = 1.x-dev
@@ -210,6 +208,8 @@ projects[geofield][subdir] = "contrib"
 projects[geophp][type] = "module"
 projects[geophp][patch][] = "http://drupal.org/files/grouping_functionality-1972874-1.patch"
 projects[geophp][subdir] = "contrib"
+projects[global_filter][type] = "module"
+projects[global_filter][subdir] = "contrib"
 projects[hierarchical_select][type] = "module"
 projects[hierarchical_select][version] = 3.x-dev
 projects[hierarchical_select][patch][] = "http://drupal.org/files/1563890-entity_translation-6.patch"
@@ -385,6 +385,8 @@ projects[search_api_solr][type] = "module"
 projects[search_api_solr][subdir] = "contrib"
 projects[search_api_sorts][type] = "module"
 projects[search_api_sorts][subdir] = "contrib"
+projects[session_cache][type] = "module"
+projects[session_cache][subdir] = "contrib"
 projects[sharethis][type] = "module"
 projects[sharethis][subdir] = "contrib"
 projects[stringoverrides][type] = "module"
