@@ -382,6 +382,18 @@ projects[hr_population_types][download][url] = "https://github.com/humanitarianr
 projects[hr_population_types][download][branch] = "master"
 projects[hr_population_types][subdir] = "hr"
 
+projects[hr_moderation][type] = "module"
+projects[hr_moderation][download][type] = "git"
+projects[hr_moderation][download][url] = "https://github.com/humanitarianresponse/hr_moderation.git"
+projects[hr_moderation][download][branch] = "master"
+projects[hr_moderation][subdir] = "hr"
+
+projects[hr_local_themes][type] = "module"
+projects[hr_local_themes][download][type] = "git"
+projects[hr_local_themes][download][url] = "https://github.com/humanitarianresponse/hr_local_themes.git"
+projects[hr_local_themes][download][branch] = "master"
+projects[hr_local_themes][subdir] = "hr"
+
 ; Themes
 ; --------
 
