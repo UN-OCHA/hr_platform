@@ -514,9 +514,8 @@ libraries[mailchimp][download][type] = "file"
 libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
 
 libraries[chosen][type] = "libraries"
-libraries[chosen][download][type] = "git"
-libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
-libraries[chosen][download][tag] = "1.0.0"
+libraries[chosen][download][type] = "file"
+libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/1.0.0/chosen_v1.0.0.zip"
 
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
