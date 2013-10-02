@@ -461,6 +461,7 @@ projects[workbench_access_view][download][url] = "http://git.drupal.org/sandbox/
 projects[workbench_access_view][subdir] = "contrib"
 projects[workbench_moderation][type] = "module"
 projects[workbench_moderation][version] = 1.x-dev
+projects[workbench_moderation][patch][] = "https://drupal.org/files/1365624-vary_state_by_role-3.patch"
 projects[workbench_moderation][subdir] = "contrib"
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][version] = 2.x-dev
