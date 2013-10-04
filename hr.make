@@ -183,6 +183,12 @@ projects[hr_iframe][subdir] = "hr"
 projects[hr_population_types][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_population_types][subdir] = "hr"
 
+projects[hr_local_themes][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_local_themes][subdir] = "hr"
+
+projects[hr_moderation][location] = http://features.humanitarianresponse.info/fserver
+projects[hr_moderation][subdir] = "hr"
+
 
 ; Themes
 ; --------
