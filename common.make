@@ -520,7 +520,7 @@ libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases
 
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_033.zip"
+libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_037.zip"
 
 libraries[fpdi][type] = "libraries"
 libraries[fpdi][download][type] = "file"
