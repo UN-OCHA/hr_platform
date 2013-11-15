@@ -1,20 +1,20 @@
-; CRF Specific
+; IREQ Specific
 
-projects[crf_core][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_core][subdir] = "crf"
+projects[ireq_core][location] = http://features.humanitarianresponse.info/fserver
+projects[ireq_core][subdir] = "ireq"
 
-projects[crf_request][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_request][subdir] = "crf"
+projects[ireq_request][location] = http://features.humanitarianresponse.info/fserver
+projects[ireq_request][subdir] = "ireq"
 
-projects[crf_users][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_users][subdir] = "crf"
+projects[ireq_users][location] = http://features.humanitarianresponse.info/fserver
+projects[ireq_users][subdir] = "ireq"
 
-projects[crf_devel][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_devel][subdir] = "crf"
+projects[ireq_devel][location] = http://features.humanitarianresponse.info/fserver
+projects[ireq_devel][subdir] = "ireq"
 
-projects[crf_external][location] = http://features.humanitarianresponse.info/fserver
-projects[crf_external][subdir] = "crf"
+projects[ireq_external][location] = http://features.humanitarianresponse.info/fserver
+projects[ireq_external][subdir] = "ireq"
 
 ; Profiles
 ; ---------
-projects[crf_site][location] = http://features.humanitarianresponse.info/fserver
+projects[ireq_site][location] = http://features.humanitarianresponse.info/fserver
