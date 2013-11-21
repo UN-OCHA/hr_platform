@@ -4,7 +4,7 @@ includes[common] = "common.make"
 
 includes[hr] = "hr.make"
 
-includes[crf] = "crf.make"
+includes[ireq] = "ireq.make"
 
 includes[access] = "access.make"
 
