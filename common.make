@@ -442,6 +442,7 @@ projects[views_data_export][subdir] = "contrib"
 projects[views_field_view][type] = "module"
 projects[views_field_view][subdir] = "contrib"
 projects[views_pivot][type] = "module"
+projects[views_pivot][version] = 1.x-dev
 projects[views_pivot][subdir] = "contrib"
 projects[views_pdf][type] = "module"
 projects[views_pdf][version] = 1.x-dev
