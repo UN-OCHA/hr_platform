@@ -329,6 +329,8 @@ projects[phone][download][url] = "http://git.drupal.org/project/phone.git"
 projects[phone][download][branch] = "7.x-2.x"
 projects[phone][patch][] = "http://drupal.org/files/phone-teltel-prefix-1973274-2.patch"
 projects[phone][patch][] = "http://drupal.org/files/2060301-phone_raw-1.patch"
+projects[phone][patch][] = "http://drupal.org/files/issues/updated_library-2134987-1.patch"
+projects[phone][patch][] = "http://drupal.org/files/issues/satellite_phones-2144551-1.patch"
 projects[phone][subdir] = "contrib"
 projects[picture][type] = "module"
 projects[picture][patch][] = "http://drupal.org/files/1859192-media_module-17.patch"
@@ -510,7 +512,7 @@ libraries[openlayers][download][url] = "http://www.openlayers.org/download/OpenL
 
 libraries[libphonenumber-for-php][type] = "libraries"
 libraries[libphonenumber-for-php][download][type] = "file"
-libraries[libphonenumber-for-php][download][url] = "https://github.com/chipperstudios/libphonenumber-for-php/archive/master.zip"
+libraries[libphonenumber-for-php][download][url] = "https://github.com/giggsey/libphonenumber-for-php/archive/master.zip"
 
 libraries[mailchimp][type] = "libraries"
 libraries[mailchimp][download][type] = "file"
