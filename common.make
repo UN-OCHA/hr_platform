@@ -21,7 +21,7 @@ api = 2
   
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
 projects[drupal][version] = 7
-projects[drupal][patch][] = "http://drupal.org/files/1763068-remove-po-13.patch"
+projects[drupal][patch][] = "https://drupal.org/files/issues/d7_1763068_remove-po_16.patch"
 projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-1336212-23.patch"
 
   
@@ -318,7 +318,6 @@ projects[pathauto][subdir] = "contrib"
 projects[pathologic][type] = "module"
 projects[pathologic][subdir] = "contrib"
 projects[path_alias_xt][type] = "module"
-projects[path_alias_xt][patch][] = "http://drupal.org/files/context_integration-1457348-3.patch"
 projects[path_alias_xt][subdir] = "contrib"
 projects[pdf_to_imagefield][type] = "module"
 projects[pdf_to_imagefield][version] = 3.1
@@ -336,7 +335,6 @@ projects[phone][patch][] = "http://drupal.org/files/issues/updated_library-21349
 projects[phone][patch][] = "http://drupal.org/files/issues/satellite_phones-2144551-1.patch"
 projects[phone][subdir] = "contrib"
 projects[picture][type] = "module"
-projects[picture][patch][] = "http://drupal.org/files/1859192-media_module-17.patch"
 projects[picture][subdir] = "contrib"
 projects[piwik][type] = "module"
 projects[piwik][patch][] = "http://drupal.org/files/1271780-piwik-remove-http-check-2.patch"
@@ -420,9 +418,8 @@ projects[unique_field][type] = "module"
 projects[unique_field][subdir] = "contrib"
 projects[uuid][type] = "module"
 projects[uuid][version] = 1.x-dev
-projects[uuid][patch][] = "http://drupal.org/files/uuid-menu_links-1.patch"
 projects[uuid][patch][] = "http://drupal.org/files/1628456-module_name-1.patch"
-projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-1594230-4.patch"
+projects[uuid][patch][] = "http://public.viguierjust.com/uuid-has_taxonomy_term-1594230-5.patch"
 projects[uuid][patch][] = "http://drupal.org/files/1800730-1-uuid-feeds-mapper.patch"
 projects[uuid][patch][] = "http://drupal.org/files/taxonomy_dependency-1999730-1.patch"
 projects[uuid][subdir] = "contrib"
