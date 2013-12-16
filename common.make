@@ -119,6 +119,8 @@ projects[empty_fields][subdir] = "contrib"
 projects[empty_front_page][type] = "module"
 projects[empty_front_page][subdir] = "contrib"
 projects[entity][type] = "module"
+projects[entity][version] = 1.x-dev
+; see https://drupal.org/node/2104245 and https://drupal.org/node/2104461
 projects[entity][subdir] = "contrib"
 projects[entityconnect][type] = "module"
 projects[entityconnect][version] = 1.x-dev
