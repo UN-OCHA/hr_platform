@@ -367,6 +367,8 @@ projects[print][subdir] = "contrib"
 projects[proj4js][type] = "module"
 projects[proj4js][subdir] = "contrib"
 projects[private][type] = "module"
+projects[private][version] = 1.x-dev
+; see https://drupal.org/node/1811316
 projects[private][subdir] = "contrib"
 projects[realname][type] = "module"
 projects[realname][subdir] = "contrib"
