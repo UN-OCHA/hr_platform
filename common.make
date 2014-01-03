@@ -329,6 +329,7 @@ projects[pdf_to_imagefield][version] = 3.1
 projects[pdf_to_imagefield][patch][] = "http://drupal.org/files/1925192-drupal_720-2.patch"
 projects[pdf_to_imagefield][subdir] = "contrib"
 projects[persona][type] = "module"
+projects[persona][patch][] = "http://drupal.org/files/issues/2166475-persona_profile2-1.patch"
 projects[persona][subdir] = "contrib"
 projects[phone][type] = "module"
 projects[phone][download][type] = "git"
