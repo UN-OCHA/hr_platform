@@ -370,6 +370,7 @@ projects[print][subdir] = "contrib"
 projects[proj4js][type] = "module"
 projects[proj4js][subdir] = "contrib"
 projects[private][type] = "module"
+projects[private][patch][] = "https://drupal.org/files/issues/private-move_checkout_from_pub_opts-1811316-6.patch"
 projects[private][version] = 1.x-dev
 ; see https://drupal.org/node/1811316
 projects[private][subdir] = "contrib"
