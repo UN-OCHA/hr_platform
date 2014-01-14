@@ -42,18 +42,6 @@ projects[acc_constraints][download][url] = "https://github.com/hraccess/acc_cons
 projects[acc_constraints][download][branch] = "master"
 projects[acc_constraints][subdir] = "access"
 
-projects[acc_temp_const][type] = "module"
-projects[acc_temp_const][download][type] = "git"
-projects[acc_temp_const][download][url] = "https://github.com/hraccess/acc_temp_const.git"
-projects[acc_temp_const][download][branch] = "master"
-projects[acc_temp_const][subdir] = "access"
-
-projects[acc_action_taken][type] = "module"
-projects[acc_action_taken][download][type] = "git"
-projects[acc_action_taken][download][url] = "https://github.com/hraccess/acc_action_taken.git"
-projects[acc_action_taken][download][branch] = "master"
-projects[acc_action_taken][subdir] = "access"
-
 projects[acc_policy][type] = "module"
 projects[acc_policy][download][type] = "git"
 projects[acc_policy][download][url] = "https://github.com/hraccess/acc_policy.git"
@@ -65,18 +53,6 @@ projects[acc_organizations][download][type] = "git"
 projects[acc_organizations][download][url] = "https://github.com/hraccess/acc_organizations.git"
 projects[acc_organizations][download][branch] = "master"
 projects[acc_organizations][subdir] = "access"
-
-projects[acc_type_proc][type] = "module"
-projects[acc_type_proc][download][type] = "git"
-projects[acc_type_proc][download][url] = "https://github.com/hraccess/acc_type_proc.git"
-projects[acc_type_proc][download][branch] = "master"
-projects[acc_type_proc][subdir] = "access"
-
-projects[acc_admin_req][type] = "module"
-projects[acc_admin_req][download][type] = "git"
-projects[acc_admin_req][download][url] = "https://github.com/hraccess/acc_admin_req.git"
-projects[acc_admin_req][download][branch] = "master"
-projects[acc_admin_req][subdir] = "access"
 
 projects[acc_units][type] = "module"
 projects[acc_units][download][type] = "git"
