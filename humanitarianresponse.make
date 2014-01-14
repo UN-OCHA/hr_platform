@@ -9,3 +9,4 @@ includes[ireq] = "ireq.make"
 includes[access] = "access.make"
 
 projects[message_library][location] = http://features.humanitarianresponse.info/fserver
+projects[message_library][type] = module
