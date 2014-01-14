@@ -2,30 +2,30 @@
 ; ------------
 ; Each makefile should begin by declaring the core version of Drupal that all
 ; projects should be compatible with.
-  
+
 core = 7.x
-  
+
 ; API version
 ; ------------
 ; Every makefile needs to declare its Drush Make API version. This version of
 ; drush make uses API version `2`.
-  
+
 api = 2
-  
+
 ; Core project
 ; ------------
 ; In order for your makefile to generate a full Drupal site, you must include
 ; a core project. This is usually Drupal core, but you can also specify
 ; alternative core projects like Pressflow. Note that makefiles included with
 ; install profiles *should not* include a core project.
-  
+
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
-projects[drupal][version] = 7
+projects[drupal][version] = 7.25
 projects[drupal][patch][] = "https://drupal.org/files/issues/d7_1763068_remove-po_16.patch"
 projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-1336212-23.patch"
 
-  
-  
+
+
 ; Modules
 ; --------
 projects[addressfield][type] = "module"
@@ -42,6 +42,7 @@ projects[bean][type] = "module"
 projects[bean][subdir] = "contrib"
 projects[beanslide][type] = "module"
 projects[beanslide][subdir] = "contrib"
+projects[beanslide][version] = "1.0-alpha3"
 projects[bean_boxes][type] = "module"
 projects[bean_boxes][download][type] = "git"
 projects[bean_boxes][download][url] = "https://github.com/skwashd/bean_boxes.git"
@@ -502,8 +503,9 @@ libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-fo
 libraries[superfish][download][branch] = "master"
 
 libraries[plupload][type] = "libraries"
-libraries[plupload][download][type] = "file"
-libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_6.zip"
+libraries[plupload][download][type] = "git"
+libraries[plupload][download][url] = "https://github.com/moxiecode/plupload.git"
+libraries[plupload][download][tag] = "1.5.6"
 
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "git"
@@ -536,8 +538,9 @@ libraries[chosen][download][type] = "file"
 libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/1.0.0/chosen_v1.0.0.zip"
 
 libraries[tcpdf][type] = "libraries"
-libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_052.zip"
+libraries[tcpdf][download][type] = "git"
+libraries[tcpdf][download][url] = "https://github.com/tcpdf-clone/tcpdf.git"
+libraries[tcpdf][download][tag] = "6.0.052"
 
 libraries[fpdi][type] = "libraries"
 libraries[fpdi][download][type] = "file"
