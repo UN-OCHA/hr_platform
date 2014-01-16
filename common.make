@@ -120,16 +120,12 @@ projects[empty_fields][subdir] = "contrib"
 projects[empty_front_page][type] = "module"
 projects[empty_front_page][subdir] = "contrib"
 projects[entity][type] = "module"
-projects[entity][version] = 1.x-dev
-; see https://drupal.org/node/2104245 and https://drupal.org/node/2104461
 projects[entity][subdir] = "contrib"
 projects[entityconnect][type] = "module"
 projects[entityconnect][version] = 1.x-dev
 projects[entityconnect][patch][] = "http://drupal.org/files/entityconnect-preg_match_warning-1844712.patch"
 projects[entityconnect][subdir] = "contrib"
 projects[entityreference][type] = "module"
-projects[entityreference][version] = 1.x-dev
-; see https://drupal.org/node/1616680
 projects[entityreference][subdir] = "contrib"
 projects[entityreference_view_widget][type] = "module"
 projects[entityreference_view_widget][version] = 1.x-dev
