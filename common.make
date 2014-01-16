@@ -303,6 +303,8 @@ projects[menu_token][type] = "module"
 projects[menu_token][subdir] = "contrib"
 projects[menu_trail_by_path][type] = "module"
 projects[menu_trail_by_path][subdir] = "contrib"
+projects[multiform][type] = "module"
+projects[multiform][subdir] = "contrib"
 projects[nodequeue][type] = module
 projects[nodequeue][download][type] = git
 projects[nodequeue][download][url] = http://git.drupal.org/project/nodequeue.git
@@ -502,9 +504,8 @@ libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-fo
 libraries[superfish][download][branch] = "master"
 
 libraries[plupload][type] = "libraries"
-libraries[plupload][download][type] = "git"
-libraries[plupload][download][url] = "https://github.com/moxiecode/plupload.git"
-libraries[plupload][download][tag] = "1.5.6"
+libraries[plupload][download][type] = "file"
+libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v2.1.1.zip"
 
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "git"
