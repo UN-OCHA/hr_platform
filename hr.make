@@ -200,10 +200,6 @@ projects[hr_incidents][location] = http://features.humanitarianresponse.info/fse
 projects[hr_incidents][subdir] = "hr"
 projects[hr_incidents][type] = "module"
 
-projects[hr_keywords][location] = http://features.humanitarianresponse.info/fserver
-projects[hr_keywords][subdir] = "hr"
-projects[hr_keywords][type] = "module"
-
 projects[hr_geographic_level][location] = http://features.humanitarianresponse.info/fserver
 projects[hr_geographic_level][subdir] = "hr"
 projects[hr_geographic_level][type] = "module"

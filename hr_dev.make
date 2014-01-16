@@ -304,12 +304,6 @@ projects[hr_incidents][download][url] = "https://github.com/humanitarianresponse
 projects[hr_incidents][download][branch] = "master"
 projects[hr_incidents][subdir] = "hr"
 
-projects[hr_keywords][type] = "module"
-projects[hr_keywords][download][type] = "git"
-projects[hr_keywords][download][url] = "https://github.com/humanitarianresponse/hr_keywords.git"
-projects[hr_keywords][download][branch] = "master"
-projects[hr_keywords][subdir] = "hr"
-
 projects[hr_geographic_level][type] = "module"
 projects[hr_geographic_level][download][type] = "git"
 projects[hr_geographic_level][download][url] = "https://github.com/humanitarianresponse/hr_geographic_level.git"
@@ -369,12 +363,6 @@ projects[hr_iframe][download][type] = "git"
 projects[hr_iframe][download][url] = "https://github.com/humanitarianresponse/hr_iframe.git"
 projects[hr_iframe][download][branch] = "master"
 projects[hr_iframe][subdir] = "hr"
-
-projects[hr_search_map][type] = "module"
-projects[hr_search_map][download][type] = "git"
-projects[hr_search_map][download][url] = "https://github.com/humanitarianresponse/hr_search_map.git"
-projects[hr_search_map][download][branch] = "master"
-projects[hr_search_map][subdir] = "hr"
 
 projects[hr_population_types][type] = "module"
 projects[hr_population_types][download][type] = "git"
