@@ -20,7 +20,7 @@ api = 2
 ; install profiles *should not* include a core project.
 
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
-projects[drupal][version] = 7.25
+projects[drupal][version] = 7
 projects[drupal][patch][] = "https://drupal.org/files/issues/d7_1763068_remove-po_16.patch"
 projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-1336212-23.patch"
 
@@ -42,7 +42,6 @@ projects[bean][type] = "module"
 projects[bean][subdir] = "contrib"
 projects[beanslide][type] = "module"
 projects[beanslide][subdir] = "contrib"
-projects[beanslide][version] = "1.0-alpha3"
 projects[bean_boxes][type] = "module"
 projects[bean_boxes][download][type] = "git"
 projects[bean_boxes][download][url] = "https://github.com/skwashd/bean_boxes.git"
