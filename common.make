@@ -506,7 +506,7 @@ libraries[superfish][download][branch] = "master"
 
 libraries[plupload][type] = "libraries"
 libraries[plupload][download][type] = "file"
-libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v2.1.1.zip"
+libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v1.5.8.zip"
 
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "git"
