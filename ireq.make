@@ -12,15 +12,3 @@ projects[ireq_users][location] = http://features.humanitarianresponse.info/fserv
 projects[ireq_users][subdir] = "ireq"
 projects[ireq_users][type] = module
 
-projects[ireq_devel][location] = http://features.humanitarianresponse.info/fserver
-projects[ireq_devel][subdir] = "ireq"
-projects[ireq_devel][type] = module
-
-projects[ireq_external][location] = http://features.humanitarianresponse.info/fserver
-projects[ireq_external][subdir] = "ireq"
-projects[ireq_external][type] = module
-
-; Profiles
-; ---------
-projects[ireq_site][location] = http://features.humanitarianresponse.info/fserver
-projects[ireq_site][type] = profile

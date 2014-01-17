@@ -18,12 +18,6 @@ projects[ireq_users][download][url] = "https://github.com/informationrequest/ire
 projects[ireq_users][download][branch] = "7.x-1.x"
 projects[ireq_users][subdir] = "ireq"
 
-projects[ireq_external][type] = "module"
-projects[ireq_external][download][type] = "git"
-projects[ireq_external][download][url] = "https://github.com/informationrequest/ireq_devel.git"
-projects[ireq_external][download][branch] = "7.x-1.x"
-projects[ireq_external][subdir] = "ireq"
-
 projects[ireq_devel][type] = "module"
 projects[ireq_devel][download][type] = "git"
 projects[ireq_devel][download][url] = "https://github.com/informationrequest/ireq_devel.git"
@@ -44,10 +38,3 @@ projects[ftools][type] = "module"
 projects[ftools][subdir] = "contrib"
 projects[module_filter][type] = "module"
 projects[module_filter][subdir] = "contrib"
-
-; Profiles
-; ---------
-projects[ireq_profile][type] = "profile"
-projects[ireq_profile][download][type] = "git"
-projects[ireq_profile][download][url] = "https://github.com/informationrequest/ireq_profile.git"
-projects[ireq_profile][download][branch] = "7.x-1.x"
