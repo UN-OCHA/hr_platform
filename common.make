@@ -20,7 +20,6 @@ api = 2
 ; install profiles *should not* include a core project.
 
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
-projects[drupal][version] = 7
 projects[drupal][patch][] = "https://drupal.org/files/issues/d7_1763068_remove-po_16.patch"
 projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-1336212-23.patch"
 
