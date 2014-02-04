@@ -40,6 +40,18 @@ projects[hr_spaces][download][url] = "https://github.com/humanitarianresponse/hr
 projects[hr_spaces][download][branch] = "7.x-2.x"
 projects[hr_spaces][subdir] = "hr"
 
+projects[hr_layout][type] = "module"
+projects[hr_layout][download][type] = "git"
+projects[hr_layout][download][url] = "https://github.com/humanitarianresponse/hr_layout.git"
+projects[hr_layout][download][branch] = "7.x-2.x"
+projects[hr_layout][subdir] = "hr"
+
+projects[hr_pages][type] = "module"
+projects[hr_pages][download][type] = "git"
+projects[hr_pages][download][url] = "https://github.com/humanitarianresponse/hr_pages.git"
+projects[hr_pages][download][branch] = "7.x-2.x"
+projects[hr_pages][subdir] = "hr"
+
 
 ; Themes
 ; --------
