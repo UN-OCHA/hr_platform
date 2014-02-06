@@ -47,6 +47,8 @@ projects[entityreference_prepopulate][type] = "module"
 projects[entityreference_prepopulate][patch][] = "http://drupal.org/files/issues/2025199-og_context_ignored-4.patch"
 projects[entityreference_prepopulate][subdir] = "contrib"
 projects[entity_translation][type] = "module"
+projects[entity_translation][version] = 1.x-dev
+; Need to use 1.x-dev until > 1.0-beta3 is released
 projects[entity_translation][subdir] = "contrib"
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
