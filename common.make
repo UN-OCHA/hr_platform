@@ -56,6 +56,9 @@ projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
 ; Need to use 1.x-dev until > 1.0-beta3 is released
 projects[entity_translation][subdir] = "contrib"
+projects[facetapi][type] = "module"
+projects[facetapi][patch][] = "http://drupal.org/files/1616518-term_remove_link-24.patch"
+projects[facetapi][subdir] = "contrib"
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
 projects[feeds][type] = "module"
