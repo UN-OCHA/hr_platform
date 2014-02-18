@@ -52,6 +52,59 @@ projects[hr_pages][download][url] = "https://github.com/humanitarianresponse/hr_
 projects[hr_pages][download][branch] = "7.x-2.x"
 projects[hr_pages][subdir] = "hr"
 
+projects[hr_contacts][type] = "module"
+projects[hr_contacts][download][type] = "git"
+projects[hr_contacts][download][url] = "https://github.com/humanitarianresponse/hr_contacts.git"
+projects[hr_contacts][download][branch] = "7.x-2.x"
+projects[hr_contacts][subdir] = "hr"
+
+projects[hr_documents][type] = "module"
+projects[hr_documents][download][type] = "git"
+projects[hr_documents][download][url] = "https://github.com/humanitarianresponse/hr_documents.git"
+projects[hr_documents][download][branch] = "7.x-2.x"
+projects[hr_documents][subdir] = "hr"
+
+projects[hr_emergencies][type] = "module"
+projects[hr_emergencies][download][type] = "git"
+projects[hr_emergencies][download][url] = "https://github.com/humanitarianresponse/hr_emergencies.git"
+projects[hr_emergencies][download][branch] = "7.x-2.x"
+projects[hr_emergencies][subdir] = "hr"
+
+projects[hr_fundings][type] = "module"
+projects[hr_fundings][download][type] = "git"
+projects[hr_fundings][download][url] = "https://github.com/humanitarianresponse/hr_fundings.git"
+projects[hr_fundings][download][branch] = "7.x-2.x"
+projects[hr_fundings][subdir] = "hr"
+
+projects[hr_job_titles][type] = "module"
+projects[hr_job_titles][download][type] = "git"
+projects[hr_job_titles][download][url] = "https://github.com/humanitarianresponse/hr_job_titles.git"
+projects[hr_job_titles][download][branch] = "7.x-2.x"
+projects[hr_job_titles][subdir] = "hr"
+
+projects[hr_offices][type] = "module"
+projects[hr_offices][download][type] = "git"
+projects[hr_offices][download][url] = "https://github.com/humanitarianresponse/hr_offices.git"
+projects[hr_offices][download][branch] = "7.x-2.x"
+projects[hr_offices][subdir] = "hr"
+
+projects[hr_search][type] = "module"
+projects[hr_search][download][type] = "git"
+projects[hr_search][download][url] = "https://github.com/humanitarianresponse/hr_search.git"
+projects[hr_search][download][branch] = "7.x-2.x"
+projects[hr_search][subdir] = "hr"
+
+projects[hr_themes][type] = "module"
+projects[hr_themes][download][type] = "git"
+projects[hr_themes][download][url] = "https://github.com/humanitarianresponse/hr_themes.git"
+projects[hr_themes][download][branch] = "7.x-2.x"
+projects[hr_themes][subdir] = "hr"
+
+projects[hr_users][type] = "module"
+projects[hr_users][download][type] = "git"
+projects[hr_users][download][url] = "https://github.com/humanitarianresponse/hr_users.git"
+projects[hr_users][download][branch] = "7.x-2.x"
+projects[hr_users][subdir] = "hr"
 
 ; Themes
 ; --------
