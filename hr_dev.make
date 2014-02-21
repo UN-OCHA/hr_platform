@@ -64,11 +64,11 @@ projects[hr_documents][download][url] = "https://github.com/humanitarianresponse
 projects[hr_documents][download][branch] = "7.x-2.x"
 projects[hr_documents][subdir] = "hr"
 
-projects[hr_emergencies][type] = "module"
-projects[hr_emergencies][download][type] = "git"
-projects[hr_emergencies][download][url] = "https://github.com/humanitarianresponse/hr_emergencies.git"
-projects[hr_emergencies][download][branch] = "7.x-2.x"
-projects[hr_emergencies][subdir] = "hr"
+projects[hr_disasters][type] = "module"
+projects[hr_disasters][download][type] = "git"
+projects[hr_disasters][download][url] = "https://github.com/humanitarianresponse/hr_disasters.git"
+projects[hr_disasters][download][branch] = "7.x-2.x"
+projects[hr_disasters][subdir] = "hr"
 
 projects[hr_fundings][type] = "module"
 projects[hr_fundings][download][type] = "git"
