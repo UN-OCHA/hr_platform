@@ -95,6 +95,10 @@ projects[field_validation][type] = "module"
 projects[field_validation][subdir] = "contrib"
 projects[file_entity][type] = "module"
 projects[file_entity][subdir] = "contrib"
+projects[flag][type] = "module"
+projects[flag][version] = 3.x-dev
+; Need to use 3.x-dev until 3.4 is released
+projects[flag][subdir] = "contrib"
 projects[hierarchical_select][type] = "module"
 projects[hierarchical_select][subdir] = "contrib"
 projects[hser][type] = "module"
