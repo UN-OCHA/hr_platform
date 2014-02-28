@@ -65,7 +65,6 @@ projects[entityreference_prepopulate][patch][] = "http://drupal.org/files/issues
 projects[entityreference_prepopulate][subdir] = "contrib"
 projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
-projects[entity_translation][patch][] = "https://drupal.org/files/issues/entity_translation-operandtypes-2179183-4.patch"
 ; Need to use 1.x-dev until > 1.0-beta3 is released
 projects[entity_translation][subdir] = "contrib"
 projects[facetapi][type] = "module"
