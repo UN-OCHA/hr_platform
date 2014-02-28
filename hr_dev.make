@@ -106,6 +106,18 @@ projects[hr_users][download][url] = "https://github.com/humanitarianresponse/hr_
 projects[hr_users][download][branch] = "7.x-2.x"
 projects[hr_users][subdir] = "hr"
 
+projects[hr_help][type] = "module"
+projects[hr_help][download][type] = "git"
+projects[hr_help][download][url] = "https://github.com/humanitarianresponse/hr_help.git"
+projects[hr_help][download][branch] = "7.x-2.x"
+projects[hr_help][subdir] = "hr"
+
+projects[hr_notifications][type] = "module"
+projects[hr_notifications][download][type] = "git"
+projects[hr_notifications][download][url] = "https://github.com/humanitarianresponse/hr_notifications.git"
+projects[hr_notifications][download][branch] = "7.x-2.x"
+projects[hr_notifications][subdir] = "hr"
+
 ; Themes
 ; --------
 
