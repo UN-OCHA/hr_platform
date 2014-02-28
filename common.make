@@ -141,6 +141,7 @@ projects[og][patch][] = "https://drupal.org/files/og-Do_not_export_nonexisting_r
 projects[og][subdir] = "contrib"
 projects[og_features][type] = "module"
 projects[og_features][patch][] = "http://drupal.org/files/2019515-og_features-group-permission.patch"
+projects[og_features][patch][] = "https://drupal.org/files/2022253-og-features-undefined-module.patch"
 projects[og_features][subdir] = "contrib"
 projects[og_menu][type] = "module"
 projects[og_menu][subdir] = "contrib"
