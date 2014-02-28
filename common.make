@@ -61,7 +61,6 @@ projects[entityreference][type] = "module"
 projects[entityreference][patch][] = "http://drupal.org/files/issues/entityreference-tokens-as-view-arguments-2010898-19.patch"
 projects[entityreference][subdir] = "contrib"
 projects[entityreference_prepopulate][type] = "module"
-projects[entityreference_prepopulate][patch][] = "http://drupal.org/files/issues/2025199-og_context_ignored-4.patch"
 projects[entityreference_prepopulate][subdir] = "contrib"
 projects[entity_translation][type] = "module"
 projects[entity_translation][version] = 1.x-dev
