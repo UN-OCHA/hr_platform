@@ -223,6 +223,7 @@ projects[views_bulk_operations][type] = "module"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_data_export][type] = "module"
 projects[views_data_export][subdir] = "contrib"
+projects[wysiwyg][patch][] = "https://drupal.org/files/wysiwyg-ajax-error-1757684-13.patch"
 
 ; Themes
 ; --------
