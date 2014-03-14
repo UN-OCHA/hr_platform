@@ -119,6 +119,7 @@ projects[panelizer][patch][] = "http://drupal.org/files/issues/1751426-og_paneli
 projects[panelizer][subdir] = "contrib"
 projects[panels][subdir] = "contrib"
 projects[panels_bootstrap_layouts][subdir] = "contrib"
+projects[panels_bootstrap_layouts][version] = 3.x-dev
 projects[panels_bootstrap_styles][patch][] = "http://drupal.org/files/issues/2128679-panel_tabs_integration-5.patch"
 projects[panels_bootstrap_styles][subdir] = "contrib"
 projects[panopoly_wysiwyg][version] = 1.1
