@@ -118,6 +118,30 @@ projects[hr_notifications][download][url] = "https://github.com/humanitarianresp
 projects[hr_notifications][download][branch] = "7.x-2.x"
 projects[hr_notifications][subdir] = "hr"
 
+projects[hr_events][type] = "module"
+projects[hr_events][download][type] = "git"
+projects[hr_events][download][url] = "https://github.com/humanitarianresponse/hr_events.git"
+projects[hr_events][download][branch] = "7.x-2.x"
+projects[hr_events][subdir] = "hr"
+
+projects[hr_migrate][type] = "module"
+projects[hr_migrate][download][type] = "git"
+projects[hr_migrate][download][url] = "https://github.com/humanitarianresponse/hr_migrate.git"
+projects[hr_migrate][download][branch] = "7.x-2.x"
+projects[hr_migrate][subdir] = "hr"
+
+projects[hr_news][type] = "module"
+projects[hr_news][download][type] = "git"
+projects[hr_news][download][url] = "https://github.com/humanitarianresponse/hr_news.git"
+projects[hr_news][download][branch] = "7.x-2.x"
+projects[hr_news][subdir] = "hr"
+
+projects[hr_tools][type] = "module"
+projects[hr_tools][download][type] = "git"
+projects[hr_tools][download][url] = "https://github.com/humanitarianresponse/hr_tools.git"
+projects[hr_tools][download][branch] = "7.x-2.x"
+projects[hr_tools][subdir] = "hr"
+
 ; Themes
 ; --------
 
