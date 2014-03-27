@@ -144,6 +144,7 @@ projects[phone][patch][] = "http://drupal.org/files/issues/updated_library-21349
 projects[phone][patch][] = "http://drupal.org/files/issues/satellite_phones-2144551-1.patch"
 projects[phone][patch][] = "https://drupal.org/files/issues/2216285-migrate_issue-1.patch"
 projects[phone][subdir] = "contrib"
+projects[piwik][subdir] = "contrib"
 projects[postgis][subdir] = "contrib"
 projects[profile2][patch][] = "https://drupal.org/files/clear_entity_info_cache-2042981-1.patch"
 projects[profile2][patch][] = "https://drupal.org/files/issues/2148375-view_mode-2.patch"
@@ -172,6 +173,7 @@ projects[views][subdir] = "contrib"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_data_export][subdir] = "contrib"
 projects[wysiwyg][patch][] = "https://drupal.org/files/wysiwyg-ajax-error-1757684-13.patch"
+projects[xmlsitemap][subdir] = "contrib"
 
 ; Themes
 ; --------
