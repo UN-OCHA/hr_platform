@@ -95,6 +95,7 @@ projects[link_icons_formatter][type] = "module"
 projects[link_icons_formatter][download][type] = "git"
 projects[link_icons_formatter][download][url] = "http://git.drupal.org/sandbox/bobik/1914102.git"
 projects[link_icons_formatter][subdir] = "contrib"
+projects[masquerade][subdir] = "contrib"
 projects[media][version] = 2.0-alpha3
 projects[media][subdir] = "contrib"
 projects[media_vimeo][subdir] = "contrib"
@@ -206,3 +207,7 @@ libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com
 libraries[mailchimp][type] = "libraries"
 libraries[mailchimp][download][type] = "file"
 libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
+
+libraries[openlayers][type] = "libraries"
+libraries[openlayers][download][type] = "file"
+libraries[openlayers][download][url] = "http://openlayers.org/download/OpenLayers-2.13.1.zip"
