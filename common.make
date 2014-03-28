@@ -180,6 +180,7 @@ projects[xmlsitemap][subdir] = "contrib"
 ; --------
 projects[radix][type] = "theme"
 projects[radix][version] = 3.x-dev
+projects[radix][patch][] = "https://drupal.org/files/issues/2190325-radix-modal-8.patch"
 
 ; Libraries
 ; ---------
