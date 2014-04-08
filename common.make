@@ -179,6 +179,7 @@ projects[views][patch][] = "https://drupal.org/files/views-1511396-110-array_dif
 projects[views][subdir] = "contrib"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_data_export][subdir] = "contrib"
+projects[views_geojson][subdir] = "contrib"
 projects[wysiwyg][patch][] = "https://drupal.org/files/wysiwyg-ajax-error-1757684-13.patch"
 projects[xmlsitemap][subdir] = "contrib"
 
