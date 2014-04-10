@@ -142,6 +142,12 @@ projects[hr_tools][download][url] = "https://github.com/humanitarianresponse/hr_
 projects[hr_tools][download][branch] = "7.x-2.x"
 projects[hr_tools][subdir] = "hr"
 
+projects[hr_indicators][type] = "module"
+projects[hr_indicators][download][type] = "git"
+projects[hr_indicators][download][url] = "https://github.com/humanitarianresponse/hr_indicators.git"
+projects[hr_indicators][download][branch] = "7.x-2.x"
+projects[hr_indicators][subdir] = "hr"
+
 ; Themes
 ; --------
 
