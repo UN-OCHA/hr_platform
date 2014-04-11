@@ -121,6 +121,7 @@ projects[og_features][patch][] = "https://drupal.org/files/2022253-og-features-u
 projects[og_features][subdir] = "contrib"
 projects[og_menu][subdir] = "contrib"
 projects[og_menu_single][subdir] = "contrib"
+projects[og_moderation][subdir] = "contrib"
 projects[og_role_delegate][subdir] = "contrib"
 projects[openlayers][subdir] = "contrib"
 projects[openlayers][patch][] = "https://drupal.org/files/issues/2233349-preload_option-1.patch"
