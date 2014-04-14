@@ -158,6 +158,7 @@ projects[profile2][patch][] = "https://drupal.org/files/clear_entity_info_cache-
 projects[profile2][patch][] = "https://drupal.org/files/issues/2148375-view_mode-2.patch"
 projects[profile2][subdir] = "contrib"
 projects[proj4js][subdir] = "contrib"
+projects[radix_layouts][subdir] = "contrib"
 projects[realname][subdir] = "contrib"
 projects[redirect][subdir] = "contrib"
 projects[role_export][subdir] = "contrib"
