@@ -95,6 +95,8 @@ projects[languagefield][patch][] = "https://drupal.org/files/issues/languagefiel
 projects[libraries][subdir] = "contrib"
 projects[link][subdir] = "contrib"
 projects[linkchecker][subdir] = "contrib"
+projects[linkchecker][version] = 1.x-dev
+; Wait until 1.2 is released
 projects[link_icons_formatter][type] = "module"
 projects[link_icons_formatter][download][type] = "git"
 projects[link_icons_formatter][download][url] = "http://git.drupal.org/sandbox/bobik/1914102.git"
