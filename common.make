@@ -108,6 +108,7 @@ projects[link_icons_formatter][subdir] = "contrib"
 projects[masquerade][subdir] = "contrib"
 projects[media][version] = 2.x-dev
 projects[media][subdir] = "contrib"
+projects[media_vimeo][patch][] = "https://drupal.org/files/issues/2248793-remove_iframe-1.patch"
 projects[media_vimeo][subdir] = "contrib"
 projects[media_youtube][subdir] = "contrib"
 projects[mefibs][patch][] = "https://drupal.org/files/issues/2204603-exposed_sorts-2.patch"
