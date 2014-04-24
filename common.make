@@ -32,6 +32,8 @@ projects[auto_entitylabel][subdir] = "contrib"
 projects[better_exposed_filters][patch][] = "https://drupal.org/files/issues/better_exposed_filters-fix_exposed_block_link_path-2179169-1.patch"
 projects[better_exposed_filters][subdir] = "contrib"
 projects[bootstrap_tour][subdir] = "contrib"
+projects[caption_filter][version] = 1.x-dev
+projects[caption_filter][subdir] = contrib
 projects[chosen][subdir] = "contrib"
 projects[conditional_fields][subdir] = "contrib"
 projects[context][subdir] = "contrib"
@@ -87,6 +89,7 @@ projects[honeypot][subdir] = "contrib"
 projects[hser][subdir] = "contrib"
 projects[imagemagick][subdir] = "contrib"
 projects[imagemagick][patch][] = "https://drupal.org/files/issues/2247345-use_watchdog-1.patch"
+projects[image_resize_filter][subdir] = "contrib"
 projects[inline_entity_form][subdir] = "contrib"
 projects[job_scheduler][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
@@ -97,6 +100,7 @@ projects[link][subdir] = "contrib"
 projects[linkchecker][subdir] = "contrib"
 projects[linkchecker][version] = 1.x-dev
 ; Wait until 1.2 is released
+projects[linkit][sudbdir] = "contrib"
 projects[link_icons_formatter][type] = "module"
 projects[link_icons_formatter][download][type] = "git"
 projects[link_icons_formatter][download][url] = "http://git.drupal.org/sandbox/bobik/1914102.git"
@@ -137,8 +141,6 @@ projects[panels_bootstrap_layouts][subdir] = "contrib"
 projects[panels_bootstrap_layouts][version] = 3.x-dev
 projects[panels_bootstrap_styles][patch][] = "http://drupal.org/files/issues/2128679-panel_tabs_integration-5.patch"
 projects[panels_bootstrap_styles][subdir] = "contrib"
-projects[panopoly_wysiwyg][version] = 1.1
-projects[panopoly_wysiwyg][subdir] = contrib
 projects[pathauto][subdir] = "contrib"
 projects[path_alias_xt][subdir] = "contrib"
 projects[pdfpreview][patch][] = "https://drupal.org/files/issues/pdfpreview-optiona_fallback_to_default-2178625-1.patch"
@@ -188,7 +190,9 @@ projects[views][subdir] = "contrib"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_data_export][subdir] = "contrib"
 projects[views_geojson][subdir] = "contrib"
-projects[wysiwyg][patch][] = "https://drupal.org/files/wysiwyg-ajax-error-1757684-13.patch"
+projects[wysiwyg][version] = 2.x-dev
+projects[wysiwyg][subdir] = "contrib"
+projects[wysiwyg_filter][subdir] = "contrib"
 projects[xmlsitemap][subdir] = "contrib"
 
 ; Themes
@@ -227,3 +231,12 @@ libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/download
 libraries[openlayers][type] = "libraries"
 libraries[openlayers][download][type] = "file"
 libraries[openlayers][download][url] = "http://openlayers.org/download/OpenLayers-2.13.1.zip"
+
+libraries[ckeditor][type] = "libraries"
+libraries[ckeditor][download][type] = "file"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.5/ckeditor_4.3.5_full.zip"
+
+libraries[markitup][download][type] = get
+libraries[markitup][download][url] = https://github.com/markitup/1.x/tarball/master
+libraries[markitup][patch][1715642] = http://drupal.org/files/1715642-adding-html-set-markitup-editor.patch
+

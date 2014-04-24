@@ -148,6 +148,12 @@ projects[hr_indicators][download][url] = "https://github.com/humanitarianrespons
 projects[hr_indicators][download][branch] = "7.x-2.x"
 projects[hr_indicators][subdir] = "hr"
 
+projects[hr_wysiwyg][type] = "module"
+projects[hr_wysiwyg][download][type] = "git"
+projects[hr_wysiwyg][download][url] = "https://github.com/humanitarianresponse/hr_wysiwyg.git"
+projects[hr_wysiwyg][download][branch] = "7.x-2.x"
+projects[hr_wysiwyg][subdir] = "hr"
+
 ; Themes
 ; --------
 
