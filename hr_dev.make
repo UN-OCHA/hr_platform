@@ -154,6 +154,18 @@ projects[hr_wysiwyg][download][url] = "https://github.com/humanitarianresponse/h
 projects[hr_wysiwyg][download][branch] = "7.x-2.x"
 projects[hr_wysiwyg][subdir] = "hr"
 
+projects[hr_webforms][type] = "module"
+projects[hr_webforms][download][type] = "git"
+projects[hr_webforms][download][url] = "https://github.com/humanitarianresponse/hr_webforms.git"
+projects[hr_webforms][download][branch] = "7.x-2.x"
+projects[hr_webforms][subdir] = "hr"
+
+projects[hr_datasets][type] = "module"
+projects[hr_datasets][download][type] = "git"
+projects[hr_datasets][download][url] = "https://github.com/humanitarianresponse/hr_datasets.git"
+projects[hr_datasets][download][branch] = "7.x-2.x"
+projects[hr_datasets][subdir] = "hr"
+
 ; Themes
 ; --------
 
