@@ -194,6 +194,7 @@ projects[views][subdir] = "contrib"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_data_export][subdir] = "contrib"
 projects[views_geojson][subdir] = "contrib"
+projects[webform][subdir] = "contrib"
 projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg_filter][subdir] = "contrib"
