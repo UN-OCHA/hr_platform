@@ -256,3 +256,10 @@ libraries[markitup][download][type] = get
 libraries[markitup][download][url] = https://github.com/markitup/1.x/tarball/master
 libraries[markitup][patch][1715642] = http://drupal.org/files/1715642-adding-html-set-markitup-editor.patch
 
+libraries[fpdi][type] = "libraries"
+libraries[fpdi][download][type] = "file"
+libraries[fpdi][download][url] = "http://www.setasign.com/supra/kon2_dl/76967/FPDI-1.5.1.zip"
+
+libraries[tcpdf][type] = "libraries"
+libraries[tcpdf][download][type] = "file"
+libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_078.zip"
