@@ -204,6 +204,7 @@ projects[views][patch][] = "https://drupal.org/files/views-exposed-sorts-2037469
 projects[views][patch][] = "https://drupal.org/files/views-1511396-110-array_diff_recursive.patch"
 projects[views][subdir] = "contrib"
 projects[views_bulk_operations][subdir] = "contrib"
+projects[views_data_export][patch][] = "https://drupal.org/files/views_data_export-set_utf8_bom-1701018-3.patch"
 projects[views_data_export][subdir] = "contrib"
 projects[views_geojson][subdir] = "contrib"
 projects[views_pdf][version] = 1.x-dev
