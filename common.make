@@ -216,6 +216,7 @@ projects[views_geojson][subdir] = "contrib"
 projects[views_pdf][version] = 1.x-dev
 projects[views_pdf][patch][] = "https://drupal.org/files/issues/2270233-table_header-1.patch"
 projects[views_pdf][subdir] = "contrib"
+projects[visualization][subdir] = "contrib"
 projects[webform][subdir] = "contrib"
 projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][subdir] = "contrib"
@@ -274,3 +275,7 @@ libraries[fpdi][download][url] = "http://www.setasign.com/supra/kon2_dl/76967/FP
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
 libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_078.zip"
+
+libraries[highcharts][type] = "libraries"
+libraries[highcharts][download][type] = "file"
+libraries[highcharts][download][url] = "http://code.highcharts.com/zips/Highcharts-4.0.1.zip"
