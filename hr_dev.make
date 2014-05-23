@@ -172,6 +172,12 @@ projects[hr_bookmarks][download][url] = "https://github.com/humanitarianresponse
 projects[hr_bookmarks][download][branch] = "7.x-2.x"
 projects[hr_bookmarks][subdir] = "hr"
 
+projects[hr_infographics][type] = "module"
+projects[hr_infographics][download][type] = "git"
+projects[hr_infographics][download][url] = "https://github.com/humanitarianresponse/hr_infographics.git"
+projects[hr_infographics][download][branch] = "7.x-2.x"
+projects[hr_infographics][subdir] = "hr"
+
 ; Themes
 ; --------
 
