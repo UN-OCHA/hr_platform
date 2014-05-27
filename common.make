@@ -113,6 +113,7 @@ projects[link_icons_formatter][type] = "module"
 projects[link_icons_formatter][download][type] = "git"
 projects[link_icons_formatter][download][url] = "http://git.drupal.org/sandbox/bobik/1914102.git"
 projects[link_icons_formatter][subdir] = "contrib"
+projects[l10n_update][subdir] = "contrib"
 projects[masquerade][subdir] = "contrib"
 projects[media][version] = 2.x-dev
 projects[media][subdir] = "contrib"
