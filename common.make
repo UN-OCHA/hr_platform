@@ -109,6 +109,7 @@ projects[link][subdir] = "contrib"
 projects[linkchecker][subdir] = "contrib"
 projects[linkchecker][version] = 1.x-dev
 ; Wait until 1.2 is released
+projects[linkit][version] = 2.6
 projects[linkit][sudbdir] = "contrib"
 projects[link_icons_formatter][type] = "module"
 projects[link_icons_formatter][download][type] = "git"
