@@ -135,6 +135,7 @@ projects[og][patch][] = "http://drupal.org/files/issues/2193713-og_get_groups_by
 projects[og][patch][] = "https://drupal.org/files/issues/2195269-og_features_role-8.patch"
 projects[og][patch][] = "https://drupal.org/files/og-Do_not_export_nonexisting_roles-2021673-1.patch"
 projects[og][patch][] = "https://drupal.org/files/issues/2134365-og-is-group-remove-5.patch"
+projects[og][patch][] = "https://drupal.org/files/issues/2264759-group_reference_token-15.patch"
 projects[og][subdir] = "contrib"
 projects[og_features][patch][] = "http://drupal.org/files/2019515-og_features-group-permission.patch"
 projects[og_features][patch][] = "https://drupal.org/files/2022253-og-features-undefined-module.patch"
