@@ -29,6 +29,8 @@ projects[drupal][patch][] = "https://drupal.org/files/1003788-76-D7-entity_load-
 ; --------
 projects[addressfield][subdir] = "contrib"
 projects[auto_entitylabel][subdir] = "contrib"
+projects[bean][subdir] = "contrib"
+projects[bean_pane][subdir] = "contrib"
 projects[better_exposed_filters][patch][] = "https://drupal.org/files/issues/better_exposed_filters-fix_exposed_block_link_path-2179169-1.patch"
 projects[better_exposed_filters][patch][] = "https://drupal.org/files/issues/2255713-bef_toggle_links-1.patch"
 projects[better_exposed_filters][subdir] = "contrib"
@@ -85,6 +87,7 @@ projects[file_entity][subdir] = "contrib"
 projects[flag][version] = 3.x-dev
 ; Need to use 3.x-dev until 3.4 is released
 projects[flag][subdir] = "contrib"
+projects[fts][subdir] = "contrib"
 projects[fullcalendar][patch][] = "https://drupal.org/files/issues/1956472-search_api_support-3.patch"
 projects[fullcalendar][subdir] = "contrib"
 projects[geofield][patch][] = "https://drupal.org/files/2122177-feeds_integration-1.patch"
