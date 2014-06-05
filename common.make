@@ -220,6 +220,7 @@ projects[views_geojson][subdir] = "contrib"
 projects[views_pdf][version] = 1.x-dev
 projects[views_pdf][patch][] = "https://drupal.org/files/issues/2270233-table_header-1.patch"
 projects[views_pdf][subdir] = "contrib"
+projects[visualization][patch][] = "https://drupal.org/files/issues/2280337-highcharts_bar-1.patch"
 projects[visualization][subdir] = "contrib"
 projects[webform][subdir] = "contrib"
 projects[wysiwyg][version] = 2.x-dev
