@@ -91,8 +91,6 @@ projects[flag][version] = 3.x-dev
 ; Need to use 3.x-dev until 3.4 is released
 projects[flag][subdir] = "contrib"
 projects[fts][subdir] = "contrib"
-projects[fullcalendar][patch][] = "https://drupal.org/files/issues/1956472-search_api_support-3.patch"
-projects[fullcalendar][subdir] = "contrib"
 projects[geofield][patch][] = "https://drupal.org/files/2122177-feeds_integration-1.patch"
 projects[geofield][subdir] = "contrib"
 projects[geofield_postgis][type] = "module"
