@@ -61,6 +61,7 @@ projects[entity][subdir] = "contrib"
 projects[entityreference][patch][] = "http://drupal.org/files/issues/entityreference-tokens-as-view-arguments-2010898-19.patch"
 projects[entityreference][patch][] = "https://drupal.org/files/issues/2243255-entityreference_trim_whitespaces-2.patch"
 projects[entityreference][subdir] = "contrib"
+projects[entityreference_filter][subdir] = "contrib"
 projects[entityreference_prepopulate][subdir] = "contrib"
 projects[entity_translation][version] = 1.x-dev
 ; Need to use 1.x-dev until > 1.0-beta3 is released
