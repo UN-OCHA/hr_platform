@@ -93,6 +93,7 @@ projects[flag][version] = 3.x-dev
 projects[flag][subdir] = "contrib"
 projects[fts][subdir] = "contrib"
 projects[geofield][patch][] = "https://drupal.org/files/2122177-feeds_integration-1.patch"
+projects[geofield][patch][] = "https://drupal.org/files/issues/geofield-wkb-exception-1924206-11.patch"
 projects[geofield][subdir] = "contrib"
 projects[geofield_postgis][type] = "module"
 projects[geofield_postgis][download][type] = "git"
