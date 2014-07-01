@@ -184,6 +184,13 @@ projects[hr_assessments][download][url] = "https://github.com/humanitarianrespon
 projects[hr_assessments][download][branch] = "7.x-2.x"
 projects[hr_assessments][subdir] = "hr"
 
+projects[hr_translations][type] = "module"
+projects[hr_translations][download][type] = "git"
+projects[hr_translations][download][url] = "https://github.com/humanitarianresponse/hr_translations.git"
+projects[hr_translations][download][branch] = "7.x-2.x"
+projects[hr_translations][subdir] = "hr"
+
+
 ; Themes
 ; --------
 
