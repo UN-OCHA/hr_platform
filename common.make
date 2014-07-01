@@ -28,6 +28,7 @@ projects[drupal][patch][] = "https://drupal.org/files/1003788-76-D7-entity_load-
 ; Modules
 ; --------
 projects[addressfield][subdir] = "contrib"
+projects[admin_views][subdir] = "contrib"
 projects[auto_entitylabel][subdir] = "contrib"
 projects[bean][subdir] = "contrib"
 projects[bean_pane][subdir] = "contrib"
