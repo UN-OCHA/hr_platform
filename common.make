@@ -140,6 +140,7 @@ projects[migrate][subdir] = "contrib"
 projects[migrate_d2d][subdir] = "contrib"
 projects[migrate_extras][subdir] = "contrib"
 projects[mollom][subdir] = "contrib"
+projects[multisite_redirect][subdir] = "contrib"
 projects[og][patch][] = "http://drupal.org/files/issues/2190107-og_node_create_links_multiple-1.patch"
 projects[og][patch][] = "http://drupal.org/files/issues/2193713-og_get_groups_by_user-1.patch"
 projects[og][patch][] = "https://drupal.org/files/issues/2195269-og_features_role-8.patch"
@@ -232,6 +233,8 @@ projects[views_bulk_operations][subdir] = "contrib"
 projects[views_data_export][patch][] = "https://drupal.org/files/views_data_export-set_utf8_bom-1701018-3.patch"
 projects[views_data_export][patch][] = "https://drupal.org/files/issues/link-access-1985960-6.patch"
 projects[views_data_export][subdir] = "contrib"
+projects[views_geojson][version] = 1.x-dev
+; Until > 1.0-alpha2 is released
 projects[views_geojson][subdir] = "contrib"
 projects[views_pdf][version] = 1.x-dev
 projects[views_pdf][patch][] = "https://drupal.org/files/issues/2270233-table_header-1.patch"
