@@ -220,6 +220,7 @@ projects[tmgmt][patch][] = "https://www.drupal.org/files/issues/2270487-postgres
 projects[tmgmt][subdir] = "contrib"
 projects[token][subdir] = "contrib"
 projects[token_filter][subdir] = "contrib"
+projects[twitter_pane][type] = "module"
 projects[twitter_pane][download][type] = "git"
 projects[twitter_pane][download][url] = "http://git.drupal.org/sandbox/jaykali/2260089.git"
 projects[twitter_pane][download][branch] = "7.x-1.x"
