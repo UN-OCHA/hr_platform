@@ -133,7 +133,7 @@ projects[media_vimeo][subdir] = "contrib"
 projects[media_youtube][patch][] = "https://drupal.org/files/issues/provide-access-wrapper-1823376-6.patch"
 projects[media_youtube][patch][] = "https://drupal.org/files/issues/2072327-remove_search_tab-4.patch"
 projects[media_youtube][subdir] = "contrib"
-projecst[mefibs][subdir] = "contrib"
+projects[mefibs][subdir] = "contrib"
 projects[migrate][patch][] = "https://drupal.org/files/issues/saveHighwater_node_migration_postgresql.patch"
 ; Issue https://drupal.org/node/2184641
 projects[migrate][subdir] = "contrib"
