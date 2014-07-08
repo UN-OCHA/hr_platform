@@ -89,8 +89,6 @@ projects[field_collection][patch][] = "https://drupal.org/files/issues/field_col
 projects[field_collection][subdir] = "contrib"
 projects[field_validation][subdir] = "contrib"
 projects[file_entity][subdir] = "contrib"
-projects[flag][version] = 3.x-dev
-; Need to use 3.x-dev until 3.4 is released
 projects[flag][subdir] = "contrib"
 projects[fts][subdir] = "contrib"
 projects[geofield][patch][] = "https://drupal.org/files/2122177-feeds_integration-1.patch"
@@ -116,9 +114,7 @@ projects[languagefield][patch][] = "https://drupal.org/files/issues/2217385-lang
 projects[libraries][subdir] = "contrib"
 projects[link][subdir] = "contrib"
 projects[linkchecker][subdir] = "contrib"
-projects[linkchecker][version] = 1.x-dev
-; Wait until 1.2 is released
-projects[linkit][version] = 2.6
+projects[linkit][version] = 7.x-2.6
 projects[linkit][sudbdir] = "contrib"
 projects[link_icons_formatter][type] = "module"
 projects[link_icons_formatter][download][type] = "git"
