@@ -115,7 +115,7 @@ projects[languagefield][patch][] = "https://drupal.org/files/issues/2217385-lang
 projects[libraries][subdir] = "contrib"
 projects[link][subdir] = "contrib"
 projects[linkchecker][subdir] = "contrib"
-projects[linkit][version] = 7.x-2.6
+projects[linkit][version] = 2.6
 projects[linkit][sudbdir] = "contrib"
 projects[link_icons_formatter][type] = "module"
 projects[link_icons_formatter][download][type] = "git"
@@ -248,7 +248,7 @@ projects[xmlsitemap][subdir] = "contrib"
 ; Themes
 ; --------
 projects[radix][type] = "theme"
-projects[radix][version] = 7.x-3.0-alpha4
+projects[radix][version] = 3.0-alpha4
 ; Keep alpha4 until stable version is released
 projects[radix][patch][] = "https://drupal.org/files/issues/2190325-radix-modal-8.patch"
 
