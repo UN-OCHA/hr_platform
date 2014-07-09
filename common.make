@@ -248,6 +248,8 @@ projects[xmlsitemap][subdir] = "contrib"
 ; Themes
 ; --------
 projects[radix][type] = "theme"
+projects[radix][version] = 7.x-3.0-alpha4
+; Keep alpha4 until stable version is released
 projects[radix][patch][] = "https://drupal.org/files/issues/2190325-radix-modal-8.patch"
 
 ; Libraries
