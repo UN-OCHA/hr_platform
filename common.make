@@ -68,7 +68,6 @@ projects[entity_translation][version] = 1.x-dev
 ; Need to use 1.x-dev until > 1.0-beta3 is released
 projects[entity_translation][subdir] = "contrib"
 projects[facetapi][patch][] = "http://drupal.org/files/1616518-term_remove_link-24.patch"
-projects[facetapi][patch][] = "https://drupal.org/files/issues/2205489-search_path_token-1.patch"
 projects[facetapi][subdir] = "contrib"
 projects[facetapi_pretty_paths][subdir] = "contrib"
 projects[features][subdir] = "contrib"
@@ -260,10 +259,6 @@ libraries[chosen][type] = "libraries"
 libraries[chosen][download][type] = "file"
 libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/1.0.0/chosen_v1.0.0.zip"
 
-libraries[fullcalendar][type] = "libraries"
-libraries[fullcalendar][download][type] = "file"
-libraries[fullcalendar][download][url] = "https://github.com/arshaw/fullcalendar/releases/download/v1.6.4/fullcalendar-1.6.4.zip"
-
 libraries[iCalcreator][type] = "libraries"
 libraries[iCalcreator][download][type] = "file"
 libraries[iCalcreator][download][url] = "https://github.com/iCalcreator/iCalcreator/archive/master.zip"
@@ -298,7 +293,7 @@ libraries[fpdi][download][url] = "http://www.setasign.com/supra/kon2_dl/76967/FP
 
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_087.zip"
+libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_090.zip"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
