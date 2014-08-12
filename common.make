@@ -166,12 +166,9 @@ projects[panels_bootstrap_styles][patch][] = "https://drupal.org/files/issues/21
 projects[panels_bootstrap_styles][subdir] = "contrib"
 projects[pathauto][subdir] = "contrib"
 projects[path_alias_xt][subdir] = "contrib"
-projects[pdfpreview][patch][] = "https://drupal.org/files/issues/pdfpreview-optiona_fallback_to_default-2178625-1.patch"
-projects[pdfpreview][patch][] = "https://drupal.org/files/issues/pdfpreview-file_entity_compatibility-2157659-5.patch"
-projects[pdfpreview][patch][] = "https://drupal.org/files/issues/2194557-undefined_nid-1.patch"
-projects[pdfpreview][patch][] = "https://drupal.org/files/pdfpreview-black.patch"
-; Issue https://drupal.org/node/1707176
 projects[pdfpreview][subdir] = "contrib"
+projects[pdfpreview][version] = 2.x-dev
+; Use dev version until > 7.x-2.1 has been released
 projects[phone][download][type] = "git"
 projects[phone][download][url] = "http://git.drupal.org/project/phone.git"
 projects[phone][download][branch] = "7.x-2.x"
