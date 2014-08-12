@@ -105,6 +105,7 @@ projects[i18n][patch][] = "https://www.drupal.org/files/issues/i18n_string-22275
 projects[i18n][subdir] = "contrib"
 projects[imagemagick][subdir] = "contrib"
 projects[imagemagick][patch][] = "https://drupal.org/files/issues/2247345-use_watchdog-1.patch"
+projects[imagemagick][patch][] = "https://www.drupal.org/files/issues/imagemagick-support_remote_files-1695068-7.patch"
 projects[image_resize_filter][subdir] = "contrib"
 projects[inline_entity_form][subdir] = "contrib"
 projects[job_scheduler][subdir] = "contrib"
