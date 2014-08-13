@@ -195,7 +195,6 @@ projects[search_api][patch][] = "http://drupal.org/files/1895686-cannot_remove_f
 projects[search_api][patch][] = "http://drupal.org/files/1818572-2.patch"
 projects[search_api][patch][] = "https://drupal.org/files/issues/search_api-view_unpublished-support-1617794-17.patch"
 projects[search_api][subdir] = "contrib"
-projects[search_api_autocomplete][subdir] = "contrib"
 projects[search_api_saved_searches][subdir] = "contrib"
 projects[search_api_solr][subdir] = "contrib"
 projects[shs][patch][] = "https://drupal.org/files/issues/shs-support_chosen_v1%2B-2084019-12.patch"
