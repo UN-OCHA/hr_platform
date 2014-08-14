@@ -33,9 +33,6 @@ projects[advagg][subdir] = "contrib"
 projects[auto_entitylabel][subdir] = "contrib"
 projects[bean][subdir] = "contrib"
 projects[bean_pane][subdir] = "contrib"
-projects[better_exposed_filters][patch][] = "https://drupal.org/files/issues/better_exposed_filters-fix_exposed_block_link_path-2179169-1.patch"
-projects[better_exposed_filters][patch][] = "https://drupal.org/files/issues/2255713-bef_toggle_links-1.patch"
-projects[better_exposed_filters][subdir] = "contrib"
 projects[bootstrap_tour][subdir] = "contrib"
 projects[calendar][patch][] = "https://drupal.org/files/issues/calendar-illegal_offset-1471400-78.patch"
 projects[calendar][subdir] = "contrib"
@@ -239,6 +236,7 @@ projects[webform][subdir] = "contrib"
 projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg_filter][subdir] = "contrib"
+projects[xhprof][subdir] = "contrib"
 projects[xmlsitemap][subdir] = "contrib"
 
 ; Themes
