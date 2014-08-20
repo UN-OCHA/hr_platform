@@ -143,6 +143,7 @@ projects[og][patch][] = "https://drupal.org/files/issues/2264759-group_reference
 projects[og][subdir] = "contrib"
 projects[og_features][patch][] = "http://drupal.org/files/2019515-og_features-group-permission.patch"
 projects[og_features][patch][] = "https://drupal.org/files/2022253-og-features-undefined-module.patch"
+projects[og_features][patch][] = "https://www.drupal.org/files/issues/2324545-undefined_index-1.patch"
 projects[og_features][subdir] = "contrib"
 projects[og_menu][subdir] = "contrib"
 projects[og_menu_single][subdir] = "contrib"
