@@ -165,6 +165,7 @@ projects[panels_bootstrap_styles][subdir] = "contrib"
 projects[pathauto][subdir] = "contrib"
 projects[path_alias_xt][subdir] = "contrib"
 projects[pdfpreview][subdir] = "contrib"
+projects[pdfpreview][patch][] = "https://www.drupal.org/files/issues/1707176-alpha_remove-29.patch"
 projects[pdfpreview][version] = 2.x-dev
 ; Use dev version until > 7.x-2.1 has been released
 projects[phone][download][type] = "git"
