@@ -147,6 +147,7 @@ projects[og_features][patch][] = "https://drupal.org/files/2022253-og-features-u
 projects[og_features][patch][] = "https://www.drupal.org/files/issues/2324545-undefined_index-1.patch"
 projects[og_features][subdir] = "contrib"
 projects[og_menu][subdir] = "contrib"
+projects[og_menu_single][patch][] = "https://www.drupal.org/files/issues/2327739-og_menu_single_localize-1.patch"
 projects[og_menu_single][subdir] = "contrib"
 projects[og_moderation][subdir] = "contrib"
 projects[og_role_delegate][subdir] = "contrib"
