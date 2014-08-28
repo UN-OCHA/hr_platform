@@ -122,6 +122,7 @@ projects[link_icons_formatter][subdir] = "contrib"
 projects[l10n_update][subdir] = "contrib"
 projects[masquerade][subdir] = "contrib"
 projects[media][version] = 2.x-dev
+projects[media][patch][] = "https://www.drupal.org/files/issues/media-init_options_variable-2284861-1.patch"
 projects[media][subdir] = "contrib"
 projects[media_vimeo][patch][] = "https://drupal.org/files/issues/2248793-remove_iframe-1.patch"
 projects[media_vimeo][subdir] = "contrib"
