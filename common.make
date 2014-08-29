@@ -47,6 +47,7 @@ projects[context_og][patch][] = "https://drupal.org/files/context_og-2065373-con
 projects[cors][subdir] = "contrib"
 projects[ctools][subdir] = "contrib"
 projects[date][patch][] = "https://drupal.org/files/issues/2280551-date_migrate-1.patch"
+projects[date][patch][] = "https://www.drupal.org/files/issues/date-timezone-db-998076-48.patch"
 projects[date][subdir] = "contrib"
 projects[date_ical][subdir] = "contrib"
 projects[defaultconfig][subdir] = "contrib"
