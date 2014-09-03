@@ -190,8 +190,9 @@ projects[phone][patch][] = "http://drupal.org/files/issues/satellite_phones-2144
 projects[phone][patch][] = "https://drupal.org/files/issues/2216285-migrate_issue-1.patch"
 projects[phone][subdir] = "contrib"
 projects[piwik][subdir] = "contrib"
-projects[profile2][patch][] = "https://drupal.org/files/clear_entity_info_cache-2042981-1.patch"
 projects[profile2][patch][] = "https://drupal.org/files/issues/2148375-view_mode-2.patch"
+projects[profile2][version] = 1.x-dev
+; Use dev version until > 7.x-1.3 has been released
 projects[profile2][subdir] = "contrib"
 projects[proj4js][subdir] = "contrib"
 projects[publishcontent][subdir] = "contrib"
