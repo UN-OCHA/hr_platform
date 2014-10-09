@@ -257,6 +257,26 @@ projects[wysiwyg_filter][subdir] = "contrib"
 projects[xhprof][subdir] = "contrib"
 projects[xmlsitemap][subdir] = "contrib"
 
+projects[connector][version] = 1.0-beta2
+projects[connector][subdir] = "contrib"
+projects[chr][version] = 1.6
+projects[chr][subdir] = "contrib"
+projects[http_client][version] = 2.4
+projects[http_client][subdir] = "contrib"
+projects[oauth][version] = 3.2
+projects[oauth][subdir] = "contrib"
+projects[oauthconnector][version] = 1.0-beta2
+projects[oauthconnector][subdir] = "contrib"
+projects[restclient][version] = 2.0-beta3
+projects[restclient][subdir] = "contrib"
+
+projects[oauthconnector][patch][] = "http://drupal.org/files/issues/oauthconnector-2176907-4-authorized_access.patch"
+
+; in progress patch to add OpenID Connect support
+; original: https://gist.github.com/arithmetric/242b7ae3966d32cb2a16
+projects[oauthconnector][patch][] = "http://gist.githubusercontent.com/arithmetric/242b7ae3966d32cb2a16/raw/88d559136d79ea8470c4742ee6d1b74aedeaba75/oauthconnector-openid_connect.patch"
+
+
 ; Themes
 ; --------
 projects[radix][type] = "theme"
