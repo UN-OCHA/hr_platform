@@ -43,7 +43,7 @@ projects[hr_spaces][subdir] = "hr"
 projects[hr_layout][type] = "module"
 projects[hr_layout][download][type] = "git"
 projects[hr_layout][download][url] = "https://github.com/humanitarianresponse/hr_layout.git"
-projects[hr_layout][download][branch] = "7.x-2.x"
+projects[hr_layout][download][branch] = "feature/contactsid"
 projects[hr_layout][subdir] = "hr"
 
 projects[hr_pages][type] = "module"
