@@ -197,5 +197,5 @@ projects[hr_translations][subdir] = "hr"
 projects[humanitarianresponse][type] = "theme"
 projects[humanitarianresponse][download][type] = "git"
 projects[humanitarianresponse][download][url] = "https://github.com/humanitarianresponse/theme.git"
-projects[humanitarianresponse][download][branch] = "7.x-2.x"
+projects[humanitarianresponse][download][branch] = "feature/contactsid"
 
