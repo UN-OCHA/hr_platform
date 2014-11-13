@@ -153,7 +153,6 @@ projects[og_features][patch][] = "https://drupal.org/files/2022253-og-features-u
 projects[og_features][patch][] = "https://www.drupal.org/files/issues/2324545-undefined_index-1.patch"
 projects[og_features][subdir] = "contrib"
 projects[og_menu][subdir] = "contrib"
-projects[og_menu_single][patch][] = "https://www.drupal.org/files/issues/2327739-og_menu_single_localize-1.patch"
 projects[og_menu_single][subdir] = "contrib"
 projects[og_moderation][subdir] = "contrib"
 projects[og_role_delegate][subdir] = "contrib"
@@ -243,7 +242,6 @@ projects[views_geojson][version] = 1.x-dev
 ; Until > 1.0-alpha2 is released
 projects[views_geojson][subdir] = "contrib"
 projects[views_pdf][version] = 1.x-dev
-projects[views_pdf][patch][] = "https://drupal.org/files/issues/2270233-table_header-1.patch"
 projects[views_pdf][subdir] = "contrib"
 projects[visualization][patch][] = "https://drupal.org/files/issues/2280337-highcharts_bar-1.patch"
 projects[visualization][subdir] = "contrib"
@@ -302,7 +300,7 @@ libraries[fpdi][download][url] = "http://www.setasign.com/supra/kon2_dl/76967/FP
 
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_097.zip"
+libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_098.zip"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
