@@ -260,16 +260,17 @@ projects[http_client][version] = 2.4
 projects[http_client][subdir] = "contrib"
 projects[oauth][version] = 3.2
 projects[oauth][subdir] = "contrib"
-projects[oauthconnector][version] = 1.0-beta2
+projects[oauthconnector][patch][] = "http://drupal.org/files/issues/oauthconnector-2176907-4-authorized_access.patch"
+projects[oauthconnector][patch][] = "http://drupal.org/files/issues/oauthconnector-2374353-1-id_token_validation.patch"
 projects[oauthconnector][subdir] = "contrib"
 projects[restclient][version] = 2.0-beta3
 projects[restclient][subdir] = "contrib"
 
-projects[oauthconnector][patch][] = "http://drupal.org/files/issues/oauthconnector-2176907-4-authorized_access.patch"
-
-; in progress patch to add OpenID Connect support
-; original: https://gist.github.com/arithmetric/242b7ae3966d32cb2a16
-projects[oauthconnector][patch][] = "http://gist.githubusercontent.com/arithmetric/242b7ae3966d32cb2a16/raw/88d559136d79ea8470c4742ee6d1b74aedeaba75/oauthconnector-openid_connect.patch"
+projects[hid_auth][type] = "module"
+projects[hid_auth][download][type] = "git"
+projects[hid_auth][download][url] = "https://github.com/humanitarianresponse/hid_auth.git"
+projects[hid_auth][download][branch] = "7.x-1.x"
+projects[hid_auth][subdir] = "contrib"
 
 
 ; Themes
@@ -325,3 +326,7 @@ libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpd
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
 libraries[highcharts][download][url] = "http://code.highcharts.com/zips/Highcharts-4.0.1.zip"
+
+libraries[php-jwt][type] = "libraries"
+libraries[php-jwt][download][type] = "file"
+libraries[php-jwt][download][url] = "https://github.com/firebase/php-jwt/archive/v1.0.0.zip"
