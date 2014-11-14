@@ -168,6 +168,7 @@ projects[openlayers][patch][] = "https://drupal.org/files/issues/2233349-preload
 projects[openlayers][patch][] = "https://drupal.org/files/issues/2244997-grouping_field-8.patch"
 projects[panelizer][patch][] = "http://drupal.org/files/issues/1751426-og_panelizer-8.patch"
 projects[panelizer][patch][] = "https://drupal.org/files/issues/panelizer-ipe-integration-fix-2199859-02.patch"
+projects[panelizer][patch][] = "https://www.drupal.org/files/issues/panelizer-n2218275-4.patch"
 projects[panelizer][subdir] = "contrib"
 projects[panels][subdir] = "contrib"
 projects[panels_bootstrap_layouts][subdir] = "contrib"
