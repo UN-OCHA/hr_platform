@@ -254,6 +254,8 @@ projects[views][subdir] = "contrib"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_content_cache][subdir] = "contrib"
 projects[views_data_export][patch][] = "https://drupal.org/files/views_data_export-set_utf8_bom-1701018-3.patch"
+projects[views_data_export][patch][] = "https://www.drupal.org/files/views_data_export-solr_export-1258390-13.patch"
+projects[views_data_export][patch][] = "https://www.drupal.org/files/issues/change_data_to_blob-1238586-8282021_0.patch"
 projects[views_data_export][subdir] = "contrib"
 projects[views_geojson][version] = 1.x-dev
 ; Until > 1.0-alpha2 is released
