@@ -315,7 +315,7 @@ libraries[fpdi][download][url] = "http://www.setasign.com/supra/kon2_dl/76967/FP
 
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "https://github.com/tcpdf-clone/tcpdf/archive/6.0.091.zip"
+libraries[tcpdf][download][url] = "https://github.com/tcpdf-clone/tcpdf/archive/6.0.099.zip"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
