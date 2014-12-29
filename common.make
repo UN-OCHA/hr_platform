@@ -133,7 +133,6 @@ projects[media_vimeo][subdir] = "contrib"
 projects[media_youtube][patch][] = "https://drupal.org/files/issues/provide-access-wrapper-1823376-6.patch"
 projects[media_youtube][patch][] = "https://drupal.org/files/issues/2072327-remove_search_tab-4.patch"
 projects[media_youtube][subdir] = "contrib"
-projects[migrate][patch][] = "https://drupal.org/files/issues/saveHighwater_node_migration_postgresql.patch"
 ; Issue https://drupal.org/node/2184641
 projects[migrate][subdir] = "contrib"
 projects[migrate_d2d][subdir] = "contrib"
@@ -300,7 +299,7 @@ libraries[fpdi][download][url] = "http://www.setasign.com/supra/kon2_dl/76967/FP
 
 libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_098.zip"
+libraries[tcpdf][download][url] = "https://github.com/tcpdf-clone/tcpdf/archive/6.0.091.zip"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
