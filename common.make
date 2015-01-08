@@ -116,7 +116,6 @@ projects[inline_entity_form][subdir] = "contrib"
 projects[job_scheduler][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
 projects[languagefield][subdir] = "contrib"
-projects[languagefield][patch][] = "https://drupal.org/files/issues/2217385-languagefield_migrate_handler-3.patch"
 projects[libraries][subdir] = "contrib"
 projects[link][subdir] = "contrib"
 projects[linkchecker][subdir] = "contrib"
@@ -129,7 +128,6 @@ projects[link_icons_formatter][subdir] = "contrib"
 projects[l10n_update][subdir] = "contrib"
 projects[masquerade][subdir] = "contrib"
 projects[media][version] = 2.x-dev
-projects[media][patch][] = "https://www.drupal.org/files/issues/media-init_options_variable-2284861-1.patch"
 projects[media][subdir] = "contrib"
 projects[media_vimeo][patch][] = "https://drupal.org/files/issues/2248793-remove_iframe-1.patch"
 projects[media_vimeo][subdir] = "contrib"
@@ -137,7 +135,6 @@ projects[media_youtube][patch][] = "https://drupal.org/files/issues/provide-acce
 projects[media_youtube][patch][] = "https://drupal.org/files/issues/2072327-remove_search_tab-4.patch"
 projects[media_youtube][subdir] = "contrib"
 projects[memcache][subdir] = "contrib"
-projects[migrate][patch][] = "https://drupal.org/files/issues/saveHighwater_node_migration_postgresql.patch"
 ; Issue https://drupal.org/node/2184641
 projects[migrate][subdir] = "contrib"
 projects[migrate_d2d][subdir] = "contrib"
@@ -254,12 +251,11 @@ projects[views][subdir] = "contrib"
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_content_cache][subdir] = "contrib"
 projects[views_data_export][patch][] = "https://drupal.org/files/views_data_export-set_utf8_bom-1701018-3.patch"
-projects[views_data_export][patch][] = "https://www.drupal.org/files/views_data_export-solr_export-1258390-13.patch"
-projects[views_data_export][patch][] = "https://www.drupal.org/files/issues/change_data_to_blob-1238586-8282021_0.patch"
 projects[views_data_export][subdir] = "contrib"
 projects[views_geojson][version] = 1.x-dev
 ; Until > 1.0-alpha2 is released
 projects[views_geojson][subdir] = "contrib"
+projects[views_pdf][version] = 1.x-dev
 projects[views_pdf][subdir] = "contrib"
 projects[visualization][patch][] = "https://drupal.org/files/issues/2280337-highcharts_bar-1.patch"
 projects[visualization][subdir] = "contrib"
@@ -302,7 +298,7 @@ libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/download
 
 libraries[openlayers][type] = "libraries"
 libraries[openlayers][download][type] = "file"
-libraries[openlayers][download][url] = "http://github.com/openlayers/openlayers/releases/download/release-2.13.1/OpenLayers-2.13.1.zip"
+libraries[openlayers][download][url] = "http://github.com/openlayers/openlayers/releases/download/release-2.13.1/OpenLayers-2.13.1.tar.gz"
 
 libraries[ckeditor][type] = "libraries"
 libraries[ckeditor][download][type] = "file"
@@ -316,9 +312,9 @@ libraries[fpdi][type] = "libraries"
 libraries[fpdi][download][type] = "file"
 libraries[fpdi][download][url] = "http://www.setasign.com/supra/kon2_dl/76967/FPDI-1.5.1.zip"
 
-libraries[tcpdf][type] = "libraries"
+libraries[tcpdf][type] = "libraries"
 libraries[tcpdf][download][type] = "file"
-libraries[tcpdf][download][url] = "http://downloads.sourceforge.net/project/tcpdf/tcpdf_6_0_099.zip"
+libraries[tcpdf][download][url] = "https://github.com/tcpdf-clone/tcpdf/archive/6.0.099.zip"
 
 libraries[highcharts][type] = "libraries"
 libraries[highcharts][download][type] = "file"
