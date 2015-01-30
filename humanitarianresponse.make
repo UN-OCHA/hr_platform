@@ -2,8 +2,8 @@
 
 includes[common] = "common.make"
 
-includes[hr] = "hr_dev.make"
+includes[hr] = "hr.make"
 
-includes[access] = "access_dev.make"
+includes[access] = "access.make"
 
 includes[hid] = "hid.make"
