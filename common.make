@@ -65,8 +65,6 @@ projects[entityreference][subdir] = "contrib"
 projects[entityreference_autocomplete][subdir] = "contrib"
 projects[entityreference_filter][subdir] = "contrib"
 projects[entityreference_prepopulate][subdir] = "contrib"
-projects[entity_translation][version] = 1.x-dev
-; Need to use 1.x-dev until > 1.0-beta3 is released
 projects[entity_translation][subdir] = "contrib"
 projects[facetapi][patch][] = "http://drupal.org/files/1616518-term_remove_link-24.patch"
 projects[facetapi][subdir] = "contrib"
@@ -268,8 +266,6 @@ projects[views_content_cache][subdir] = "contrib"
 projects[views_data_export][patch][] = "https://drupal.org/files/views_data_export-set_utf8_bom-1701018-3.patch"
 projects[views_data_export][patch][] = "https://www.drupal.org/files/views_data_export-solr_export-1258390-13.patch"
 projects[views_data_export][subdir] = "contrib"
-projects[views_geojson][version] = 1.x-dev
-; Until > 1.0-alpha2 is released
 projects[views_geojson][subdir] = "contrib"
 projects[views_pdf][subdir] = "contrib"
 projects[visualization][patch][] = "https://drupal.org/files/issues/2280337-highcharts_bar-1.patch"
