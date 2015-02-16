@@ -1,5 +1,11 @@
 ; Access Specific
 
+projects[acc_applications][type] = "module"
+projects[acc_applications][download][type] = "git"
+projects[acc_applications][download][url] = "https://github.com/hraccess/acc_applications.git"
+projects[acc_applications][download][branch] = "7.x-2.x"
+projects[acc_applications][subdir] = "access"
+
 projects[acc_incidents][type] = "module"
 projects[acc_incidents][download][type] = "git"
 projects[acc_incidents][download][url] = "https://github.com/hraccess/acc_incidents.git"
