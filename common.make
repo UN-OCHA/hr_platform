@@ -30,6 +30,8 @@ projects[drupal][patch][] = "https://drupal.org/files/1003788-76-D7-entity_load-
 projects[addressfield][subdir] = "contrib"
 projects[admin_views][subdir] = "contrib"
 projects[advagg][subdir] = "contrib"
+; see https://www.drupal.org/node/2411259
+projects[auto_entitylabel][patch][] = "https://www.drupal.org/files/issues/auto_entitylabel-weightfix.patch"
 projects[auto_entitylabel][subdir] = "contrib"
 projects[bean][subdir] = "contrib"
 projects[bean_pane][subdir] = "contrib"
@@ -301,7 +303,7 @@ libraries[iCalcreator][download][url] = "https://github.com/iCalcreator/iCalcrea
 
 libraries[libphonenumber-for-php][type] = "libraries"
 libraries[libphonenumber-for-php][download][type] = "file"
-libraries[libphonenumber-for-php][download][url] = "https://github.com/giggsey/libphonenumber-for-php/archive/master.zip"
+libraries[libphonenumber-for-php][download][url] = "https://github.com/giggsey/libphonenumber-for-php/archive/7.0.2.zip"
 
 libraries[SolrPhpClient][type] = "libraries"
 libraries[SolrPhpClient][download][type] = "file"
