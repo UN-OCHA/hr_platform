@@ -94,6 +94,7 @@ projects[field_collection][patch][] = "https://drupal.org/files/issues/field_col
 projects[field_collection][subdir] = "contrib"
 projects[field_permissions][subdir] = "contrib"
 projects[field_validation][subdir] = "contrib"
+projects[file_entity][patch][] = "https://www.drupal.org/files/issues/Fix_file_entity_file_download-2351691-1.patch"
 projects[file_entity][subdir] = "contrib"
 projects[flag][subdir] = "contrib"
 projects[fts][subdir] = "contrib"
