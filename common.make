@@ -22,7 +22,7 @@ api = 2
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
 projects[drupal][patch][] = "https://drupal.org/files/undefined_index_file_ajax-1336212-23.patch"
 projects[drupal][patch][] = "https://drupal.org/files/1003788-76-D7-entity_load-sanity-check-any-integer_do-not-test.patch"
-
+projects[drupal][patch][] = "https://www.drupal.org/files/issues/2420275-1.patch"
 
 
 ; Modules
