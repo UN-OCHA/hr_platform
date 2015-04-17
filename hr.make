@@ -202,6 +202,12 @@ projects[hr_api][download][url] = "https://github.com/humanitarianresponse/hr_ap
 projects[hr_api][download][branch] = "7.x-2.x"
 projects[hr_api][subdir] = "hr"
 
+projects[hr_discussions][type] = "module"
+projects[hr_discussions][download][type] = "git"
+projects[hr_discussions][download][url] = "https://github.com/humanitarianresponse/hr_discussions.git"
+projects[hr_discussions][download][branch] = "7.x-2.x"
+projects[hr_discussions][subdir] = "hr"
+
 ; Themes
 ; --------
 
