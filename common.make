@@ -179,6 +179,8 @@ projects[og_moderation][patch][] = "https://www.drupal.org/files/issues/2287527_
 projects[og_role_delegate][subdir] = "contrib"
 projects[og_variables][subdir] = "contrib"
 projects[openlayers][subdir] = "contrib"
+projects[openlayers][version] = 2.x-dev
+; Wait until 3.0 stabilizes before upgrading to 3.0
 projects[panelizer][patch][] = "http://drupal.org/files/issues/1751426-og_panelizer-8.patch"
 projects[panelizer][patch][] = "https://drupal.org/files/issues/panelizer-ipe-integration-fix-2199859-02.patch"
 projects[panelizer][patch][] = "https://www.drupal.org/files/issues/panelizer-n2218275-4.patch"
