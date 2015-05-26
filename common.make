@@ -62,6 +62,8 @@ projects[defaultconfig][subdir] = "contrib"
 projects[diff][subdir] = "contrib"
 projects[display_cache][patch][] = "https://www.drupal.org/files/issues/2328355-display_cache_html_only-1.patch"
 projects[display_cache][subdir] = "contrib"
+; Use dev version until 1.1 is released
+projects[display_cache][version] = 1.x-dev
 projects[email][subdir] = "contrib"
 projects[email_registration][subdir] = "contrib"
 projects[entity][subdir] = "contrib"
